@@ -1,4 +1,1803 @@
 TY  - JOUR
+AB  - KIC 9406652 is a remarkable variable star in the Kepler field of view that shows both very rapid oscillations and long term outbursts in its light curve. We present an analysis of the light curve over quarters 1-15 and new spectroscopy that indicates that the object is a cataclysmic variable with an orbital period of 6.108 hr. However, an even stronger signal appears in the light curve periodogram for a shorter period of 5.753 hr, and we argue that this corresponds to the modulation of flux from the hot spot region in a tilted, precessing disk surrounding the white dwarf star. We present a preliminary orbital solution from radial velocity measurements of features from the accretion disk and the photosphere of the companion. We use a Doppler tomography algorithm to reconstruct the disk and companion spectra, and we also consider how these components contribute to the object's spectral energy distribution from ultraviolet to infrared wavelengths. This target offers us a remarkable opportunity to investigate disk processes during the high mass transfer stage of evolution in cataclysmic variables.  This work is based in part from the Planethunters.org Guest Observer program.
+AU  - Gies, D.~R.
+AU  - Guo, Z.
+AU  - Howell, S.~B.
+AU  - Still, M.~D.
+AU  - Boyajian, T.~S.
+AU  - Hoekstra, A.~J.
+AU  - Jek, K.~J.
+AU  - LaCourse, D.
+AU  - Winarski, T.
+JO  - \apj
+KW  - binaries
+KW  -  spectroscopic
+KW  -  circumstellar matter
+KW  -  novae
+KW  -  cataclysmic variables
+KW  -  stars
+KW  -  individual
+KW  -  KIC 9406652
+Y2  - September
+SP  - 64
+T1  - KIC 9406652: An Unusual Cataclysmic Variable in the Kepler Field of View
+VL  - 775
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - Over the duration of the Kepler mission, KIC 8462852 was observed to undergo irregularly shaped, aperiodic dips in flux down to below the 20% level. The dipping activity can last for between 5 and 80 days. We characterize the object with high-resolution spectroscopy, spectral energy distribution fitting, and Fourier analyses of the Kepler light curve. We determine that KIC 8462852 is a main-sequence F3 V/IV star, with a rotation period ~0.88 d, that exhibits no significant IR excess. In this paper, we describe various scenarios to explain the mysterious events in the Kepler light curve, most of which have problems explaining the data in hand. By considering the observational constraints on dust clumps orbiting a normal main-sequence star, we conclude that the scenario most consistent with the data is the passage of a family of exocomet fragments, all of which are associated with a single previous breakup event. We discuss the necessity of future observations to help interpret the system.
+AU  - Boyajian, T.~S.
+AU  - LaCourse, D.~M.
+AU  - Rappaport, S.~A.
+AU  - Fabrycky, D.
+AU  - Fischer, D.~A.
+AU  - Gandolfi, D.
+AU  - Kennedy, G.~M.
+AU  - Liu, M.~C.
+AU  - Moor, A.
+AU  - Olah, K.
+AU  - Vida, K.
+AU  - Wyatt, M.~C.
+AU  - Best, W.~M.~J.
+AU  - Ciesla, F.
+AU  - Csak, B.
+AU  - Dupuy, T.~J.
+AU  - Handler, G.
+AU  - Heng, K.
+AU  - Korhonen, H.
+AU  - Kovacs, J.
+AU  - Kozakis, T.
+AU  - Kriskovics, L.
+AU  - Schmitt, J.~R.
+AU  - Szabo, G.
+AU  - Szabo, R.
+AU  - Wang, J.
+AU  - Goodman, S.
+AU  - Hoekstra, A.
+AU  - Jek, K.~J.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Solar and Stellar Astrophysics
+KW  -  Astrophysics - Earth and Planetary Astrophysics
+Y2  - September
+T1  - Planet Hunters X. KIC 8462852 - Where's the Flux?
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We investigate the development of scientific content knowledge of volunteers participating in online citizen science projects in the Zooniverse (www.zooniverse.org), including the astronomy projects Galaxy Zoo (www.galaxyzoo.org) and Planet Hunters (www.planethunters.org). We use econometric methods to test how measures of project participation relate to success in a science quiz, controlling for factors known to correlate with scientific knowledge. Citizen scientists believe they are learning about both the content and processes of science through their participation. Won't don't directly test the latter, but we find evidence to support the former - that more actively engaged participants perform better in a project-specific science knowledge quiz, even after controlling for their general science knowledge. We interpret this as evidence of learning of science content inspired by participation in online citizen science.
+AU  - Masters, K.~L.
+AU  - Oh, E.~Y.
+AU  - Cox, J.
+AU  - Simmons, B.
+AU  - Lintott, C.
+AU  - Graham, G.
+AU  - Greenhill, A.
+AU  - Holmes, K.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Instrumentation and Methods for Astrophysics
+KW  -  Computer Science - Computers and Society
+KW  -  Physics - Physics Education
+Y2  - January
+T1  - Science Learning via Participation in Online Citizen Science
+PY  - 2016
+ER  - 
+
+
+TY  - JOUR
+AB  - We describe the data reduction and object cataloging for the GEMS survey, a large-area (800 arcmin2) two-band (F606W and F850LP) imaging survey with the Advanced Camera for Surveys on the Hubble Space Telescope, centered on the Chandra Deep Field-South.
+AU  - Caldwell, J.~A.~R.
+AU  - McIntosh, D.~H.
+AU  - Rix, H.-W.
+AU  - Barden, M.
+AU  - Beckwith, S.~V.~W.
+AU  - Bell, E.~F.
+AU  - Borch, A.
+AU  - Heymans, C.
+AU  - Häußler, B.
+AU  - Jahnke, K.
+AU  - Jogee, S.
+AU  - Meisenheimer, K.
+AU  - Peng, C.~Y.
+AU  - Sánchez, S.~F.
+AU  - Somerville, R.~S.
+AU  - Wisotzki, L.
+AU  - Wolf, C.
+JO  - \apjs
+KW  - Galaxies
+KW  -  Evolution
+KW  -  Galaxies
+KW  -  Structure
+KW  -  Surveys
+Y2  - January
+SP  - 136
+EP  - 144
+T1  - GEMS Survey Data and Catalog
+VL  - 174
+PY  - 2008
+ER  - 
+
+
+TY  - JOUR
+AB  - GEMS (Galaxy Evolution from Morphologies and SEDs) is a large-area (800 arcmin2) two-color (F606W and F850LP) imaging survey with the Advanced Camera for Surveys on the Hubble Space Telescope. Centered on the Chandra Deep Field-South, it covers an area of ~28'×28', or about 120 Hubble Deep Field areas, to a depth of mAB(F606W)=28.3(5sigma) and mAB(F850LP)=27.1(5sigma) for compact sources. In its central ~1/4, GEMS incorporates ACS imaging from the GOODS project. Focusing on the redshift range 0.2<~z<~1.1, GEMS provides morphologies and structural parameters for nearly 10,000 galaxies where redshift estimates, luminosities, and SEDs exist from COMBO-17. At the same time, GEMS contains detectable host galaxy images for several hundred faint active galactic nuclei. This paper provides an overview of the science goals, the experiment design, the data reduction, and the science analysis plan for GEMS.
+AU  - Rix, H.-W.
+AU  - Barden, M.
+AU  - Beckwith, S.~V.~W.
+AU  - Bell, E.~F.
+AU  - Borch, A.
+AU  - Caldwell, J.~A.~R.
+AU  - Häussler, B.
+AU  - Jahnke, K.
+AU  - Jogee, S.
+AU  - McIntosh, D.~H.
+AU  - Meisenheimer, K.
+AU  - Peng, C.~Y.
+AU  - Sanchez, S.~F.
+AU  - Somerville, R.~S.
+AU  - Wisotzki, L.
+AU  - Wolf, C.
+JO  - \apjs
+KW  - Galaxies
+KW  -  Bulges
+KW  -  Galaxies
+KW  -  Evolution
+KW  -  Galaxies
+KW  -  Fundamental Parameters
+KW  -  Galaxies
+KW  -  High-Redshift
+KW  -  Galaxies
+KW  -  Structure
+Y2  - June
+SP  - 163
+EP  - 173
+T1  - GEMS: Galaxy Evolution from Morphologies and SEDs
+VL  - 152
+PY  - 2004
+ER  - 
+
+
+TY  - JOUR
+AU  - White, R.~L.
+AU  - Becker, R.~H.
+AU  - Helfand, D.~J.
+AU  - Gregg, M.~D.
+JO  - \apj
+KW  - Astrometry
+KW  -  Catalogs
+KW  -  Galaxies
+KW  -  Statistics
+KW  -  Galaxies
+KW  -  Quasars
+KW  -  General
+KW  -  Radio Continuum
+KW  -  Galaxies
+KW  -  Surveys
+Y2  - February
+SP  - 479
+EP  - 493
+T1  - A Catalog of 1.4 GHz Radio Sources from the FIRST Survey
+VL  - 475
+PY  - 1997
+ER  - 
+
+
+TY  - JOUR
+AB  - We provide observational and theoretical perspectives on the currently much debated issue of the Fanaroff-Riley (FR) morphological dichotomy of extragalactic radio sources. In this context we introduce a new, albeit rare, class of double radio sources in which the two lobes exhibit clearly different FR morphologies. It is argued that such `HYbrid MOrphology Radio Sources', or HYMORS, could be used to effectively constrain the theoretical mechanisms proposed for the FR dichotomy. Basically, the existence of HYMORS supports explanations for the FR dichotomy based upon jet interaction with the medium external to the central engine, and appears quite difficult to reconcile with the class of explanations that posit fundamental differences in the central engine, such as black hole spin or jet composition, to be responsible for the two FR classes of double radio sources.
+AU  - Gopal-Krishna
+AU  - Wiita, P.~J.
+JO  - \aap
+KW  - BLACK HOLE PHYSICS
+KW  -  GALAXIES
+KW  -  ACTIVE
+KW  -  GALAXIES
+KW  -  ELLIPTICAL AND LENTICULAR
+KW  -  CD
+KW  -  GALAXIES
+KW  -  JETS
+KW  -  GALAXIES
+KW  -  NUCLEI
+KW  -  RADIO CONTINUUM
+KW  -  GALAXIES
+Y2  - November
+SP  - 507
+EP  - 516
+T1  - Extragalactic radio sources with hybrid morphology: implications for the Fanaroff-Riley dichotomy
+VL  - 363
+PY  - 2000
+ER  - 
+
+
+TY  - JOUR
+AB  - <sec id="sec001"> <title>Context</title> <p>The concept of citizen science (CS) is currently referred to by many actors inside and outside science and research. Several descriptions of this purportedly new approach of science are often heard in connection with large datasets and the possibilities of mobilizing crowds outside science to assists with observations and classifications. However, other accounts refer to CS as a way of democratizing science, aiding concerned communities in creating data to influence policy and as a way of promoting political decision processes involving environment and health.</p> </sec> <sec id="sec002"> <title>Objective</title> <p>In this study we analyse two datasets (N = 1935, N = 633) retrieved from the Web of Science (WoS) with the aim of giving a scientometric description of what the concept of CS entails. We account for its development over time, and what strands of research that has adopted CS and give an assessment of what scientific output has been achieved in CS-related projects. To attain this, scientometric methods have been combined with qualitative approaches to render more precise search terms.</p> </sec> <sec id="sec003"> <title>Results</title> <p>Results indicate that there are three main focal points of CS. The largest is composed of research on biology, conservation and ecology, and utilizes CS mainly as a methodology of collecting and classifying data. A second strand of research has emerged through geographic information research, where citizens participate in the collection of geographic data. Thirdly, there is a line of research relating to the social sciences and epidemiology, which studies and facilitates public participation in relation to environmental issues and health. In terms of scientific output, the largest body of articles are to be found in biology and conservation research. In absolute numbers, the amount of publications generated by CS is low (N = 1935), but over the past decade a new and very productive line of CS based on digital platforms has emerged for the collection and classification of data.</p> </sec>
+AU  - Kullenberg, Christopher
+AU  - Kasperowski, Dick
+JO  - PLoS ONE
+Y2  - 01
+IS  - 1
+SP  - e0147152
+PB  - Public Library of Science
+T1  - What Is Citizen Science? -- A Scientometric Meta-Analysis
+UR  - http://dx.doi.org/10.1371%2Fjournal.pone.0147152
+VL  - 11
+PY  - 2016
+ER  - 
+
+
+TY  - GEN
+AU  - Waskom, Michael
+AU  - Botvinnik, Olga
+AU  - Hobson, Paul
+AU  - Warmenhoven, Jordi
+AU  - Cole, John B.
+AU  - Halchenko, Yaroslav
+AU  - Vanderplas, Jake
+AU  - Hoyer, Stephan
+AU  - Villalba, Santi
+AU  - Quintero, Eric
+AU  - Miles, Alistair
+AU  - Augspurger, Tom
+AU  - Yarkoni, Tal
+AU  - Evans, Constantine
+AU  - Wehner, Daniel
+AU  - Rocher, Luc
+AU  - Megies, Tobias
+AU  - Coelho, Luis Pedro
+AU  - Ziegler, Erik
+AU  - Hoppe, Travis
+AU  - Seabold, Skipper
+AU  - Pascual, Sergio
+AU  - Cloud, Phillip
+AU  - Koskinen, Miikka
+AU  - Hausler, Chris
+AU  - kjemmett
+AU  - Milajevs, Dmitrijs
+AU  - Qalieh, Adel
+AU  - Allan, Dan
+AU  - Meyer, Kyle
+Y2  - June
+T1  - seaborn: v0.6.0 (June 2015)
+UR  - http://dx.doi.org/10.5281/zenodo.19108
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AU  - Izotov, Y. I.
+AU  - Orlitová, I.
+AU  - Schaerer, D.
+AU  - Thuan, T. X.
+AU  - Verhamme, A.
+AU  - Guseva, N. G.
+AU  - Worseck, G.
+SN  - 0028-0836
+JO  - Nature
+L3  - 10.1038/nature16456
+M3  - Letter
+Y2  - 01
+IS  - 7585
+SP  - 178
+EP  - -180
+PB  - Nature Publishing Group, a division of Macmillan Publishers Limited. All Rights Reserved.
+T1  - Eight per cent leakage of Lyman continuum photons from a compact, star-forming dwarf galaxy
+TY  - JOUR
+UR  - http://dx.doi.org/10.1038/nature16456
+VL  - 529
+PY  - 2016
+ER  - 
+
+
+TY  - JOUR
+AB  - The SIRTF Wide-Area Infrared Extragalactic Survey (SWIRE), the largest SIRTF Legacy program, is a wide-area imaging survey to trace the evolution of dusty, star-forming galaxies, evolved stellar populations, and active galactic nuclei (AGNs) as a function of environment, from redshifts z~3 to the current epoch. SWIRE will survey seven high-latitude fields, totaling 60-65 deg2 in all seven SIRTF bands: Infrared Array Camera (IRAC) 3.6, 4.5, 5.6, and 8 mum and Multiband Imaging Photometer for SIRTF (MIPS) 24, 70, and 160 mum. Extensive modeling suggests that the Legacy Extragalactic Catalog may contain in excess of 2 million IR-selected galaxies, dominated by (1) ~150,000 luminous infrared galaxies (LIRGs; LFIR>1011 Lsolar) detected by MIPS (and significantly more detected by IRAC), ~7000 of these with z>2 (2) 1 million IRAC-detected early-type galaxies (~2×105 with z>1 and ~10,000 with z>2) and (3) ~20,000 classical AGNs detected with MIPS, plus significantly more dust-obscured quasi-stellar objects/AGNs among the LIRGs. SWIRE will provide an unprecedented view of the evolution of galaxies, structure, and AGNs.  The key scientific goals of SWIRE are (1) to determine the evolution of actively star forming and passively evolving galaxies in order to understand the history of galaxy formation in the context of cosmic structure formation; (2) to determine the evolution of the spatial distribution and clustering of evolved galaxies, starbursts, and AGNs in the key redshift range 0.5<z<3 over which much of cosmic evolution has occurred; and (3) to determine the evolutionary relationship between ``normal galaxies'' and AGNs and the contribution of AGN accretion energy versus stellar nucleosynthesis to the cosmic backgrounds. The large area of SWIRE is important to establish statistically significant population samples over enough volume cells that we can resolve the star formation history as a function of epoch and environment, i.e., in the context of structure formation. The large volume is also optimized for finding rare objects.  The SWIRE fields are likely to become the next generation of large ``cosmic windows'' into the extragalactic sky. They have been uniquely selected to minimize Galactic cirrus emission over large scales. The Galaxy Evolution Explorer will observe them as part of its deep 100 deg2 survey, as will Herschel. SWIRE includes ~9 deg2 of the unique large-area XMM Large Scale Structure hard X-ray imaging survey and is partly covered by the UKIDSS deep J and K survey. An extensive optical/near-IR imaging program is underway from the ground.  The SWIRE data are nonproprietary; catalogs and images will be released twice yearly, beginning about 11 months after SIRTF launch. Details of the data products and release schedule are presented.
+AU  - Lonsdale, C.~J.
+AU  - Smith, H.~E.
+AU  - Rowan-Robinson, M.
+AU  - Surace, J.
+AU  - Shupe, D.
+AU  - Xu, C.
+AU  - Oliver, S.
+AU  - Padgett, D.
+AU  - Fang, F.
+AU  - Conrow, T.
+AU  - Franceschini, A.
+AU  - Gautier, N.
+AU  - Griffin, M.
+AU  - Hacking, P.
+AU  - Masci, F.
+AU  - Morrison, G.
+AU  - O'Linger, J.
+AU  - Owen, F.
+AU  - Pérez-Fournon, I.
+AU  - Pierre, M.
+AU  - Puetter, R.
+AU  - Stacey, G.
+AU  - Castro, S.
+AU  - Polletta, M.~d.~C.
+AU  - Farrah, D.
+AU  - Jarrett, T.
+AU  - Frayer, D.
+AU  - Siana, B.
+AU  - Babbedge, T.
+AU  - Dye, S.
+AU  - Fox, M.
+AU  - Gonzalez-Solares, E.
+AU  - Salaman, M.
+AU  - Berta, S.
+AU  - Condon, J.~J.
+AU  - Dole, H.
+AU  - Serjeant, S.
+JO  - \pasp
+KW  - Surveys
+KW  -  Galaxies
+KW  -  Evolution
+KW  -  Galaxies
+KW  -  Active
+KW  -  Cosmology
+KW  -  Large-Scale Structure of Universe
+KW  -  infrared
+KW  -  galaxies
+Y2  - August
+SP  - 897
+EP  - 927
+T1  - SWIRE: The SIRTF Wide-Area Infrared Extragalactic Survey
+VL  - 115
+PY  - 2003
+ER  - 
+
+
+TY  - JOUR
+AB  - The Wide-field Infrared Survey Explorer (WISE; see Wright et al. 2010AJ....140.1868W) is a NASA Medium Class Explorer mission that conducted a digital imaging survey of the entire sky in the 3.4, 4.6, 12 and 22um mid-infrared bandpasses (hereafter W1, W2, W3 and W4). The AllWISE program extends the work of the successful Wide-field Infrared Survey Explorer mission by combining data from the cryogenic and post-cryogenic survey phases to form the most comprehensive view of the mid-infrared sky currently available. AllWISE has produced a new Source Catalog and Image Atlas with enhanced sensitivity and accuracy compared with earlier WISE data releases. Advanced data processing for AllWISE exploits the two complete sky coverages to measure source motions for each Catalog source, and to compile a massive database of light curves for those objects.  (1 data file).
+AU  - Cutri, R.~M.
+AU  - et al.
+JO  - VizieR Online Data Catalog
+KW  - WISE
+Y2  - November
+T1  - VizieR Online Data Catalog: AllWISE Data Release (Cutri+ 2013)
+VL  - 2328
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - Current wide-area radio surveys are dominated by active galactic nuclei, yet many of these sources have no identified optical counterparts. Here we investigate whether one can constrain the nature and properties of these sources, using Fanaroff-Riley type II (FR II) radio galaxies as probes. These sources are easy to identify since the angular separation of their lobes remains almost constant at some tens of arcseconds for z > 1. Using a simple algorithm applied to the Faint Images of the Radio Sky at Twenty-cm survey, we obtain the largest FR II sample to date, containing over 104 double-lobed sources. A subset of 459 sources is matched to Sloan Digital Sky Survey quasars. This sample yields a statistically meaningful description of the fraction of quasars with lobes as a function of redshift and luminosity. This relation is combined with the bolometric quasar luminosity function and a disc-lobe correlation to obtain a robust prediction for the density of FR IIs on the radio sky. We find that the observed density can be explained by the population of known quasars, implying that the majority of powerful jets originate from a radiatively efficient accretion flow with a linear jet-disc coupling. Finally, we show that high-redshift jets are more often quenched within 100 kpc, suggesting a higher efficiency of jet-induced feedback into their host galaxies.
+AU  - van Velzen, S.
+AU  - Falcke, H.
+AU  - Körding, E.
+JO  - \mnras
+KW  - accretion
+KW  -  accretion discs
+KW  -  catalogues
+KW  -  galaxies
+KW  -  jets
+KW  -  quasars
+KW  -  general
+SP  - 2985
+EP  - 3001
+T1  - Nature and evolution of powerful radio galaxies at z$\sim$1 and their link with the quasar luminosity function
+VL  - 446
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - At very low frequencies, the new pan-European radio telescope LOFAR is opening the last unexplored window of the electromagnetic spectrum for astrophysical studies. The revolutionary APERTIF- phased arrays that are about to be installed on the Westerbork radio telescope (WSRT) will dramatically increase the survey speed for the WSRT. Combined surveys with these two facilities will deeply chart the northern sky over almost two decades in radio frequency from ˜15 up to 1400 MHz. Here we briefly describe some of the capabilities of these new facilities and what radio surveys are planned to study fun-damental issues related to the formation and evolution of galaxies and clusters of galaxies. In the second part we briefly review some recent observational results directly showing that diffuse radio emission in clusters traces shocks due to cluster mergers. As these diffuse radio sources are relatively bright at low frequencies, LOFAR should be able to detect thousands of such sources up to the epoch of cluster formation. This will allow addressing many question about the origin and evolution of shocks and magnetic fields in clusters. At the end we briefly review some of the first and very preliminary LOFAR results on clusters.
+AU  - Röttgering, H.
+AU  - Afonso, J.
+AU  - Barthel, P.
+AU  - Batejat, F.
+AU  - Best, P.
+AU  - Bonafede, A.
+AU  - Brüggen, M.
+AU  - Brunetti, G.
+AU  - Chyży, K.
+AU  - Conway, J.
+AU  - Gasperin, F.~D.
+AU  - Ferrari, C.
+AU  - Haverkorn, M.
+AU  - Heald, G.
+AU  - Hoeft, M.
+AU  - Jackson, N.
+AU  - Jarvis, M.
+AU  - Ker, L.
+AU  - Lehnert, M.
+AU  - Macario, G.
+AU  - McKean, J.
+AU  - Miley, G.
+AU  - Morganti, R.
+AU  - Oosterloo, T.
+AU  - Orrù, E.
+AU  - Pizzo, R.
+AU  - Rafferty, D.
+AU  - Shulevski, A.
+AU  - Tasse, C.
+AU  - Bemmel, I.~V.
+AU  - van der Tol, B.
+AU  - van Weeren, R.
+AU  - Verheijen, M.
+AU  - White, G.
+AU  - Wise, M.
+JO  - Journal of Astrophysics and Astronomy
+KW  - Galaxies
+KW  -  clusters
+KW  -  general
+KW  -  intracluster medium
+KW  -  radio continuum
+KW  -  galaxies
+KW  -  radio telescopes
+Y2  - December
+SP  - 557
+EP  - 566
+T1  - LOFAR and APERTIF Surveys of the Radio Sky: Probing Shocks and Magnetic Fields in Galaxy Clusters
+VL  - 32
+PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AB  - We present results from the first 12 months of operation of Radio Galaxy Zoo, which upon completion will enable visual inspection of over 170 000 radio sources to determine the host galaxy of the radio emission and the radio morphology. Radio Galaxy Zoo uses 1.4 GHz radio images from both the Faint Images of the Radio Sky at Twenty Centimeters (FIRST) and the Australia Telescope Large Area Survey (ATLAS) in combination with mid-infrared images at 3.4 mum from the Wide-field Infrared Survey Explorer (WISE) and at 3.6 mum from the Spitzer Space Telescope. We present the early analysis of the WISE mid-infrared colours of the host galaxies. For images in which there is >75 per cent consensus among the Radio Galaxy Zoo cross-identifications, the project participants are as effective as the science experts at identifying the host galaxies. The majority of the identified host galaxies reside in the mid-infrared colour space dominated by elliptical galaxies, quasi-stellar objects and luminous infrared radio galaxies. We also find a distinct population of Radio Galaxy Zoo host galaxies residing in a redder mid-infrared colour space consisting of star-forming galaxies and/or dust-enhanced non-star-forming galaxies consistent with a scenario of merger-driven active galactic nuclei (AGN) formation. The completion of the full Radio Galaxy Zoo project will measure the relative populations of these hosts as a function of radio morphology and power while providing an avenue for the identification of rare and extreme radio structures. Currently, we are investigating candidates for radio galaxies with extreme morphologies, such as giant radio galaxies, late-type host galaxies with extended radio emission and hybrid morphology radio sources.
+AU  - Banfield, J.~K.
+AU  - Wong, O.~I.
+AU  - Willett, K.~W.
+AU  - Norris, R.~P.
+AU  - Rudnick, L.
+AU  - Shabala, S.~S.
+AU  - Simmons, B.~D.
+AU  - Snyder, C.
+AU  - Garon, A.
+AU  - Seymour, N.
+AU  - Middelberg, E.
+AU  - Andernach, H.
+AU  - Lintott, C.~J.
+AU  - Jacob, K.
+AU  - Kapińska, A.~D.
+AU  - Mao, M.~Y.
+AU  - Masters, K.~L.
+AU  - Jarvis, M.~J.
+AU  - Schawinski, K.
+AU  - Paget, E.
+AU  - Simpson, R.
+AU  - Klöckner, H.-R.
+AU  - Bamford, S.
+AU  - Burchell, T.
+AU  - Chow, K.~E.
+AU  - Cotter, G.
+AU  - Fortson, L.
+AU  - Heywood, I.
+AU  - Jones, T.~W.
+AU  - Kaviraj, S.
+AU  - López-Sánchez, Á.~R.
+AU  - Maksym, W.~P.
+AU  - Polsterer, K.
+AU  - Borden, K.
+AU  - Hollow, R.~P.
+AU  - Whyte, L.
+JO  - \mnras
+KW  - methods
+KW  -  data analysis
+KW  -  infrared
+KW  -  galaxies
+KW  -  radio continuum
+KW  -  galaxies
+Y2  - November
+SP  - 2326
+EP  - 2340
+T1  - Radio Galaxy Zoo: host galaxies and radio morphologies derived from visual inspection
+VL  - 453
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AU  - Williams, A.C.
+AU  - Wallin, J.F.
+AU  - Yu, Haoyu
+AU  - Perale, M.
+AU  - Carroll, H.D.
+AU  - Lamblin, A.-F.
+AU  - Fortson, L.
+AU  - Obbink, D.
+AU  - Lintott, C.J.
+AU  - Brusuelas, J.H.
+T2  - Big Data (Big Data), 2014 IEEE International Conference on
+KW  - history
+KW  - user interfaces
+KW  - Ancient Lives database
+KW  - Ancient Lives interface
+KW  - Ancient Lives project
+KW  - Oxyrhynchus
+KW  - University of Oxford
+KW  - ancient Greek papyrus fragments
+KW  - citizen science
+KW  - computational pipeline
+KW  - crowdsourced letter identifications
+KW  - crowdsourced transcriptions
+KW  - identification process
+KW  - naturally deteriorated papyri
+KW  - volunteer users
+KW  - Accuracy
+KW  - Databases
+KW  - Digital images
+KW  - Educational institutions
+KW  - Kernel
+KW  - Pipeline processing
+KW  - Pipelines
+KW  - big data
+KW  - crowdsourcing
+KW  - human computation
+KW  - papyrus transcription
+Y2  - Oct
+SP  - 100
+EP  - 105
+T1  - A computational pipeline for crowdsourced transcriptions of Ancient Greek papyrus fragments
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - Context: For more than two decades we have known that galaxy morphological segregation is present in the Local Universe. It is important to see how this relation evolves with cosmic time.   Aims: To investigate how galaxy assembly took place with cosmic time, we explore the evolution of the morphology-density relation up to redshift z ~ 1 using about 10 000 galaxies drawn from the zCOSMOS Galaxy Redshift Survey. Taking advantage of accurate HST/ACS morphologies from the COSMOS survey, of the well-characterised zCOSMOS 3D environment, and of a large sample of galaxies with spectroscopic redshift, we want to study here the evolution of the morphology-density relation up to z ~ 1 and its dependence on galaxy luminosity and stellar mass. The multi-wavelength coverage of the field also allows a first study of the galaxy morphological segregation dependence on colour. We further attempt to disentangle between processes that occurred early in the history of the Universe or late in the life of galaxies.  Methods: The zCOSMOS field benefits of high-resolution imaging in the F814W filter from the Advanced Camera for Survey (ACS). We use standard morphology classifiers, optimised for being robust against band-shifting and surface brightness dimming, and a new, objective, and automated method to convert morphological parameters into early, spiral, and irregular types. We use about 10 000 galaxies down to I_AB = 22.5 with a spectroscopic sampling rate of 33% to characterise the environment of galaxies up to z ~ 1 from the 100 kpc scales of galaxy groups up to the 100 Mpc scales of the cosmic web. The evolution of the morphology-density relation in different environments is then studied for luminosity and stellar-mass selected, volume-limited samples of galaxies. The trends are described and related to the various physical processes that could play a relevant role in the build-up of the morphology-density relation.  Results: We confirm that the morphological segregation is present up to z ~ 1 for luminosity-selected, volume-limited samples. The behaviour of the morphology-density relation gets flatter at fixed masses expecially above 1010.6 M&sun;. We suggest the existence of a critical mass above which the physical processes governing galaxy stellar mass also determine the shaping of the galaxy more than its environment. We finally show that at a fixed morphology there is still a residual variation in galaxy colours with density.   Conclusions: The observed evolution with redshift of the morphology-density relation offers an opportunity to trace the effect of nature and nurture as a function of environment. Even though it is based mainly on a biased view, the environmental dependence of the morphological evolution for luminosity-selected, volume-limited samples seems to indicate that nurture is in play. On the other hand, the lack of evolution observed for early-type and spiral galaxies that are more massive than 1010.8 M&sun; independents of the environment indicates that nature has imprinted these properties early in the life of these galaxies. We conclude that the relative contribution of nature and nurture in different environments strongly depends on the mass of galaxies, consistent with a downsizing scenario.  Based on observations obtained at the European Southern  Observatory (ESO) Very Large Telescope (VLT), Paranal, Chile, as part of the  Large Program 175.A-0839 (the zCOSMOS Spectroscopic Redshift Survey).
+AU  - Tasca, L.~A.~M.
+AU  - Kneib, J.-P.
+AU  - Iovino, A.
+AU  - Le Fèvre, O.
+AU  - Kovač, K.
+AU  - Bolzonella, M.
+AU  - Lilly, S.~J.
+AU  - Abraham, R.~G.
+AU  - Cassata, P.
+AU  - Cucciati, O.
+AU  - Guzzo, L.
+AU  - Tresse, L.
+AU  - Zamorani, G.
+AU  - Capak, P.
+AU  - Garilli, B.
+AU  - Scodeggio, M.
+AU  - Sheth, K.
+AU  - Zucca, E.
+AU  - Carollo, C.~M.
+AU  - Contini, T.
+AU  - Mainieri, V.
+AU  - Renzini, A.
+AU  - Bardelli, S.
+AU  - Bongiorno, A.
+AU  - Caputi, K.
+AU  - Coppa, G.
+AU  - de La Torre, S.
+AU  - de Ravel, L.
+AU  - Franzetti, P.
+AU  - Kampczyk, P.
+AU  - Knobel, C.
+AU  - Koekemoer, A.~M.
+AU  - Lamareille, F.
+AU  - Le Borgne, J.-F.
+AU  - Le Brun, V.
+AU  - Maier, C.
+AU  - Mignoli, M.
+AU  - Pello, R.
+AU  - Peng, Y.
+AU  - Perez Montero, E.
+AU  - Ricciardelli, E.
+AU  - Silverman, J.~D.
+AU  - Vergani, D.
+AU  - Tanaka, M.
+AU  - Abbas, U.
+AU  - Bottini, D.
+AU  - Cappi, A.
+AU  - Cimatti, A.
+AU  - Ilbert, O.
+AU  - Leauthaud, A.
+AU  - Maccagni, D.
+AU  - Marinoni, C.
+AU  - McCracken, H.~J.
+AU  - Memeo, P.
+AU  - Meneux, B.
+AU  - Oesch, P.
+AU  - Porciani, C.
+AU  - Pozzetti, L.
+AU  - Scaramella, R.
+AU  - Scarlata, C.
+JO  - \aap
+KW  - galaxies
+KW  -  fundamental parameters
+KW  -  cosmology
+KW  -  large-scale structure of universe
+KW  -  galaxies
+KW  -  distances and redshifts
+KW  -  galaxies
+KW  -  structure
+KW  -  galaxies
+KW  -  evolution
+KW  -  Galaxy
+KW  -  formation
+Y2  - August
+SP  - 379
+EP  - 398
+T1  - The zCOSMOS redshift survey: the role of environment and stellar mass in shaping the rise of the morphology-density relation from z \~ 1
+VL  - 503
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AU  - Salk, Carl F.
+AU  - Sturn, Tobias
+AU  - See, Linda
+AU  - Fritz, Steffen
+AU  - Perger, Christoph
+JO  - International Journal of Digital Earth
+Y2  - Jun
+IS  - 0
+SP  - 1
+EP  - 17
+T1  - Assessing quality of volunteer crowdsourcing contributions: lessons from the Cropland Capture game
+UR  - http://dx.doi.org/10.1080/17538947.2015.1039609
+VL  - 0
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AB  - Atmospheric turbulence distorts all ground-based observations, which is especially detrimental to faint detections. The point spread function (PSF) defining this blur is unknown for each exposure and varies significantly over time, making image analysis difficult. Lucky imaging and traditional co-adding throws away lots of information. We developed blind deconvolution algorithms that can simultaneously obtain robust solutions for the background image and all the PSFs. It is done in a streaming setting, which makes it practical for large number of big images. We implemented a new tool that runs of GPUs and achieves exceptional running times that can scale to the new time-domain surveys. Our code can quickly and effectively recover high-resolution images exceeding the quality of traditional co-adds. We demonstrate the power of the method on the repeated exposures in the Sloan Digital Sky Survey's Stripe 82.
+AU  - Lee, M.~A.
+AU  - Budavári, T.
+T2  - Astronomical Data Analysis Software an Systems XXIV (ADASS XXIV)
+ED  - Taylor, A.~R.
+ED  - Rosolowsky, E.
+Y2  - September
+SP  - 261
+T1  - Streaming Multiframe Deconvolutions on GPUs
+VL  - 495
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We have undertaken an ambitious program to visually classify all galaxies in the five CANDELS fields down to H < 24.5 involving the dedicated efforts of over 65 individual classifiers. Once completed, we expect to have detailed morphological classifications for over 50,000 galaxies spanning 0 < z < 4 over all the fields, with classifications from 3 to 5 independent classifiers for each galaxy. Here, we present our detailed visual classification scheme, which was designed to cover a wide range of CANDELS science goals. This scheme includes the basic Hubble sequence types, but also includes a detailed look at mergers and interactions, the clumpiness of galaxies, k-corrections, and a variety of other structural properties. In this paper, we focus on the first field to be completed---GOODS-S, which has been classified at various depths. The wide area coverage spanning the full field (wide+deep+ERS) includes 7634 galaxies that have been classified by at least three different people. In the deep area of the field, 2534 galaxies have been classified by at least five different people at three different depths. With this paper, we release to the public all of the visual classifications in GOODS-S along with the Perl/Tk GUI that we developed to classify galaxies. We present our initial results here, including an analysis of our internal consistency and comparisons among multiple classifiers as well as a comparison to the Sérsic index. We find that the level of agreement among classifiers is quite good (>70% across the full magnitude range) and depends on both the galaxy magnitude and the galaxy type, with disks showing the highest level of agreement (>50%) and irregulars the lowest (<10%). A comparison of our classifications with the Sérsic index and rest-frame colors shows a clear separation between disk and spheroid populations. Finally, we explore morphological k-corrections between the V-band and H-band observations and find that a small fraction (84 galaxies in total) are classified as being very different between these two bands. These galaxies typically have very clumpy and extended morphology or are very faint in the V-band.
+AU  - Kartaltepe, J.~S.
+AU  - Mozena, M.
+AU  - Kocevski, D.
+AU  - McIntosh, D.~H.
+AU  - Lotz, J.
+AU  - Bell, E.~F.
+AU  - Faber, S.
+AU  - Ferguson, H.
+AU  - Koo, D.
+AU  - Bassett, R.
+AU  - Bernyk, M.
+AU  - Blancato, K.
+AU  - Bournaud, F.
+AU  - Cassata, P.
+AU  - Castellano, M.
+AU  - Cheung, E.
+AU  - Conselice, C.~J.
+AU  - Croton, D.
+AU  - Dahlen, T.
+AU  - de Mello, D.~F.
+AU  - DeGroot, L.
+AU  - Donley, J.
+AU  - Guedes, J.
+AU  - Grogin, N.
+AU  - Hathi, N.
+AU  - Hilton, M.
+AU  - Hollon, B.
+AU  - Koekemoer, A.
+AU  - Liu, N.
+AU  - Lucas, R.~A.
+AU  - Martig, M.
+AU  - McGrath, E.
+AU  - McPartland, C.
+AU  - Mobasher, B.
+AU  - Morlock, A.
+AU  - O\rsquoLeary, E.
+AU  - Peth, M.
+AU  - Pforr, J.
+AU  - Pillepich, A.
+AU  - Rosario, D.
+AU  - Soto, E.
+AU  - Straughn, A.
+AU  - Telford, O.
+AU  - Sunnquist, B.
+AU  - Trump, J.
+AU  - Weiner, B.
+AU  - Wuyts, S.
+JO  - \apjs
+KW  - cosmology
+KW  -  observations
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  high-redshift
+Y2  - November
+SP  - 11
+T1  - CANDELS Visual Classifications: Scheme, Data Release, and First Results
+VL  - 221
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AU  - Ester, Martin
+AU  - Kriegel, Hans-Peter
+AU  - Sander, Jörg
+AU  - Xu, Xiaowei
+T2  - Proc. 2nd International Conference on Knowledge Discovery and Data Mining
+T1  - A density-based algorithm for discovering clusters in large spatial databases with noise.
+PY  - 1996
+ER  - 
+
+
+TY  - JOUR
+AB  - We have performed two-dimensional multicomponent decomposition of 144 local barred spiral galaxies using 3.6 mum images from the Spitzer Survey of Stellar Structure in Galaxies. Our model fit includes up to four components (bulge, disk, bar, and a point source) and, most importantly, takes into account disk breaks. We find that ignoring the disk break and using a single disk scale length in the model fit for Type II (down-bending) disk galaxies can lead to differences of 40% in the disk scale length, 10% in bulge-to-total luminosity ratio (B/T), and 25% in bar-to-total luminosity ratios. We find that for galaxies with B/T >= 0.1, the break radius to bar radius, r br/R bar, varies between 1 and 3, but as a function of B/T the ratio remains roughly constant. This suggests that in bulge-dominated galaxies the disk break is likely related to the outer Lindblad resonance of the bar and thus moves outward as the bar grows. For galaxies with small bulges, B/T < 0.1, r br/R bar spans a wide range from 1 to 6. This suggests that the mechanism that produces the break in these galaxies may be different from that in galaxies with more massive bulges. Consistent with previous studies, we conclude that disk breaks in galaxies with small bulges may originate from bar resonances that may be also coupled with the spiral arms, or be related to star formation thresholds.
+AU  - Kim, T.
+AU  - Gadotti, D.~A.
+AU  - Sheth, K.
+AU  - Athanassoula, E.
+AU  - Bosma, A.
+AU  - Lee, M.~G.
+AU  - Madore, B.~F.
+AU  - Elmegreen, B.
+AU  - Knapen, J.~H.
+AU  - Zaritsky, D.
+AU  - Ho, L.~C.
+AU  - Comerón, S.
+AU  - Holwerda, B.
+AU  - Hinz, J.~L.
+AU  - Muñoz-Mateos, J.-C.
+AU  - Cisternas, M.
+AU  - Erroz-Ferrer, S.
+AU  - Buta, R.
+AU  - Laurikainen, E.
+AU  - Salo, H.
+AU  - Laine, J.
+AU  - Menéndez-Delmestre, K.
+AU  - Regan, M.~W.
+AU  - de Swardt, B.
+AU  - Gil de Paz, A.
+AU  - Seibert, M.
+AU  - Mizusawa, T.
+JO  - \apj
+KW  - galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  formation
+KW  -  galaxies
+KW  -  fundamental parameters
+KW  -  galaxies
+KW  -  photometry
+KW  -  galaxies
+KW  -  spiral
+KW  -  galaxies
+KW  -  structure
+Y2  - February
+SP  - 64
+T1  - Unveiling the Structure of Barred Galaxies at 3.6 $\mu$m with the Spitzer Survey of Stellar Structure in Galaxies (S$^4$G). I. Disk Breaks
+VL  - 782
+PY  - 2014
+ER  - 
+
+
+TY  - SER
+AU  - Simpson, Edwin
+AU  - Roberts, Stephen
+AU  - Psorakis, Ioannis
+AU  - Smith, Arfon
+T2  - Decision Making and Imperfection
+ED  - Guy, Tatiana
+ED  - Karny, Miroslav
+ED  - Wolpert, David
+SP  - 1
+EP  - -35
+PB  - Springer Berlin Heidelberg
+T1  - Dynamic bayesian combination of multiple imperfect classifiers
+PY  - 2013
+ER  - 
+
+
+TY  - CONF
+AU  - Jackson, C.B.
+AU  - Osterlund, C.
+AU  - Mugar, G.
+AU  - Hassman, K.D.
+AU  - Crowston, K.
+T2  - System Sciences (HICSS), 2015 48th Hawaii International Conference on
+KW  - Internet
+KW  - groupware
+KW  - knowledge acquisition
+KW  - citizen science
+KW  - crowdsourcing
+KW  - knowledge acquisition
+KW  - legitimate peripheral participation
+KW  - motivational factor
+KW  - sustained participation
+KW  - Communities
+KW  - Crowdsourcing
+KW  - Electronic publishing
+KW  - Encyclopedias
+KW  - Planets
+KW  - Citizen Science
+KW  - Crowdsourcing
+KW  - Legitimate peripheral participation
+KW  - Motivation
+Y2  - Jan
+SP  - 1624
+EP  - 1634
+T1  - Motivations for Sustained Participation in Crowdsourcing: Case Studies of Citizen Science on the Role of Talk
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AU  - Jackson, C.B.
+T2  - To be presented at 19th ACM Conference on Computer Supported Cooperative Work and Social Computing (CSCW)
+T1  - Which Way Did They Go? Newcomer Movement through the Zooniverse
+PY  - 2016
+ER  - 
+
+
+TY  - JOUR
+AB  - We report the discovery of 29 promising (and 59 total) new lens candidates from the Canada-France-Hawaii Telescope Legacy Survey (CFHTLS) based on about 11 million classifications performed by citizen scientists as part of the first SPACE WARPS lens search. The goal of the blind lens search was to identify lens candidates missed by robots (the RINGFINDER on galaxy scales and ARCFINDER on group/cluster scales) which had been previously used to mine the CFHTLS for lenses. We compare some properties of the samples detected by these algorithms to the SPACE WARPS sample and find them to be broadly similar. The image separation distribution calculated from the SPACE WARPS sample shows that previous constraints on the average density profile of lens galaxies are robust. SPACE WARPS recovers about 65 per cent of known lenses, while the new candidates show a richer variety compared to those found by the two robots. This detection rate could be increased to 80 per cent by only using classifications performed by expert volunteers (albeit at the cost of a lower purity), indicating that the training and performance calibration of the citizen scientists is very important for the success of SPACE WARPS. In this work we present the SIMCT pipeline, used for generating in situ a sample of realistic simulated lensed images. This training sample, along with the false positives identified during the search, has a legacy value for testing future lens-finding algorithms. We make the pipeline and the training set publicly available.
+AU  - More, A.
+AU  - Verma, A.
+AU  - Marshall, P.~J.
+AU  - More, S.
+AU  - Baeten, E.
+AU  - Wilcox, J.
+AU  - Macmillan, C.
+AU  - Cornen, C.
+AU  - Kapadia, A.
+AU  - Parrish, M.
+AU  - Snyder, C.
+AU  - Davis, C.~P.
+AU  - Gavazzi, R.
+AU  - Lintott, C.~J.
+AU  - Simpson, R.
+AU  - Miller, D.
+AU  - Smith, A.~M.
+AU  - Paget, E.
+AU  - Saha, P.
+AU  - Küng, R.
+AU  - Collett, T.~E.
+JO  - \mnras
+KW  - gravitational lensing
+KW  -  strong
+KW  -  methods
+KW  -  statistical
+Y2  - January
+SP  - 1191
+EP  - 1210
+T1  - SPACE WARPS- II. New gravitational lens candidates from the CFHTLS discovered through citizen science
+VL  - 455
+PY  - 2016
+ER  - 
+
+
+TY  - JOUR
+AB  - We describe SPACE WARPS, a novel gravitational lens discovery service that yields samples of high purity and completeness through crowdsourced visual inspection. Carefully produced colour composite images are displayed to volunteers via a web-based classification interface, which records their estimates of the positions of candidate lensed features. Images of simulated lenses, as well as real images which lack lenses, are inserted into the image stream at random intervals; this training set is used to give the volunteers instantaneous feedback on their performance, as well as to calibrate a model of the system that provides dynamical updates to the probability that a classified image contains a lens. Low-probability systems are retired from the site periodically, concentrating the sample towards a set of lens candidates. Having divided 160 deg2 of Canada-France-Hawaii Telescope Legacy Survey imaging into some 430 000 overlapping 82 by 82 arcsec tiles and displaying them on the site, we were joined by around 37 000 volunteers who contributed 11 million image classifications over the course of eight months. This stage 1 search reduced the sample to 3381 images containing candidates; these were then refined in stage 2 to yield a sample that we expect to be over 90 per cent complete and 30 per cent pure, based on our analysis of the volunteers performance on training images. We comment on the scalability of the SPACE WARPS system to the wide field survey era, based on our projection that searches of 105 images could be performed by a crowd of 105 volunteers in 6 d.
+AU  - Marshall, P.~J.
+AU  - Verma, A.
+AU  - More, A.
+AU  - Davis, C.~P.
+AU  - More, S.
+AU  - Kapadia, A.
+AU  - Parrish, M.
+AU  - Snyder, C.
+AU  - Wilcox, J.
+AU  - Baeten, E.
+AU  - Macmillan, C.
+AU  - Cornen, C.
+AU  - Baumer, M.
+AU  - Simpson, E.
+AU  - Lintott, C.~J.
+AU  - Miller, D.
+AU  - Paget, E.
+AU  - Simpson, R.
+AU  - Smith, A.~M.
+AU  - Küng, R.
+AU  - Saha, P.
+AU  - Collett, T.~E.
+JO  - \mnras
+KW  - gravitational lensing
+KW  -  strong
+KW  -  methods
+KW  -  statistical
+Y2  - January
+SP  - 1171
+EP  - 1190
+T1  - SPACE WARPS - I. Crowdsourcing the discovery of gravitational lenses
+VL  - 455
+PY  - 2016
+ER  - 
+
+
+TY  - CONF
+AU  - Williams, A.C.
+AU  - Carroll, H.D.
+AU  - Wallin, J.F.
+AU  - Brusuelas, J.
+AU  - Fortson, L.
+AU  - Lamblin, A.-F.
+AU  - Yu, Haoyu
+T2  - e-Science (e-Science), 2014 IEEE 10th International Conference on
+KW  - bioinformatics
+KW  - data mining
+KW  - genetic algorithms
+KW  - humanities
+KW  - amino acid
+KW  - ancient Greek papyrus fragment
+KW  - ancient Greek text fragment
+KW  - computational biology
+KW  - culture
+KW  - genetic sequence alignment algorithm
+KW  - humanities
+KW  - linguistics
+KW  - multiline text identification
+KW  - noncontextual identification
+KW  - Amino acids
+KW  - Computational biology
+KW  - Databases
+KW  - Educational institutions
+KW  - Error analysis
+KW  - Genetics
+KW  - Matrices
+KW  - Ancient Greek
+KW  - genetic sequence alignment
+KW  - identification
+KW  - papyrus
+Y2  - Oct
+SP  - 5
+EP  - 10
+T1  - Identification of Ancient Greek Papyrus Fragments Using Genetic Sequence Alignment Algorithms
+VL  - 2
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - We review the expanding, internet-enabled, and rapidly evolving field of citizen astronomy, focusing on research projects in stellar, extragalactic, and planetary science that have benefited from the participation of members of the public. These volunteers contribute in various ways: making and analyzing new observations, visually classifying features in images and light curves, exploring models constrained by astronomical data sets, and initiating new scientific enquiries. The most productive citizen astronomy projects involve close collaboration between the professionals and amateurs involved and occupy scientific niches not easily filled by great observatories or machine learning methods: Citizen astronomers are motivated by being of service to science, as well as by their interest in the subject. We expect participation and productivity in citizen astronomy to increase, as data sets get larger and citizen science platforms become more efficient. Opportunities include engaging citizens in ever-more advanced analyses and facilitating citizen-led enquiry through professional tools designed with citizens in mind.
+AU  - Marshall, P.~J.
+AU  - Lintott, C.~J.
+AU  - Fletcher, L.~N.
+JO  - \araa
+Y2  - August
+SP  - 247
+EP  - 278
+T1  - Ideas for Citizen Science in Astronomy
+VL  - 53
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AD  - New York, NY, USA
+AU  - Mugar, Gabriel
+AU  - \Osterlund, Carsten
+AU  - Jackson, Corey Brian
+AU  - Crowston, Kevin
+T2  - Proceedings of the 7th International Conference on Communities and Technologies
+SN  - 978-1-4503-3460-0
+KW  - citizen science
+KW  -  situated learning
+KW  -  sociomateriality
+SP  - 129
+EP  - -138
+PB  - ACM
+T1  - Being Present in Online Communities: Learning in Citizen Science
+UR  - http://doi.acm.org/10.1145/2768545.2768555
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AD  - New York, NY, USA
+AU  - Mugar, Gabriel
+AU  - \Osterlund, Carsten
+AU  - Hassman, Katie DeVries
+AU  - Crowston, Kevin
+AU  - Jackson, Corey Brian
+T2  - Proceedings of the 17th ACM Conference on Computer Supported Cooperative Work \\#38; Social Computing
+SN  - 978-1-4503-2540-0
+KW  - citizen science
+KW  -  legitimate peripheral participation
+KW  -  situated learning
+KW  -  social translucence
+KW  -  socialization
+SP  - 109
+EP  - -119
+PB  - ACM
+T1  - Planet Hunters and Seafloor Explorers: Legitimate Peripheral Participation Through Practice Proxies in Online Citizen Science
+UR  - http://doi.acm.org/10.1145/2531602.2531721
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - Richland, SC
+AU  - Kamar, Ece
+AU  - Horvitz, Eric
+T2  - Proceedings of the 2015 International Conference on Autonomous Agents and Multiagent Systems
+SN  - 978-1-4503-3413-6
+KW  - complementary computing
+KW  -  consensus tasks
+KW  -  crowdsourcing
+KW  -  mdps
+KW  -  monte carlo planning
+SP  - 1191
+EP  - -1199
+PB  - International Foundation for Autonomous Agents and Multiagent Systems
+T1  - Planning for Crowdsourcing Hierarchical Tasks
+UR  - http://dl.acm.org/citation.cfm?id=2772879.2773301
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - Energetic feedback from active galactic nuclei (AGN) is an important ingredient for regulating the star-formation history of galaxies in models of galaxy formation, which makes it important to study how AGN feedback actually occurs in practice. In order to catch AGNs in the act of quenching star formation we have used the interstellar NaD absorption lines to look for cold-gas outflows in a sample of 456 nearby galaxies for which we could unambigously ascertain the presence of radio AGN activity, thanks to radio imaging at milli-arcsecond scales. While compact radio emission indicating a radio AGN was found in 103 galaxies (23% of the sample), and 23 objects (5%) exhibited NaD absorption-line kinematics suggestive of cold-gas outflows, not one object showed evidence of a radio AGN and of a cold-gas outflow simultaneously. Radio AGN activity was found predominantly in early-type galaxies, while cold-gas outflows were mainly seen in spiral galaxies with central star-formation or composite star-formation/AGN activity. Optical AGNs also do not seem capable of driving galactic winds in our sample. Our work adds to a picture of the low-redshift Universe where cold-gas outflows in massive galaxies are generally driven by star formation and where radio-AGN activity occurs most often in systems in which the gas reservoir has already been significantly depleted.
+AU  - Sarzi, M.
+AU  - Kaviraj, S.
+AU  - Nedelchev, B.
+AU  - Tiffany, J.
+AU  - Shabala, S.~S.
+AU  - Deller, A.~T.
+AU  - Middleberg, E.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+Y2  - October
+T1  - Cold-gas outflows in typical low-redshift galaxies are driven by star formation, not AGN
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We report the discovery of spiral galaxies that are as optically luminous as elliptical brightest cluster galaxies, with r-band monochromatic luminosity L_r=8-14L* (4.3-7.5E44 erg/s). These super spiral galaxies are also giant and massive, with diameter D=57-134 kpc and stellar mass M_stars=0.3-3.4E11 M_sun. We find 53 super spirals out of a complete sample of 1,616 SDSS galaxies with redshift z<0.3 and L_r>8L*. The closest example is found at z=0.089. We use existing photometry to estimate their stellar masses and star formation rates (SFRs). The SDSS and WISE colors are consistent with normal star-forming spirals on the blue sequence. However, the extreme masses and rapid SFRs of 5-65 M_sun/yr place super spirals in a sparsely populated region of parameter space, above the star-forming main sequence of disk galaxies. Super spirals occupy a diverse range of environments, from isolation to cluster centers. We find four super spiral galaxy systems that are late-stage major mergers--a possible clue to their formation. We suggest that super spirals are a remnant population of unquenched, massive disk galaxies. They may eventually become massive lenticular galaxies after they are cut off from their gas supply and their disks fade.
+AU  - Ogle, P.~M.
+AU  - Lanz, L.
+AU  - Nader, C.
+AU  - Helou, G.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+Y2  - November
+T1  - Superluminous Spiral Galaxies
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - The prevalence of radio-loud active galactic nucleus (AGN) activity in present-day massive haloes is determined using a sample of 625 nearby groups and clusters selected from the Sloan Digital Sky Survey. Brightest group and cluster galaxies (BCGs) are more likely to host a radio-loud AGN than other galaxies of the same stellar mass (by below a factor of 2 at a stellar mass of ~5 × 1011Msolar, but rising to over an order of magnitude below 1011Msolar). The distribution of radio luminosities for BCGs does not depend on mass, however, and is similar to that of field galaxies of the same stellar mass. Neither the radio-loud fraction nor the radio luminosity distribution of BCGs depends strongly on the velocity dispersion of the host cluster. The radio-AGN fraction is also studied as a function of distance from the cluster centre. Only within 0.2r200 do cluster galaxies exhibit an enhanced likelihood of radio-loud AGN activity, which approaches that of the BCGs. In contrast to the radio properties, the fraction of galaxies with optical emission-line AGN activity is suppressed within r200 in groups and clusters, decreasing monotonically towards the cluster centre.  It is argued that the radio-loud AGN properties of both BCGs and non-BCGs can naturally be explained if this activity is fuelled by cooling from hot gas surrounding the galaxy. Using observational estimates of the mechanical output of the radio jets, the time-averaged energy output associated with recurrent radio source activity is estimated for all group and cluster galaxies. Within the cooling radius of the cluster, the radio-mode heating associated with the BCG dominates over that of all other galaxies combined. The scaling between total radio-AGN energy output and cluster velocity dispersion is observed to be considerably shallower than the ~sigma4v scaling of the radiative cooling rate. Thus, unless either the mechanical-to-radio luminosity ratio or the efficiency of converting AGN mechanical energy into heating increases by 2-3 orders of magnitude between groups and rich clusters, radio-mode heating will not balance radiative cooling in systems of all masses. In groups, radio-AGN heating probably overcompensates the radiative cooling losses, and this may account for the observed entropy floor in these systems. In the most massive clusters, an additional heating process (most likely thermal conduction) may be required to supplement the AGN heating.
+AU  - Best, P.~N.
+AU  - von der Linden, A.
+AU  - Kauffmann, G.
+AU  - Heckman, T.~M.
+AU  - Kaiser, C.~R.
+JO  - \mnras
+KW  - galaxies
+KW  -  active
+KW  -  galaxies
+KW  -  clusters
+KW  -  general
+KW  -  cooling flows
+KW  -  radio continuum
+KW  -  galaxies
+KW  -  X-rays
+KW  -  galaxies
+KW  -  clusters
+Y2  - August
+SP  - 894
+EP  - 908
+T1  - On the prevalence of radio-loud active galactic nuclei in brightest cluster galaxies: implications for AGN heating of cooling flows
+VL  - 379
+PY  - 2007
+ER  - 
+
+
+TY  - JOUR
+AB  - As the most common environment in the universe, groups of galaxies are likely to contain a significant fraction of the missing baryons in the form of intergalactic gas. The density of this gas is an important factor in whether ram pressure stripping and strangulation affect the evolution of galaxies in these systems. We present a method for measuring the density of intergalactic gas using bent-double radio sources that is independent of temperature, making it complementary to current absorption-line measurements. We use this method to probe intergalactic gas in two different environments, inside a small group of galaxies as well as outside of a larger group at a 2 Mpc radius, and measure total gas densities of 4+/-1+6-2×10-3 cm-3 and 9+/-3+10-5×10-4 cm-3 (random and systematic errors), respectively. We use X-ray data to place an upper limit of 2×106 K on the temperature of the intragroup gas in the small group.
+AU  - Freeland, E.
+AU  - Cardoso, R.~F.
+AU  - Wilcots, E.
+JO  - \apj
+KW  - Galaxies
+KW  -  Clusters
+KW  -  General
+KW  -  Galaxies
+KW  -  Jets
+KW  -  Galaxies
+KW  -  Intergalactic Medium
+Y2  - October
+SP  - 858
+EP  - 862
+T1  - Bent-Double Radio Sources as Probes of Intergalactic Gas
+VL  - 685
+PY  - 2008
+ER  - 
+
+
+TY  - JOUR
+AB  - We present reduced data and data products from the 3D-HST survey, a 248-orbit HST Treasury program. The survey obtained WFC3 G141 grism spectroscopy in four of the five CANDELS fields: AEGIS, COSMOS, GOODS-S, and UDS, along with WFC3 $H_140$ imaging, parallel ACS G800L spectroscopy, and parallel $I_814$ imaging. In a previous paper (Skelton et al. 2014) we presented photometric catalogs in these four fields and in GOODS-N, the fifth CANDELS field. Here we describe and present the WFC3 G141 spectroscopic data, again augmented with data from GO-1600 in GOODS-N. The data analysis is complicated by the fact that no slits are used: all objects in the WFC3 field are dispersed, and many spectra overlap. We developed software to automatically and optimally extract interlaced 2D and 1D spectra for all objects in the Skelton et al. (2014) photometric catalogs. The 2D spectra and the multi-band photometry were fit simultaneously to determine redshifts and emission line strengths, taking the morphology of the galaxies explicitly into account. The resulting catalog has 98,663 measured redshifts and line strengths down to $JH_IR\leq 26$ and 22,548 with $JH_IR\leq 24$, where we comfortably detect continuum emission. Of this sample 5,459 galaxies are at $z>1.5$ and 9,621 are at $0.7<z<1.5$, where H$\alpha$ falls in the G141 wavelength coverage. Based on comparisons with ground-based spectroscopic redshifts, and on analyses of paired galaxies and repeat observations, the typical redshift error for $JH_IR\leq 24$ galaxies in our catalog is $\sigma_z \approx 0.003 \times (1+z)$, i.e., one native WFC3 pixel. The $3\sigma$ limit for emission line fluxes of point sources is $1.5\times10^-17$ ergs s$^-1$ cm$^-2$. We show various representations of the full dataset, as well as individual examples that highlight the range of spectra that we find in the survey.
+AU  - Momcheva, I.~G.
+AU  - Brammer, G.~B.
+AU  - van Dokkum, P.~G.
+AU  - Skelton, R.~E.
+AU  - Whitaker, K.~E.
+AU  - Nelson, E.~J.
+AU  - Fumagalli, M.
+AU  - Maseda, M.~V.
+AU  - Leja, J.
+AU  - Franx, M.
+AU  - Rix, H.-W.
+AU  - Bezanson, R.
+AU  - Da Cunha, E.
+AU  - Dickey, C.
+AU  - Förster Schreiber, N.~M.
+AU  - Illingworth, G.
+AU  - Kriek, M.
+AU  - Labbé, I.
+AU  - Ulf Lange, J.
+AU  - Lundgren, B.~F.
+AU  - Magee, D.
+AU  - Marchesini, D.
+AU  - Oesch, P.
+AU  - Pacifici, C.
+AU  - Patel, S.~G.
+AU  - Price, S.
+AU  - Tal, T.
+AU  - Wake, D.~A.
+AU  - van der Wel, A.
+AU  - Wuyts, S.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+KW  -  Astrophysics - Cosmology and Nongalactic Astrophysics
+Y2  - October
+T1  - The 3D-HST Survey: Hubble Space Telescope WFC3/G141 grism spectra, redshifts, and emission line measurements for \$$\backslash$sim 100,000\$ galaxies
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We present a pair of three-dimensional magnetohydrodynamical simulations of intermittent jets from a central active galactic nucleus (AGN) in a galaxy cluster extracted from a high-resolution cosmological simulation. The selected cluster was chosen as an apparently relatively relaxed system, not having undergone a major merger in almost 7 Gyr. Despite this characterization and history, the intracluster medium (ICM) contains quite active "weather." We explore the effects of this ICM weather on the morphological evolution of the AGN jets and lobes. The orientation of the jets is different in the two simulations so that they probe different aspects of the ICM structure and dynamics. We find that even for this cluster, which can be characterized as relaxed by an observational standard, the large-scale, bulk ICM motions can significantly distort the jets and lobes. Synthetic X-ray observations of the simulations show that the jets produce complex cavity systems, while synthetic radio observations reveal bending of the jets and lobes similar to wide-angle tail radio sources. The jets are cycled on and off with a 26 Myr period using a 50% duty cycle. This leads to morphological features similar to those in "double-double" radio galaxies. While the jet and ICM magnetic fields are generally too weak in the simulations to play a major role in the dynamics, Maxwell stresses can still become locally significant.
+AU  - Mendygral, P.~J.
+AU  - Jones, T.~W.
+AU  - Dolag, K.
+JO  - \apj
+KW  - galaxies
+KW  -  clusters
+KW  -  general
+KW  -  galaxies
+KW  -  jets
+KW  -  magnetohydrodynamics
+KW  -  MHD
+KW  -  methods
+KW  -  numerical
+KW  -  X-rays
+KW  -  galaxies
+KW  -  clusters
+Y2  - May
+SP  - 166
+T1  - MHD Simulations of Active Galactic Nucleus Jets in a Dynamic Galaxy Cluster Medium
+VL  - 750
+PY  - 2012
+ER  - 
+
+
+TY  - CONF
+AB  - We are conducting a large survey of distant clusters of galaxies using radio sources with bent jets and lobes as tracers. These radio sources are driven by AGN and achieve their bent morphologies through interaction with the surrounding gas found in clusters of galaxies. Based on low-redshift studies, these types of sources can be used to identify clusters very efficiently. We present initial results from our survey of 653 bent-double radio sources with optical hosts too faint to appear in the SDSS. The sample was observed in the infrared with Spitzer, and it has revealed ~200 distant clusters or proto-clusters in the redshift range z ~ 0.7 - 3.0. The sample of bent-doubles contains both quasars and radio galaxies enabling us to study both radiative and kinetic mode feedback in cluster and group environments at a wide range of redshifts.
+AU  - Blanton, E.~L.
+AU  - Paterno-Mahler, R.
+AU  - Wing, J.~D.
+AU  - Ashby, M.~L.~N.
+AU  - Golden-Marx, E.
+AU  - Brodwin, M.
+AU  - Douglass, E.~M.
+AU  - Randall, S.~W.
+AU  - Clarke, T.~E.
+T2  - IAU Symposium
+ED  - Massaro, F.
+ED  - Cheung, C.~C.
+ED  - Lopez, E.
+ED  - Siemiginowska, A.
+KW  - galaxies
+KW  -  clusters
+KW  -  general
+KW  -  galaxies
+KW  -  high-redshift
+KW  -  galaxies
+KW  -  jets
+KW  -  infrared
+KW  -  galaxies
+KW  -  radio continuum
+KW  -  galaxies
+KW  -  X-rays
+KW  -  galaxies
+KW  -  clusters
+Y2  - March
+SP  - 315
+EP  - 320
+T1  - Extragalactic jets as probes of distant clusters of galaxies and the clusters occupied by bent radio AGN (COBRA) survey
+VL  - 313
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We present the third data release from the Australia Telescope Large Area Survey. These data combine the observations at 1.4 GHz before and after upgrades to the Australia Telescope Compact Array reaching a sensitivity of 14 muJy beam-1 in 3.6 deg2 over the Chandra Deep Field South (CDFS) and of 17 muJy beam-1 in 2.7 deg2 over the European Large Area ISO Survey South 1 (ELAIS-S1). We used a variety of array configurations to maximize the uv coverage resulting in a resolution of 16 by 7 arcsec in CDFS and of 12 by 8 arcsec in ELAIS-S1. After correcting for peak bias and bandwidth smearing, we find a total of 3034 radio source components above 5sigma in CDFS, of which 514 (17 per cent) are considered to be extended. The number of components detected above 5sigma in ELAIS-S1 is 2084, of which 392 (19 per cent) are classified as extended. The catalogues include reliable spectral indices (Deltaalpha < 0.2) between 1.40 and 1.71 GHz for ˜350 of the brightest components.
+AU  - Franzen, T.~M.~O.
+AU  - Banfield, J.~K.
+AU  - Hales, C.~A.
+AU  - Hopkins, A.
+AU  - Norris, R.~P.
+AU  - Seymour, N.
+AU  - Chow, K.~E.
+AU  - Herzog, A.
+AU  - Huynh, M.~T.
+AU  - Lenc, E.
+AU  - Mao, M.~Y.
+AU  - Middelberg, E.
+JO  - \mnras
+KW  - methods
+KW  -  data analysis
+KW  -  catalogues
+KW  -  surveys
+KW  -  radio continuum
+KW  -  galaxies
+Y2  - November
+SP  - 4020
+EP  - 4036
+T1  - ATLAS - I. Third release of 1.4 GHz mosaics and component catalogues
+VL  - 453
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - Cross-matching catalogues at different wavelengths is a difficult problem in astronomy, especially when the objects are not point-like. At radio wavelengths, an object can have several components corresponding, for example, to a core and lobes. Considering not all radio detections correspond to visible or infrared sources, matching these catalogues can be challenging. Traditionally, this is done by eye for better quality, which does not scale to the large data volumes expected from the next-generation of radio telescopes. We present a novel automated procedure, using Bayesian hypothesis testing, to achieve reliable associations by explicit modelling of a particular class of radio-source morphology. The new algorithm not only assesses the likelihood of an association between data at two different wavelengths, but also tries to assess whether different radio sources are physically associated, are double-lobed radio galaxies, or just distinct nearby objects. Application to the Spitzer Wide-Area Infrared Extragalactic and Australia Telescope Large Area Survey CDF-S catalogues shows that this method performs well without human intervention.
+AU  - Fan, D.
+AU  - Budavári, T.
+AU  - Norris, R.~P.
+AU  - Hopkins, A.~M.
+JO  - \mnras
+KW  - methods
+KW  -  statistical
+KW  -  catalogues
+KW  -  surveys
+Y2  - August
+SP  - 1299
+EP  - 1305
+T1  - Matching radio catalogues with realistic geometry: application to SWIRE and ATLAS
+VL  - 451
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - The morphology of selected groups of sources in the Faint Images of the Radio Sky at Twenty Centimeters (FIRST) survey and catalog is examined. Sources in the FIRST catalog (2003 April release, 811,117 entries) were sorted into singles, doubles, triples, and groups of higher-count membership based on a proximity criteria. The 7106 groups with four or more components were examined individually for bent types including, but not limited to, wide-angle tail and narrow-angle tail types. In the process of this examination, ring, double-double, X-shaped, hybrid morphology, giant radio sources, and the herein described W-shaped and tri-axial morphology systems were also identified. For the convenience of the reader separate tables for distinctive types were generated. A few curiosities were found. For the 16,950 three-component groups and 74,788 two-component groups, catalogs with probability estimates for bent classification, as determined by pattern recognition techniques, are presented.
+AU  - Proctor, D.~D.
+JO  - \apjs
+KW  - astronomical databases
+KW  -  miscellaneous
+KW  -  catalogs
+KW  -  galaxies
+KW  -  general
+KW  -  methods
+KW  -  data analysis
+KW  -  methods
+KW  -  statistical
+KW  -  techniques
+KW  -  image processing
+Y2  - June
+SP  - 31
+T1  - Morphological Annotations for Groups in the FIRST Database
+VL  - 194
+PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AB  - We study the slope, intercept, and scatter of the color-magnitude and color-mass relations for a sample of ten infrared red-sequence-selected clusters at z ~ 1. The quiescent galaxies in these clusters formed the bulk of their stars above z ~ 3 with an age spread \Deltat ~ 1 Gyr. We compare UVJ color-color and spectroscopic-based galaxy selection techniques, and find a 15% difference in the galaxy populations classified as quiescent by these methods. We compare the color-magnitude relations from our red-sequence selected sample with X-ray- and photometric- redshift-selected cluster samples of similar mass and redshift. Within uncertainties, we are unable to detect any difference in the ages and star formation histories of quiescent cluster members in clusters selected by different methods, suggesting that the dominant quenching mechanism is insensitive to cluster baryon partitioning at z ~ 1.
+AU  - Foltz, R.
+AU  - Rettura, A.
+AU  - Wilson, G.
+AU  - van der Burg, R.
+AU  - Muzzin, A.
+AU  - Lidman, C.
+AU  - Demarco, R.
+AU  - Nantais, J.
+AU  - DeGroot, A.
+AU  - Yee, H.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+KW  -  Astrophysics - Cosmology and Nongalactic Astrophysics
+Y2  - October
+T1  - Evidence for the Universality of Properties of Red-Sequence Galaxies in X-ray- and Red-Sequence-Selected Clusters at z \~ 1
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - The increasing abundance of passive "red-sequence" galaxies since z ~ 1-2 is mirrored by a coincident rise in the number of galaxies with spheroidal morphologies. In this paper, however, we show in detail, that, the correspondence between galaxy morphology and color is not perfect, providing insight into the physical origin of this evolution. Using the COSMOS survey, we study a significant population of red-sequence galaxies with disk-like morphologies. These passive disks typically have Sa-Sb morphological types with large bulges, but they are not confined to dense environments. They represent nearly one-half of all red-sequence galaxies and dominate at lower masses (lsim1010 M sun) where they are increasingly disk-dominated. As a function of time, the abundance of passive disks with M * <~ 1011 M sun increases, but not as fast as red-sequence spheroidals in the same mass range. At higher mass, the passive disk population has declined since z ~ 1, likely because they transform into spheroidals. Based on these trends, we estimate that as much as 60% of galaxies transitioning onto the red sequence evolve through a passive disk phase. The origin of passive disks therefore has broad implications for our understanding of how star formation shuts down. Because passive disks tend to be more bulge-dominated than their star-forming counterparts, a simple fading of blue disks does not fully explain their origin. We explore the strengths and weaknesses of several more sophisticated explanations, including environmental effects, internal stabilization, and disk regrowth during gas-rich mergers. While previous work has sought to explain color and morphological transformations with a single process, these observations open the way to new insight by highlighting the fact that galaxy evolution may actually proceed through several separate stages.
+AU  - Bundy, K.
+AU  - Scarlata, C.
+AU  - Carollo, C.~M.
+AU  - Ellis, R.~S.
+AU  - Drory, N.
+AU  - Hopkins, P.
+AU  - Salvato, M.
+AU  - Leauthaud, A.
+AU  - Koekemoer, A.~M.
+AU  - Murray, N.
+AU  - Ilbert, O.
+AU  - Oesch, P.
+AU  - Ma, C.-P.
+AU  - Capak, P.
+AU  - Pozzetti, L.
+AU  - Scoville, N.
+JO  - \apj
+KW  - galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  formation
+Y2  - August
+SP  - 1969
+EP  - 1983
+T1  - The Rise and Fall of Passive Disk Galaxies: Morphological Evolution Along the Red Sequence Revealed by COSMOS
+VL  - 719
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - Double-lobe radio galaxies in the local Universe have traditionally been found to be hosted in elliptical or lenticular galaxies. We report the discovery of four spiral-host double-lobe radio galaxies (J0836+0532, J1159+5820, J1352+3126 and J1649+2635) that are discovered by cross-matching a large sample of 187005 spiral galaxies from SDSS DR7 to the full catalogues of FIRST and NVSS. J0836+0532 is reported for the first time. The host galaxies are forming stars at an average rate of 1.7 $-$ 10 M$_\odot$ yr$^-1$ and possess Super Massive Black Holes (SMBHs) with masses of a few times 10$^8$ M$_\odot$. Their radio morphologies are similar to FR-II radio galaxies with total projected linear sizes ranging from 86 kpc to 420 kpc, but their total 1.4 GHz radio luminosities are only in the range 10$^24$ $-$ 10$^25$ W Hz$^-1$. We propose that the formation of spiral-host double-lobe radio galaxies can be attributed to more than one factor, such as the occurrence of strong interactions, mergers, and the presence of unusually massive SMBHs, such that the spiral structures are not destroyed. Only one of our sources (J1649+2635) is found in a cluster environment, indicating that processes other than accretion through cooling flows e.g., galaxy-galaxy mergers or interactions could be plausible scenarios for triggering radio-loud AGN activity in spiral galaxies.
+AU  - Singh, V.
+AU  - Ishwara-Chandra, C.~H.
+AU  - Sievers, J.
+AU  - Wadadekar, Y.
+AU  - Hilton, M.
+AU  - Beelen, A.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+Y2  - September
+T1  - Discovery of rare double-lobe radio galaxies hosted in spiral galaxies
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We present a catalogue of 2D, point spread function-corrected de Vacouleurs, Sérsic, de Vacouleurs+Exponential, and Sérsic+Exponential fits of ˜7 × 105 spectroscopically selected galaxies drawn from the Sloan Digital Sky Survey (SDSS) Data Release 7. Fits are performed for the SDSS r band utilizing the fitting routine GALFIT and analysis pipeline PYMORPH. We compare these fits to prior catalogues. Fits are analysed using a physically motivated flagging system. The flags suggest that more than 90 per cent of two-component fits can be used for analysis. We show that the fits follow the expected behaviour for early and late galaxy types. The catalogues provide a robust set of structural and photometric parameters for future galaxy studies. We show that some biases remain in the measurements, e.g. the presence of bars significantly affect the bulge measurements although the bulge ellipticity may be used to separate barred and non-barred galaxies, and about 15 per cent of bulges of two-component fits are also affected by resolution. The catalogues are available in electronic format. We also provide an interface for generating postage stamp images of the 2D model and residual as well as the 1D profile. These images can be generated for a user-uploaded list of galaxies on demand.
+AU  - Meert, A.
+AU  - Vikram, V.
+AU  - Bernardi, M.
+JO  - \mnras
+KW  - galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  fundamental parameters
+KW  -  galaxies
+KW  -  structure
+Y2  - February
+SP  - 3943
+EP  - 3974
+T1  - A catalogue of 2D photometric decompositions in the SDSS-DR7 spectroscopic main galaxy sample: preferred models and systematics
+VL  - 446
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - Spitzer Space Telescope Infrared Array Camera imaging provides an opportunity to study all known morphological types of galaxies in the mid-IR at a depth significantly better than ground-based near-infrared and optical images. The goal of this study is to examine the imprint of the de Vaucouleurs classification volume in the 3.6 mum band, which is the best Spitzer waveband for galactic stellar mass morphology owing to its depth and its reddening-free sensitivity mainly to older stars. For this purpose, we have prepared classification images for 207 galaxies from the Spitzer archive, most of which are formally part of the Spitzer Survey of Stellar Structure in Galaxies (S4G), a Spitzer post-cryogenic ("warm") mission Exploration Science Legacy Program survey of 2331 galaxies closer than 40 Mpc. For the purposes of morphology, the galaxies are interpreted as if the images are blue light, the historical waveband for classical galaxy classification studies. We find that 3.6 mum classifications are well correlated with blue-light classifications, to the point where the essential features of many galaxies look very similar in the two very different wavelength regimes. Drastic differences are found only for the most dusty galaxies. Consistent with a previous study by Eskridge et al., the main difference between blue-light and mid-IR types is an ≈1 stage interval difference for S0/a to Sbc or Sc galaxies, which tend to appear "earlier" in type at 3.6 mum due to the slightly increased prominence of the bulge, the reduced effects of extinction, and the reduced (but not completely eliminated) effect of the extreme population I stellar component. We present an atlas of all of the 207 galaxies analyzed here and bring attention to special features or galaxy types, such as nuclear rings, pseudobulges, flocculent spiral galaxies, I0 galaxies, double-stage and double-variety galaxies, and outer rings, that are particularly distinctive in the mid-IR.
+AU  - Buta, R.~J.
+AU  - Sheth, K.
+AU  - Regan, M.
+AU  - Hinz, J.~L.
+AU  - Gil de Paz, A.
+AU  - Menéndez-Delmestre, K.
+AU  - Munoz-Mateos, J.-C.
+AU  - Seibert, M.
+AU  - Laurikainen, E.
+AU  - Salo, H.
+AU  - Gadotti, D.~A.
+AU  - Athanassoula, E.
+AU  - Bosma, A.
+AU  - Knapen, J.~H.
+AU  - Ho, L.~C.
+AU  - Madore, B.~F.
+AU  - Elmegreen, D.~M.
+AU  - Masters, K.~L.
+AU  - Comerón, S.
+AU  - Aravena, M.
+AU  - Kim, T.
+JO  - \apjs
+KW  - galaxies
+KW  -  bulges
+KW  -  galaxies
+KW  -  dwarf
+KW  -  galaxies
+KW  -  elliptical and lenticular
+KW  -  cD
+KW  -  galaxies
+KW  -  irregular
+KW  -  galaxies
+KW  -  spiral
+KW  -  galaxies
+KW  -  structure
+Y2  - September
+SP  - 147
+EP  - 165
+T1  - Mid-infrared Galaxy Morphology from the Spitzer Survey of Stellar Structure in Galaxies (S$^4$G): The Imprint of the De Vaucouleurs Revised Hubble-Sandage Classification System at 3.6 $\mu$m
+VL  - 190
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - It is well established that (1) star-forming galaxies follow a relation between their star formation rate (SFR) and stellar mass (M$_\star$), the "star-formation sequence", and (2) the SFRs of galaxies correlate with their structure, where star-forming galaxies are less concentrated than quiescent galaxies at fixed mass. Here, we consider whether the scatter and slope of the star-formation sequence is correlated with systematic variations in the Sersic indices, $n$, of galaxies across the SFR-M$_\star$ plane. We use a mass-complete sample of 23,848 galaxies at $0.5<z<2.5$ selected from the 3D-HST photometric catalogs. Galaxy light profiles parameterized by $n$ are based on Hubble Space Telescope CANDELS near-infrared imaging. We use a single SFR indicator empirically-calibrated from stacks of Spitzer/MIPS 24$\mu$m imaging, adding the unobscured and obscured star formation. We find that the scatter of the star-formation sequence is related in part to galaxy structure; the scatter due to variations in $n$ at fixed mass for star-forming galaxies ranges from 0.14$\pm$0.02 dex at $z\sim2$ to 0.30$\pm$0.04 dex at $z<1$. While the slope of the log(SFR)-log(M$_\star$) relation is of order unity for disk-like galaxies, galaxies with $n>2$ (implying more dominant bulges) have significantly lower SFR/M$_\star$ than the main ridgeline of the star-formation sequence. These results suggest that bulges in massive $z\sim2$ galaxies are actively building up, where the stars in the central concentration are relatively young. At $z<1$, the presence of older bulges within star-forming galaxies lowers global SFR/M$_\star$, decreasing the slope and contributing significantly to the scatter of the star-formation sequence.
+AU  - Whitaker, K.~E.
+AU  - Franx, M.
+AU  - Bezanson, R.
+AU  - Brammer, G.~B.
+AU  - van Dokkum, P.~G.
+AU  - Kriek, M.~T.
+AU  - Labbe, I.
+AU  - Leja, J.
+AU  - Momcheva, I.~G.
+AU  - Nelson, E.~J.
+AU  - Rigby, J.~R.
+AU  - Rix, H.-W.
+AU  - Skelton, R.~E.
+AU  - van der Wel, A.
+AU  - Wuyts, S.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+Y2  - August
+T1  - Galaxy Structure as a Driver of the Star Formation Sequence Slope and Scatter
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - Although current literature highlights a wide variety of potential citizen science project outcomes, no prior studies have systematically assessed performance against a comprehensive set of criteria. The study reported here is the first to propose a novel framework for assessing citizen science projects against multiple dimensions of success. The authors apply this framework to a sample of projects that form part of the online Zooniverse platform and position these projects against a success matrix that measures both contribution to science and public engagement levels relative to other projects in the sample. Their results indicate that better-performing projects tend to be those that are more established, as well as those in the area of astronomy. Implications for citizen science practitioners include the need to consider the impact of core competencies on project performance, as well as the importance of relationships between the central organization and science teams.
+AU  - Cox, J.
+AU  - Oh, E.
+AU  - Simmons, B.
+AU  - Lintott, C.
+AU  - Masters, K.
+AU  - Greenhill, A.
+AU  - Graham, G.
+AU  - Holmes, K.
+JO  - Computing in Science Engineering
+KW  - Internet
+KW  - groupware
+KW  - natural sciences computing
+KW  - Zooniverse projects
+KW  - online citizen science
+KW  - public engagement levels
+KW  - science contribution
+KW  - success matrix
+KW  - Atmospheric measurements
+KW  - Collaboration
+KW  - Extraterrestrial measurements
+KW  - Globalization
+KW  - Particle measurements
+KW  - Position measurement
+KW  - Research and development
+KW  - Scientific computing
+KW  - Zooniverse
+KW  - citizen science
+KW  - metrics
+KW  - online
+KW  - project outcomes
+KW  - scientific computing
+KW  - success factors
+Y2  - July
+IS  - 4
+SP  - 28
+EP  - 41
+T1  - Defining and Measuring Success in Online Citizen Science: A Case Study of Zooniverse Projects
+VL  - 17
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AU  - Licquia, T.~C.
+AU  - Newman, J.~A.
+AU  - Brinchmann, J.
+JO  - \apj
+KW  - Galaxy
+KW  -  evolution
+KW  -  Galaxy
+KW  -  fundamental parameters
+KW  -  Galaxy
+KW  -  stellar content
+KW  -  methods
+KW  -  statistical
+KW  -  stars
+KW  -  formation
+Y2  - August
+SP  - 96
+T1  - Unveiling the Milky Way: A New Technique for Determining the Optical Color and Luminosity of Our Galaxy
+VL  - 809
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We discuss the observational evidences of the morphological transformation of Spirals into S0 galaxies in the cluster environment exploiting two big databases of galaxy clusters: WINGS (0.04 < z < 0.07) and EDisCS (0.4 < z < 0.8). The most important results are: 1) the average number of S0 galaxies in clusters is almost a factor of $\sim 3 - 4$ larger today than at redshift $z \sim 1$; 2) the fraction of S0's to Spirals increases on average by a factor $\sim$ 2 every Gyr; 3) the average rate of transformation for Spirals (not considering the infall of new galaxies from the cosmic web) is: $\sim$ 5 Sp into S0's per Gyr and $\sim$ 2 Sp into E's per Gyr; 4) there are evidences that the interstellar gas of Spirals is stripped by an hot intergalactic medium; 5) there are also indirect hints that major/minor merging events have played a role in the transformation of Spiral galaxies. In particular, we show that: 1) the ratio between the number of S0's and Spirals (NS0/NSp) in the WINGS clusters is correlated with their X-ray luminosity $L_X$ ; 2) that the brightest and massive S0's are always close to the cluster center; 3) that the mean Sersic index of S0's is always larger than that of Spirals (and lower than E's) for galaxy stellar masses above $10^9.5$ Msun; 4) that the number of E's in clusters cannot be constant; 5) that the largest difference between the mean mass of S0's and E's with respect to Spirals is observed in clusters with low velocity dispersion. Finally, by comparing the properties of the various morphological types for galaxies in clusters and in the field, we find that the most significant effect of the environment is the stripping of the outer galaxy regions, resulting in a systematic difference in effective radius and Sersic index.
+AU  - D'Onofrio, M.
+AU  - Marziani, P.
+AU  - Buson, L.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+Y2  - August
+T1  - The transformation of Spirals into S0 galaxies in the cluster environment
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - Using the photometric redshifts of galaxies from the Sloan Digital Sky Survey III (SDSS-III), we identify 132,684 clusters in the redshift range of 0.05 <= z < 0.8. Monte Carlo simulations show that the false detection rate is less than 6% for the whole sample. The completeness is more than 95% for clusters with a mass of M 200 > 1.0 × 1014 M &sun; in the redshift range of 0.05 <= z < 0.42, while clusters of z > 0.42 are less complete and have a biased smaller richness than the real one due to incompleteness of member galaxies. We compare our sample with other cluster samples, and find that more than 90% of previously known rich clusters of 0.05 <= z < 0.42 are matched with clusters in our sample. Richer clusters tend to have more luminous brightest cluster galaxies (BCGs). Correlating with X-ray and the Planck data, we show that the cluster richness is closely related to the X-ray luminosity, temperature, and Sunyaev-Zel'dovich measurements. Comparison of the BCGs with the SDSS luminous red galaxy (LRG) sample shows that 25% of LRGs are BCGs of our clusters and 36% of LRGs are cluster member galaxies. In our cluster sample, 63% of BCGs of r petro < 19.5 satisfy the SDSS LRG selection criteria.
+AU  - Wen, Z.~L.
+AU  - Han, J.~L.
+AU  - Liu, F.~S.
+JO  - \apjs
+KW  - galaxies
+KW  -  clusters
+KW  -  general
+KW  -  galaxies
+KW  -  distances and redshifts
+Y2  - April
+SP  - 34
+T1  - A Catalog of 132,684 Clusters of Galaxies Identified from Sloan Digital Sky Survey III
+VL  - 199
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - Selecting centrally quiescent galaxies from the Sloan Digital Sky Survey (SDSS) to create high signal-to-noise ratio (≳ 100 Å-1) stacked spectra with minimal emission-line contamination, we accurately and precisely model the central stellar populations of barred and unbarred quiescent disk galaxies. By splitting our sample by redshift, we can use the fixed size of the SDSS fiber to model the stellar populations at different radii within galaxies. At 0.02\lt z\lt 0.04, the SDSS fiber radius corresponds to ≈1 kpc, which is the typical half-light radii of both classical bulges and disky pseudobulges. Assuming that the SDSS fiber primarily covers the bulges at these redshifts, our analysis shows that there are no significant differences in the stellar populations, i.e., stellar age, [Fe/H], [Mg/Fe], and [N/Fe], of the bulges of barred versus unbarred quiescent disk galaxies. Modeling the stellar populations at different redshift intervals from z = 0.020 to z = 0.085 at fixed stellar masses produces an estimate of the stellar population gradients out to about half the typical effective radius of our sample, assuming null evolution over this ≈1 Gyr epoch. We find that there are no noticeable differences in the slopes of the azimuthally averaged gradients of barred versus unbarred quiescent disk galaxies. These results suggest that bars are not a strong influence on the chemical evolution of quiescent disk galaxies.
+AU  - Cheung, E.
+AU  - Conroy, C.
+AU  - Athanassoula, E.
+AU  - Bell, E.~F.
+AU  - Bosma, A.
+AU  - Cardamone, C.~N.
+AU  - Faber, S.~M.
+AU  - Koo, D.~C.
+AU  - Lintott, C.
+AU  - Masters, K.~L.
+AU  - Melvin, T.
+AU  - Simmons, B.
+AU  - Willett, K.~W.
+JO  - \apj
+KW  - galaxies
+KW  -  abundances
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  stellar content
+KW  -  galaxies
+KW  -  structure
+Y2  - July
+SP  - 36
+T1  - Stellar Populations of Barred Quiescent Galaxies
+VL  - 807
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - We present the methodology for "blind" millimeter-wave surveys for redshifted molecular absorption in the CO/HCO+ rotational lines. The frequency range 30-50 GHz appears optimal for such surveys, providing sensitivity to absorbers at z >~ 0.85. It is critical that the survey is "blind," i.e., based on a radio-selected sample, including sources without known redshifts. We also report results from the first large survey of this kind, using the Q-band receiver on the Green Bank Telescope (GBT) to search for molecular absorption toward 36 sources, 3 without known redshifts, over the frequency range 39.6-49.5 GHz. The GBT survey has a total redshift path of Deltaz ≈ 24, mostly at 0.81 < z < 1.91, and a sensitivity sufficient to detect equivalent H2 column densities >~ 3 × 1021 cm-2 in absorption at 5sigma significance (using CO-to-H2 and HCO+-to-H2 conversion factors of the Milky Way). The survey yielded no confirmed detections of molecular absorption, yielding the 2sigma upper limit n(z = 1.2) < 0.15 on the redshift number density of molecular gas at column densities N(H2) >~ 3 × 1021 cm-2.
+AU  - Kanekar, N.
+AU  - Gupta, A.
+AU  - Carilli, C.~L.
+AU  - Stocke, J.~T.
+AU  - Willett, K.~W.
+JO  - \apj
+KW  - galaxies
+KW  -  high-redshift
+KW  -  molecular processes
+KW  -  quasars
+KW  -  absorption lines
+Y2  - February
+SP  - 56
+T1  - A Blind Green Bank Telescope Millimeter-wave Survey for Redshifted Molecular Absorption
+VL  - 782
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - We present improved estimates of several global properties of the Milky Way, including its current star formation rate (SFR), the stellar mass contained in its disk and bulge+bar components, as well as its total stellar mass. We do so by combining previous measurements from the literature using a hierarchical Bayesian (HB) statistical method that allows us to account for the possibility that any value may be incorrect or have underestimated errors. We show that this method is robust to a wide variety of assumptions about the nature of problems in individual measurements or error estimates. Ultimately, our analysis yields an SFR for the Galaxy of M\star =1.65+/- 0.19 Mo  yr-1, assuming a Kroupa initial mass function (IMF). By combining HB methods with Monte Carlo simulations that incorporate the latest estimates of the Galactocentric radius of the Sun, R0, the exponential scale length of the disk, Ld, and the local surface density of stellar mass, Sigma\star (R0), we show that the mass of the Galactic bulge+bar is M\star B=0.91+/- 0.07× 1010 Mo , the disk mass is M\star D=5.17+/- 1.11× 1010 Mo , and their combination yields a total stellar mass of M\star =6.08+/- 1.14× 1010 Mo  (assuming a Kroupa IMF and an exponential disk profile). This analysis is based upon a new compilation of literature bulge mass estimates, normalized to common assumptions about the stellar IMF and Galactic disk properties, presented herein. We additionally find a bulge-to-total mass ratio for the Milky Way of B/T=0.150-0.019+0.028 and a specific SFR of M\star /M\star =2.71+/- 0.59× 10-11 yr-1.
+AU  - Licquia, T.~C.
+AU  - Newman, J.~A.
+JO  - \apj
+KW  - Galaxy
+KW  -  bulge
+KW  -  Galaxy
+KW  -  disk
+KW  -  Galaxy
+KW  -  fundamental parameters
+KW  -  Galaxy
+KW  -  stellar content
+KW  -  methods
+KW  -  statistical
+KW  -  stars
+KW  -  formation
+Y2  - June
+SP  - 96
+T1  - Improved Estimates of the Milky Way's Stellar Mass and Star Formation Rate from Hierarchical Bayesian Meta-Analysis
+VL  - 806
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AU  - Greenhill, A.
+AU  - Holmes, K.
+AU  - Lintott, C.
+AU  - Simmons, B.
+AU  - Masters, K.
+AU  - Cox, J.
+AU  - Graham, G.
+T2  - GAME-ON 2014 15th International Conference on Intelligent Games and Simulation
+ED  - Dickinson, P.
+SP  - 15
+EP  - 24
+PB  - EUROSIS
+T1  - Playing with science: gamised aspects of gamification found on the Online Citizen Science Project-Zooniverse
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AD  - New York, NY, USA
+AU  - Eveleigh, Alexandra
+AU  - Jennett, Charlene
+AU  - Blandford, Ann
+AU  - Brohan, Philip
+AU  - Cox, Anna L.
+T2  - Proceedings of the 32Nd Annual ACM Conference on Human Factors in Computing Systems
+SN  - 978-1-4503-2473-1
+KW  - citizen science
+KW  -  dabblers
+KW  -  engagement
+KW  -  motivation
+SP  - 2985
+EP  - -2994
+PB  - ACM
+T1  - Designing for Dabblers and Deterring Drop-outs in Citizen Science
+UR  - http://doi.acm.org/10.1145/2556288.2557262
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AB  - The process of swing amplification is discussed as a possible mechanism to account for the spiral structure of galaxies. The mechanism is proposed to occur in a thin infinite disk of stars with a Gaussian spread of radial velocities orbiting in a force field corresponding to the flattest imaginable law of circular motion, with half of the central force field coming from a rigid and fixed spheroidal halo, which is subject to disturbances resulting from weak, transient external quadrupole forces revolving counterclockwise with the same angular speed as the test particles in the outermost circles. The amplification is shown to result from a combination of galactic shear flow, epicyclic shaking and self-gravity, and to be characterized by oscillations with amplitudes about four times larger than kinematic and arms wound more tightly and of greater density than kinematic features. The unstable spiral modes of a Gaussian disk are then examined, and implications of the swing amplification theory for the prevention of violent bar-making instabilities of disks and the lifetimes of the spiral patterns in normal spirals such as M51 and M81 are noted.
+AU  - Toomre, A.
+T2  - Structure and Evolution of Normal Galaxies
+ED  - Fall, S.~M.
+ED  - Lynden-Bell, D.
+KW  - Galactic Structure
+KW  -  Rotating Disks
+KW  -  Spiral Galaxies
+KW  -  Star Distribution
+KW  -  Stellar Motions
+KW  -  Gravitational Effects
+KW  -  Halos
+KW  -  Radial Velocity
+KW  -  Shear Flow
+SP  - 111
+EP  - 136
+T1  - What amplifies the spirals?
+PY  - 1981
+ER  - 
+
+
+TY  - JOUR
+AB  - A model based on disk-stability criteria to determine the number of spiral arms of a general disk galaxy with an exponential disk, a bulge and a dark halo described by a Hernquist model is presented. The multifold rotational symmetry of the spiral structure can be evaluated analytically once the structural properties of a galaxy, such as the circular speed curve, and the disk surface brightness, are known. By changing the disk mass, these models are aimed at varying the critical length scale parameter of the disk and lead to a different spiral morphology in agreement with prior models. Previous studies based on the swing amplification and disk stability have been applied to constrain the mass-to-light ratio in disk galaxies. This formalism provides an analytic expression to estimate the number of arms expected by swing amplification making its application straight-forward to large surveys. It can be applied to predict the number of arms in the Milky Way as a function of radius and to constrain the mass-to-light ratio in disk galaxies for which photometric and kinematic measurements are available, like in the DiskMass survey. Hence, the halo contribution to the total mass in the inner parts of disk galaxies can be inferred in light of the ongoing and forthcoming surveys.
+AU  - D'Onghia, E.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+Y2  - July
+T1  - Disk-stability constraints on the number of arms in spiral galaxies
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - This paper presents a brief, semi-technical comparison of the essential features of the frequentist and Bayesian approaches to statistical inference, with several illustrative examples implemented in Python. The differences between frequentism and Bayesianism fundamentally stem from differing definitions of probability, a philosophical divide which leads to distinct approaches to the solution of statistical problems as well as contrasting ways of asking and answering questions about unknown parameters. After an example-driven discussion of these differences, we briefly compare several leading Python statistical packages which implement frequentist inference using classical methods and Bayesian inference using Markov Chain Monte Carlo.
+AU  - VanderPlas, J.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Instrumentation and Methods for Astrophysics
+Y2  - November
+T1  - Frequentism and Bayesianism: A Python-driven Primer
+PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - Petrosian magnitudes were designed to help with the difficult task of determining a galaxy's total light. Although these magnitudes [taken here as the flux within 2RP, with the inverted Petrosian index 1/eta(RP)=0.2] can represent most of an object's flux, they do of course miss the light outside the Petrosian aperture (2RP). The size of this flux deficit varies monotonically with the shape of a galaxy's light profile, i.e., its concentration. In the case of a de Vaucouleurs R1/4 profile, the deficit is 0.20 mag; for an R1/8 profile this figure rises to 0.50 mag. Here we provide a simple method for recovering total (Sérsic) magnitudes from Petrosian magnitudes using only the galaxy concentration (R90/R50 or R80/R20) within the Petrosian aperture. The corrections hold to the extent that Sérsic's model provides a good description of a galaxy's luminosity profile. We show how the concentration can also be used to convert Petrosian radii into effective half-light radii, enabling a robust measure of the mean effective surface brightness. Our technique is applied to the Sloan Digital Sky Survey Data Release 2 (SDSS DR2) Petrosian parameters, yielding good agreement with the total magnitudes, effective radii, and mean effective surface brightnesses obtained from the New York University Value-Added Galaxy Catalog Sérsic R1/n fits by Blanton and coworkers. Although the corrective procedure described here is specifically applicable to the SDSS DR2 and DR3, it is generally applicable to all imaging data where any Petrosian index and concentration can be constructed.
+AU  - Graham, A.~W.
+AU  - Driver, S.~P.
+AU  - Petrosian, V.
+AU  - Conselice, C.~J.
+AU  - Bershady, M.~A.
+AU  - Crawford, S.~M.
+AU  - Goto, T.
+JO  - \aj
+KW  - Galaxies
+KW  -  Fundamental Parameters
+KW  -  Galaxies
+KW  -  Structure
+KW  -  Methods
+KW  -  Analytical
+KW  -  Methods
+KW  -  Data Analysis
+Y2  - October
+SP  - 1535
+EP  - 1544
+T1  - Total Galaxy Magnitudes and Effective Radii from Petrosian Magnitudes and Radii
+VL  - 130
+PY  - 2005
+ER  - 
+
+
+TY  - JOUR
+AB  - We present our methods for generating a catalogue of 7000 synthetic images and 40 000 integrated spectra of redshift z = 0 galaxies from the Illustris simulation. The mock data products are produced by using stellar population synthesis models to assign spectral energy distributions (SED) to each star particle in the galaxies. The resulting synthetic images and integrated SEDs therefore properly reflect the spatial distribution, stellar metallicity distribution, and star formation history of the galaxies. From the synthetic data products, it is possible to produce monochromatic or colour-composite images, perform SED fitting, classify morphology, determine galaxy structural properties, and evaluate the impacts of galaxy viewing angle. The main contribution of this paper is to describe the production, format, and composition of the image catalogue that makes up the Illustris Simulation Observatory. As a demonstration of this resource, we derive galactic stellar mass estimates by applying the SED fitting code FAST to the synthetic galaxy products, and compare the derived stellar masses against the true stellar masses from the simulation. We find from this idealized experiment that systematic biases exist in the photometrically derived stellar mass values that can be reduced by using a fixed metallicity in conjunction with a minimum galaxy age restriction.
+AU  - Torrey, P.
+AU  - Snyder, G.~F.
+AU  - Vogelsberger, M.
+AU  - Hayward, C.~C.
+AU  - Genel, S.
+AU  - Sijacki, D.
+AU  - Springel, V.
+AU  - Hernquist, L.
+AU  - Nelson, D.
+AU  - Kriek, M.
+AU  - Pillepich, A.
+AU  - Sales, L.~V.
+AU  - McBride, C.~K.
+JO  - \mnras
+KW  - methods
+KW  -  numerical
+KW  -  astronomical data bases
+KW  -  miscellaneous
+KW  -  catalogues
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  formation
+KW  -  galaxies
+KW  -  photometry
+Y2  - March
+SP  - 2753
+EP  - 2771
+T1  - Synthetic galaxy images and spectra from the Illustris simulation
+VL  - 447
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - [abridged] We quantify the morphological evolution of z~0 massive galaxies ($M*/M_\odot\sim10^11$) from z~3 in the 5 CANDELS fields. The progenitors are selected using abundance matching techniques to account for the mass growth. The morphologies strongly evolve from z~3. At z<1, the population matches the massive end of the Hubble sequence, with 30% of spheroids, 50% of galaxies with equally dominant disk and bulge components and 20% of disks. At z~2-3 there is a majority of irregular systems (~60-70%) with still 30% of spheroids. We then analyze the SFRs, gas fractions and structural properties for the different morphologies independently. Our results suggest two distinct channels for the growth of bulges in massive galaxies. Around 30-40% were already bulges at z~2.5, with low average SFRs and gas-fractions (10-15%), high Sersic indices (n>3-4) and small effective radii ($R_e$~1 kpc) pointing towards an early formation through gas-rich mergers or VDI. Between z~ 2.5 and z~0, they rapidly increase their size by a factor of ~4-5, become all passive but their global morphology remains unaltered. The structural evolution is independent of the gas fractions, suggesting that it is driven by ex-situ events. The remaining 60% experience a gradual morphological transformation, from clumpy disks to more regular bulge+disks systems, essentially happening at z>1. It results in the growth of a significant bulge component (n~3) for 2/3 of the systems possibly through the migration of clumps while the remaining 1/3 keeps a rather small bulge (n~1.5-2). The transition phase between disturbed and relaxed systems and the emergence of the bulge is correlated with a decrease of the star formation activity and the gas fractions. The growth of the effective radii scales roughly with $H(z)^-1$ and it is therefore consistent with the expected growth of disks in galaxy haloes.
+AU  - Huertas-Company, M.
+AU  - Pérez-González, P.~G.
+AU  - Mei, S.
+AU  - Shankar, F.
+AU  - Bernardi, M.
+AU  - Daddi, E.
+AU  - Barro, G.
+AU  - Cabrera-Vives, G.
+AU  - Cattaneo, A.
+AU  - Dimauro, P.
+AU  - Gravet, R.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Astrophysics of Galaxies
+KW  -  Astrophysics - Cosmology and Nongalactic Astrophysics
+Y2  - June
+T1  - The morphologies of massive galaxies from z\~3 - Witnessing the 2 channels of bulge growth
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
 AU  - Cusack, Jeremy J.
 AU  - Swanson, Alexandra
 AU  - Coulson, Tim
@@ -17,8 +1816,7 @@ KW  -  Panthera leo
 KW  -  random encounter model
 KW  -  REM
 KW  -  Serengeti
-SP  - n/a
-EP  - -n/a
+SP  - 1014
 T1  - Applying a random encounter model to estimate lion density from camera traps in Serengeti National Park, Tanzania
 UR  - http://dx.doi.org/10.1002/jwmg.902
 PY  - 2015
@@ -394,12 +2192,12 @@ AU  - Simpson, Robert
 AU  - Smith, Arfon
 AU  - Packer, Craig
 JO  - Scientific Data
-L3  - 10.1038/sdata.2015.26; 
+L3  - 10.1038/sdata.2015.26;
 M3  - Data Descriptor
 Y2  - 06
-SP  -  EP  
+SP  - EP 
 EP  - 
-PB  - Macmillan Publishers Limited SN  -
+PB  - Macmillan Publishers Limited SN -
 T1  - Snapshot Serengeti, high-frequency annotated camera trap images of 40 mammalian species in an African savanna
 TY  - JOUR
 UR  - http://dx.doi.org/10.1038/sdata.2015.26
@@ -457,75 +2255,6 @@ EP  - 6
 T1  - Asking gender questions
 VL  - 55
 PY  - 2014
-ER  - 
-
-
-TY  - JOUR
-AB  - We report the discovery of 28 promising and a total of 58 new lens candidates from the CFHT Legacy Survey (CFHTLS) based on about 11 million classifications performed by citizen scientists as part of the first Space Warps lens search. The goal of the blind lens search was to identify lenses missed by lens finding robots (the RingFinder on galaxy scales and ArcFinder on group/cluster scales), which have been previously used to mine the CFHTLS for lenses. We compare some properties of lens samples detected by these algorithms to the SpaceWarps sample and found that they are broadly similar. The image separation distribution calculated from the SpaceWarps discovered sample shows that our previous constraints on the average density profile of the lens population are robust. Space Warps recovers about 60% of the known sample and the new candidates show a richer variety compared to the lenses found by the two robots. We find that analyzing only those classifications which are performed by the high power volunteers, Space Warps can achieve a detection rate of up to 75% for the known lens sample. Training and calibration of the performance of citizen scientists is crucial for the success of Space Warps. We also present the SIMCT pipeline, used for generating a sample of realistic simulated lensed images in the CFHTLS, and a sample of duds and false positives used in the training. Such a training sample has a legacy value for testing future lens finding algorithms. We make our training sample publicly available.
-AU  - More, A.
-AU  - Verma, A.
-AU  - Marshall, P.
-AU  - More, S.
-AU  - Baeten, E.
-AU  - Wilcox, J.
-AU  - Macmillan, C.
-AU  - Cornen, C.
-AU  - Kapadia, A.
-AU  - Parrish, M.
-AU  - Snyder, C.
-AU  - Davis, C.
-AU  - Gavazzi, R.
-AU  - Lintott, C.
-AU  - Simpson, R.
-AU  - Miller, D.
-AU  - Smith, A.~M.
-AU  - Paget, E.
-AU  - Saha, P.
-AU  - Kueng, R.
-AU  - Collett, T.
-AU  - Tecza, M.
-AU  - Baumer, M.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Cosmology and Nongalactic Astrophysics
-KW  -  Astrophysics - Astrophysics of Galaxies
-Y2  - April
-T1  - Space Warps II. New Gravitational Lens Candidates from the CFHTLS Discovered through Citizen Science
-PY  - 2015
-ER  - 
-
-
-TY  - JOUR
-AB  - We describe Space Warps, a novel gravitational lens discovery service that yields samples of high purity and completeness through crowd-sourced visual inspection. Carefully produced colour composite images are displayed to volunteers via a classi- fication interface which records their estimates of the positions of candidate lensed features. Simulated lenses, and expert-classified images which lack lenses, are inserted into the image stream at random intervals; this training set is used to give the vol- unteers feedback on their performance, as well as to calibrate it in order to allow dynamical updates to the probability of any image they classify to contain a lens. Low probability systems are retired from the site periodically, concentrating the sample towards a set of candidates. Having divided 160 square degrees of Canada-France- Hawaii Telescope Legacy Survey (CFHTLS) imaging into some 430,000 overlapping 84 by 84 arcsecond tiles and displaying them on the site, we were joined by around 37,000 volunteers who contributed 11 million image classifications over the course of 8 months. The sample was reduced to 3368 Stage I candidates; these were then refined to yield a sample that we expect to be over 90% complete and 30% pure. We comment on the scalability of the Space Warps system to the wide field survey era, based on our finding that searches of 10$^5$ images can be performed by a crowd of 10$^5$ volunteers in 6 days.
-AU  - Marshall, P.
-AU  - Verma, A.
-AU  - More, A.
-AU  - Davis, C.
-AU  - More, S.
-AU  - Kapadia, A.
-AU  - Parrish, M.
-AU  - Snyder, C.
-AU  - Wilcox, J.
-AU  - Baeten, E.
-AU  - Macmillan, C.
-AU  - Cornen, C.
-AU  - Baumer, M.
-AU  - Simpson, E.
-AU  - Lintott, C.
-AU  - Miller, D.
-AU  - Paget, E.
-AU  - Simpson, R.
-AU  - Smith, A.
-AU  - Kueng, R.
-AU  - Saha, P.
-AU  - Collett, T.
-AU  - Tecza, M.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Instrumentation and Methods for Astrophysics
-KW  -  Astrophysics - Cosmology and Nongalactic Astrophysics
-KW  -  Astrophysics - Astrophysics of Galaxies
-Y2  - April
-T1  - Space Warps: I. Crowd-sourcing the Discovery of Gravitational Lenses
-PY  - 2015
 ER  - 
 
 
@@ -1238,7 +2967,7 @@ ER  -
 
 
 TY  - JOUR
-AB  - By combining the data of the Two Micron All Sky Survey (2MASS), the Wide Field Infrared Survey Explorer (WISE) and the Akari satellite, we study the infrared colour properties of a sample of 2712 nearby radio-luminous galaxies (RLGs). These RLGs are divided into radio-loud (RL) active galactic nuclei (AGNs), mainly occurring at redshifts of $0.05<z<0.3$ and star-forming-dominated RLGs (SFGs), mainly occurring at redshifts of $0.01<z<0.15$. RL AGNs and SFGs are separately distributed in the ([3.4]-[4.6])$-$([4.6]-[12]) two-colour diagram, in which the RL AGNs display a double-core distribution, and the SFGs display a single-core distribution. SFGs have a redder [4.6]-[12] colour than RL AGNs due to the significant contribution from the dust component of SFGs. We find simple criteria of MIR colour separation between RL AGNs and SFGs such that: 95$\%$ of RL AGNs have [4.6]-[12] $<$ 3.0 and 94$\%$ of SFGs have [4.6]-[12] $>$ 3.0. We also analyse the MIR colours of RL AGNs divided into low- and high-excitation radio galaxies (LERGs and HERGs, respectively). The ([3.4]-[4.6])$-$([4.6]-[12]) diagram clearly shows separate distributions of LERGs and HERGs and a region of overlap, which suggests that LERGs and HERGs have different MIR properties. LERGs are responsible for the double-core distribution of RL AGNs on the ([3.4]-[4.6])$-$([4.6]-[12]) diagram. In addition, we also suggest 90$-$140$\mu$m band spectral index $\alpha(90,140)<-1.4$ as a criterion of selecting nearby active galaxies with non-thermal emissions at FIR wavelengths.
+AB  - By combining the data of the Two Micron All Sky Survey (2MASS), the Wide Field Infrared Survey Explorer (WISE) and the Akari satellite, we study the infrared colour properties of a sample of 2712 nearby radio-luminous galaxies (RLGs). These RLGs are divided into radio-loud (RL) active galactic nuclei (AGNs), mainly occurring at redshifts of $0.05<z<0.3$ and star-forming-dominated RLGs (SFGs), mainly occurring at redshifts of $0.01<z<0.15$. RL AGNs and SFGs are separately distributed in the ([3.4]-[4.6])$-$([4.6]-[12]) two-colour diagram, in which the RL AGNs display a double-core distribution, and the SFGs display a single-core distribution. SFGs have a redder [4.6]-[12] colour than RL AGNs due to the significant contribution from the dust component of SFGs. We find simple criteria of MIR colour separation between RL AGNs and SFGs such that: 95$\$ of RL AGNs have [4.6]-[12] $<$ 3.0 and 94$\$ of SFGs have [4.6]-[12] $>$ 3.0. We also analyse the MIR colours of RL AGNs divided into low- and high-excitation radio galaxies (LERGs and HERGs, respectively). The ([3.4]-[4.6])$-$([4.6]-[12]) diagram clearly shows separate distributions of LERGs and HERGs and a region of overlap, which suggests that LERGs and HERGs have different MIR properties. LERGs are responsible for the double-core distribution of RL AGNs on the ([3.4]-[4.6])$-$([4.6]-[12]) diagram. In addition, we also suggest 90$-$140$\mu$m band spectral index $\alpha(90,140)<-1.4$ as a criterion of selecting nearby active galaxies with non-thermal emissions at FIR wavelengths.
 AU  - Yang, X.-h.
 AU  - Chen, P.-s.
 AU  - Huang, Y.
@@ -1934,30 +3663,6 @@ PY  - 2014
 ER  - 
 
 
-TY  - JOUR
-AB  - We present narrow- and medium-band HST imaging, with supporting data, for 8 galaxies hosting fading AGN. These are selected to have AGN-ionized gas projected >10 kpc from the nucleus, and a significant shortfall of ionizing radiation, indicating fading of the AGN on ~50,000-year timescales. This paper deals with the host-galaxy properties and origin of the gas. In every galaxy, we identify evidence of ongoing or past interactions. Several show multiple dust lanes in different orientations, broadly fit by differentially precessing disks of accreted material. The host systems are of early Hubble type, with one S0 and one SB0 galaxy. The gas, generally of low metallicity and lying near the galaxies' rotation curves, is consistent with an external tidal origin, although the ionized gas and stellar tidal features do not always match closely. Unlike the case in many radio-loud AGN, these clouds are kinematically quiet and generally follow organized rotation curves. [O III]/H-alpha ratios often trace distinct ionization cones. We find only a few sets of young star clusters potentially triggered by AGN outflows. In UGC 7342 and UGC 11185, multiple luminous star clusters are seen just within the projected ionization cones, potentially marking star formation triggered by outflows. In some regions, lack of a strong correlation between H-alpha surface brightness and ionization parameter indicates unresolved fine structure. Together with thin coherent filaments spanning several kpc, persistence of these structures over their orbital lifetimes may require a role for magnetic confinement. Overall, we find that the fading AGN occur in interacting and merging systems, that the extended ionized gas is composed of tidal debris rather than galactic winds, and that these host systems are bulge-dominated and show no strong evidence of triggered star formation in luminous clusters. (Abridged)
-AU  - Keel, W.~C.
-AU  - Maksym, W.~P.
-AU  - Bennert, V.~N.
-AU  - Lintott, C.~J.
-AU  - Chojnowski, S.~D.
-AU  - Moiseev, A.
-AU  - Smirnova, A.
-AU  - Schawinski, K.
-AU  - Urry, C.~M.
-AU  - Evans, D.~A.
-AU  - Pancoast, A.
-AU  - Scott, B.
-AU  - Showley, C.
-AU  - Flatland, K.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Astrophysics of Galaxies
-Y2  - August
-T1  - HST Imaging of Fading AGN Candidates I: Host-Galaxy Properties and Origin of the Extended Gas
-PY  - 2014
-ER  - 
-
-
 TY  - CONF
 AD  - Republic and Canton of Geneva, Switzerland
 AU  - Simpson, Robert
@@ -2193,7 +3898,7 @@ ER  -
 
 
 TY  - JOUR
-AB  - Recent observations with the Murchison Widefield Array at 185~MHz have serendipitously unveiled a heretofore unknown giant and relatively nearby ($z = 0.0178$) radio galaxy associated with NGC\,1534. The diffuse emission presented here is the first indication that NGC\,1534 is one of a rare class of objects (along with NGC\,5128 and NGC\,612) in which a galaxy with a prominent dust lane hosts radio emission on scales of $\sim$700\,kpc. We present details of the radio emission along with a detailed comparison with other radio galaxies with disks. NGC1534 is the lowest surface brightness radio galaxy known with an estimated scaled 1.4-GHz surface brightness of just 0.2\,mJy\,arcmin$^-2$. The radio lobes have one of the steepest spectral indices yet observed: $\alpha=-2.1\pm0.1$, and the core to lobe luminosity ratio is $<0.1$\%. We estimate the space density of this low brightness (dying) phase of radio galaxy evolution as $7\times10^-7$\,Mpc$^-3$ and argue that normal AGN cannot spend more than 6\% of their lifetime in this phase if they all go through the same cycle.
+AB  - Recent observations with the Murchison Widefield Array at 185~MHz have serendipitously unveiled a heretofore unknown giant and relatively nearby ($z = 0.0178$) radio galaxy associated with NGC\,1534. The diffuse emission presented here is the first indication that NGC\,1534 is one of a rare class of objects (along with NGC\,5128 and NGC\,612) in which a galaxy with a prominent dust lane hosts radio emission on scales of $\sim$700\,kpc. We present details of the radio emission along with a detailed comparison with other radio galaxies with disks. NGC1534 is the lowest surface brightness radio galaxy known with an estimated scaled 1.4-GHz surface brightness of just 0.2\,mJy\,arcmin$^-2$. The radio lobes have one of the steepest spectral indices yet observed: $\alpha=-2.1\pm0.1$, and the core to lobe luminosity ratio is $<0.1$\. We estimate the space density of this low brightness (dying) phase of radio galaxy evolution as $7\times10^-7$\,Mpc$^-3$ and argue that normal AGN cannot spend more than 6\ of their lifetime in this phase if they all go through the same cycle.
 AU  - Hurley-Walker, N.
 AU  - Johnston-Hollitt, M.
 AU  - Ekers, R.
@@ -2756,29 +4461,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - We present our methods for generating a catalog of 7,000 synthetic images and 40,000 integrated spectra of redshift z = 0 galaxies from the Illustris Simulation. The mock data products are produced by using stellar population synthesis models to assign spectral energy distributions (SED) to each star particle in the galaxies. The resulting synthetic images and integrated SEDs therefore properly reflect the spatial distribution, stellar metallicity distribution, and star formation history of the galaxies. From the synthetic data products it is possible to produce monochromatic or color-composite images, perform SED fitting, classify morphology, determine galaxy structural properties, and evaluate the impacts of galaxy viewing angle. The main contribution of this paper is to describe the production, format, and composition of the image catalog that makes up the Illustris Simulation Obsevatory. As a demonstration of this resource, we derive galactic stellar mass estimates by applying the SED fitting code FAST to the synthetic galaxy products, and compare the derived stellar masses against the true stellar masses from the simulation. We find from this idealized experiment that systematic biases exist in the photometrically derived stellar mass values that can be reduced by using a fixed metallicity in conjunction with a minimum galaxy age restriction.
-AU  - Torrey, P.
-AU  - Snyder, G.~F.
-AU  - Vogelsberger, M.
-AU  - Hayward, C.~C.
-AU  - Genel, S.
-AU  - Sijacki, D.
-AU  - Springel, V.
-AU  - Hernquist, L.
-AU  - Nelson, D.
-AU  - Kriek, M.
-AU  - Pillepich, A.
-AU  - Sales, L.~V.
-AU  - McBride, C.~K.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Astrophysics of Galaxies
-Y2  - November
-T1  - Synthetic Galaxy Images and Spectra from the Illustris Simulation
-PY  - 2014
-ER  - 
-
-
-TY  - JOUR
 AB  - We employ an improved methodology to insert live stellar disks into high-resolution dark matter simulations of Milky Way sized halos, allowing us to investigate the fate of thin stellar disks in the tumultuous environment of cold dark matter structures. We study a set of eight different halos, drawn from the Aquarius simulation project, in which stellar disks are adiabatically grown with a prescribed structure, and then allowed to self-consistently evolve. The initial velocity distribution is set-up in very good equilibrium with the help of the GALIC code. We find that the residual triaxiality of the halos leads to significant disk tumbling, qualitatively confirming earlier work. We show that the disk turning motion is unaffected by structural properties of the galaxies such as the presence or absence of a bulge or bar. In typical Milky Way sized dark matter halos, we expect an average turning of the disks by about 40 degrees between z=1 and z=0, over the coarse of 6 Gyr. We also investigate the impact of the disks on substructures, and conversely, the disk heating rate caused by the dark matter halo substructures. The presence of disks reduces the central subhalo abundance by a about a factor of two, due to an increased evaporation rate by gravitational shocks from disk passages. We find that substructures are important for heating the outer parts of stellar disks but do not appear to significantly affect their inner parts.
 AU  - Yurin, D.
 AU  - Springel, V.
@@ -2800,20 +4482,6 @@ KW  - Astrophysics - Astrophysics of Galaxies
 KW  -  Astrophysics - Cosmology and Nongalactic Astrophysics
 Y2  - November
 T1  - AGN evolution from a galaxy evolution viewpoint
-PY  - 2014
-ER  - 
-
-
-TY  - JOUR
-AB  - Current wide-area radio surveys are dominated by active galactic nuclei, yet many of these sources have no identified optical counterparts. Here we investigate whether one can constrain the nature and properties of these sources, using Fanaroff-Riley type II (FRII) radio galaxies as probes. These sources are easy to identify since the angular separation of their lobes remains almost constant at some tens of arcseconds for z>1. Using a simple algorithm applied to the FIRST survey, we obtain the largest FRII sample to date, containing over ten thousand double-lobed sources. A subset of 459 sources is matched to SDSS quasars. This sample yields a statistically meaningful description of the fraction of quasars with lobes as a function of redshift and luminosity. This relation is combined with the bolometric quasar luminosity function, as derived from surveys at IR to hard X-ray frequencies, and a disc-lobe correlation to obtain a robust prediction for the density of FRIIs on the radio sky. We find that the observed density can be explained by the population of known quasars, implying that the majority of powerful jets originate from a radiatively efficient accretion flow with a linear jet-disc coupling. Finally, we show that high-redshift jets are more often quenched within 100 kpc, suggesting a higher efficiency of jet-induced feedback into their host galaxies.
-AU  - van Velzen, S.
-AU  - Falcke, H.
-AU  - Koerding, E.
-JO  - ArXiv e-prints
-KW  - Astrophysics - High Energy Astrophysical Phenomena
-KW  -  Astrophysics - Astrophysics of Galaxies
-Y2  - November
-T1  - Nature and evolution of powerful radio galaxies and their link with the quasar luminosity function
 PY  - 2014
 ER  - 
 
@@ -3412,19 +5080,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - We review the relatively new, internet-enabled, and rapidly-evolving field of citizen science, focusing on research projects in stellar, extragalactic and solar system astronomy that have benefited from the participation of members of the public, often in large numbers. We find these volunteers making contributions to astronomy in a variety of ways: making and analyzing new observations, visually classifying features in images and light curves, exploring models constrained by astronomical datasets, and initiating new scientific enquiries. The most productive citizen astronomy projects involve close collaboration between the professionals and amateurs involved, and occupy scientific niches not easily filled by great observatories or machine learning methods: citizen astronomers are most strongly motivated by being of service to science. In the coming years we expect participation and productivity in citizen astronomy to increase, as survey datasets get larger and citizen science platforms become more efficient. Opportunities include engaging the public in ever more advanced analyses, and facilitating citizen-led enquiry by designing professional user interfaces and analysis tools with citizens in mind.
-AU  - Marshall, P.~J.
-AU  - Lintott, C.~J.
-AU  - Fletcher, L.~N.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Instrumentation and Methods for Astrophysics
-Y2  - September
-T1  - Ideas for Citizen Science in Astronomy
-PY  - 2014
-ER  - 
-
-
-TY  - JOUR
 AB  - Proposal success rates are calculated for HST Cycles 11 through 21 as a function of the gender of the Principal Investigator (PI). In each cycle, proposals with male PIs have a higher success rate, with the disparity greatest for Cycles 12 and 18. The offsets are small enough that they might be ascribed to chance for any single cycle, but the consistent pattern suggests the presence of a systematic effect. Closer inspection of results from Cycles 19, 20 and 21 shows that the systematic difference does not appear to depend on the geographic origin of the proposal nor does it depend on the gender distribution on the review panels. Segregating proposals by the seniority of the PI, the success rates by gender for more recent graduates (Ph.d. since 2000) are more closely comparable. There is also a correlation between success by gender and the average seniority of the review panel for Cycles 19 and 20, but not Cycle 21. We discuss these results and some consequent changes to the proposal format and additions to the HST TAC orientation process.
 AU  - Reid, I.~N.
 JO  - ArXiv e-prints
@@ -3934,7 +5589,7 @@ KW  -  galaxies
 Y2  - February
 SP  - 1149
 EP  - 1161
-T1  - The Wide-field Infrared Survey Explorer properties of complete samples of radio-loud active galactic nucleus
+T1  - The WISE properties of complete samples of radio-loud AGN
 VL  - 438
 PY  - 2014
 ER  - 
@@ -7783,69 +9438,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - We have undertaken an ambitious program to visually classify all galaxies in the five CANDELS fields down to H<24.5 involving the dedicated efforts of 65 individual classifiers. Once completed, we expect to have detailed morphological classifications for over 50,000 galaxies up to z<4 over all the fields. Here, we present our detailed visual classification scheme, which was designed to cover a wide range of CANDELS science goals. This scheme includes the basic Hubble sequence types, but also includes a detailed look at mergers and interactions, the clumpiness of galaxies, $k$-corrections, and a variety of other structural properties. In this paper, we focus on the first field to be completed -- GOODS-S. The wide area coverage spanning the full field includes 7634 galaxies that have been classified by at least three different people. In the deep area of the field, 2534 galaxies have been classified by at least five different people at three different depths. With this paper, we release to the public all of the visual classifications in GOODS-S along with the GUI that we developed to classify galaxies. We find that the level of agreement among classifiers is good and depends on both the galaxy magnitude and the galaxy type, with disks showing the highest level of agreement and irregulars the lowest. A comparison of our classifications with the Sersic index and rest-frame colors shows a clear separation between disk and spheroid populations. Finally, we explore morphological k-corrections between the V-band and H-band observations and find that a small fraction (84 galaxies in total) are classified as being very different between these two bands. These galaxies typically have very clumpy and extended morphology or are very faint in the V-band.
-AU  - Kartaltepe, J.~S.
-AU  - Mozena, M.
-AU  - Kocevski, D.
-AU  - McIntosh, D.~H.
-AU  - Lotz, J.
-AU  - Bell, E.~F.
-AU  - Faber, S.
-AU  - Ferguson, H.
-AU  - Koo, D.
-AU  - Bassett, R.
-AU  - Bernyk, M.
-AU  - Blancato, K.
-AU  - Bournaud, F.
-AU  - Cassata, P.
-AU  - Castellano, M.
-AU  - Cheung, E.
-AU  - Conselice, C.~J.
-AU  - Croton, D.
-AU  - Dahlen, T.
-AU  - de Mello, D.~F.
-AU  - DeGroot, L.
-AU  - Donley, J.
-AU  - Guedes, J.
-AU  - Grogin, N.
-AU  - Hathi, N.
-AU  - Hilton, M.
-AU  - Hollon, B.
-AU  - Inami, H.
-AU  - Kassin, S.
-AU  - Koekemoer, A.
-AU  - Lani, C.
-AU  - Liu, N.
-AU  - Lucas, R.~A.
-AU  - Martig, M.
-AU  - McGrath, E.
-AU  - McPartland, C.
-AU  - Mobasher, B.
-AU  - Morlock, A.
-AU  - Mutch, S.
-AU  - O'Leary, E.
-AU  - Peth, M.
-AU  - Pforr, J.
-AU  - Pillepich, A.
-AU  - Poole, G.~B.
-AU  - Rizer, Z.
-AU  - Rosario, D.
-AU  - Soto, E.
-AU  - Straughn, A.
-AU  - Telford, O.
-AU  - Sunnquist, B.
-AU  - Weiner, B.
-AU  - Wuyts, S.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Galaxy Astrophysics
-KW  -  Astrophysics - Cosmology and Extragalactic Astrophysics
-Y2  - January
-T1  - CANDELS Visual Classifications: Scheme, Data Release, and First Results
-PY  - 2014
-ER  - 
-
-
-TY  - JOUR
 AB  - Using basic physical arguments, we derive by dimensional and physical analysis the characteristic masses and sizes of important objects in the Universe in terms of just a few fundamental constants. This exercise illustrates the unifying power of physics and the profound connections between the small and the large in the Cosmos we inhabit. We focus on the minimum and maximum masses of normal stars, the corresponding quantities for neutron stars, the maximum mass of a rocky planet, the maximum mass of a white dwarf, and the mass of a typical galaxy. To zeroth order, we show that all these masses can be expressed in terms of either the Planck mass or the Chandrasekar mass, in combination with various dimensionless quantities. With these examples we expose the deep interrelationships imposed by Nature between disparate realms of the Universe and the amazing consequences of the unifying character of physical law.
 AU  - Burrows, A.
 AU  - Ostriker, J.~P.
@@ -7986,29 +9578,14 @@ KW  -  Surveys
 Y2  - December
 SP  - 2409
 EP  - 2423
-T1  - Deep ATLAS Radio Observations of the Chandra Deep Field-South/Spitzer Wide-Area Infrared Extragalactic Field
+T1  - Deep ATLAS Radio Observations of the CDF-S/Spitzer Wide-Area Infrared Extragalactic Field
 VL  - 132
 PY  - 2006
 ER  - 
 
 
 TY  - JOUR
-AB  - We present the methodology for ``blind'' millimetre-wave surveys for redshifted molecular absorption in the CO/HCO$^+$ rotational lines. The frequency range $30-50$ GHz appears optimal for such surveys, providing sensitivity to absorbers at $z \gtrsim 0.85$. It is critical that the survey is ``blind'', i.e. based on a radio-selected sample, including sources without known redshifts. We also report results from the first large survey of this kind, using the Q-band receiver on the Green Bank Telescope (GBT) to search for molecular absorption towards 36 sources, 3 without known redshifts, over the frequency range $39.6 - 49.5$ GHz. The GBT survey has a total redshift path of $\Delta z \approx 24$, mostly at $0.81 < z < 1.91$, and a sensitivity sufficient to detect equivalent $\rm H_2$ column densities $\gtrsim 3 \times 10^21$ cm$^-2$ in absorption at $5\sigma$ significance (using the CO-to-$\rm H_2$ and HCO$^+$-to-$\rm H_2$ conversion factors of the Milky Way). The survey yielded no confirmed detections of molecular absorption, yielding the $2\sigma$ upper limit $n(z=1.2) < 0.15$ on the redshift number density of molecular gas at column densities $N(\rm H_2) \gtrsim 3 \times 10^21$ cm$^-2$.
-AU  - Kanekar, N.
-AU  - Gupta, A.
-AU  - Carilli, C.~L.
-AU  - Stocke, J.~T.
-AU  - Willett, K.~W.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Cosmology and Extragalactic Astrophysics
-Y2  - December
-T1  - A blind Green Bank Telescope millimetre-wave survey for redshifted molecular absorption
-PY  - 2013
-ER  - 
-
-
-TY  - JOUR
-AB  - We use recent proper motion measurements of the tangential velocity of M31, along with its radial velocity and distance, to derive the likelihood of the sum of halo masses of the Milky Way and M31. This is done using a sample halo pairs in the Bolshoi cosmological simulation of $\Lambda$CDM cosmology selected to match properties and environment of the Local Group. The resulting likelihood gives estimate of the sum of masses of $M_\rm MW,200+M_\rm M31,200=$ $2.40_-1.05^+1.95\times10^12\,M_\odot$ ($90\%$ confidence interval). This estimate is consistent with individual mass estimates for the Milky Way and M31 and is consistent, albeit somewhat on the low side, with the mass estimated using the timing argument. We show that although the timing argument is unbiased on average for all pairs, for pairs constrained to have radial and tangential velocities similar to that of the Local Group the argument overestimates the sum of masses by a factor of $1.6$. Using similar technique we estimate the total dark matter mass enclosed within $1$ Mpc from the Local Group barycenter to be $M_\rm LG(r<1\, \rm Mpc)=4.2_-2.0^+3.4\times10^12\,M_\odot$ ($90\%$ confidence interval).
+AB  - We use recent proper motion measurements of the tangential velocity of M31, along with its radial velocity and distance, to derive the likelihood of the sum of halo masses of the Milky Way and M31. This is done using a sample halo pairs in the Bolshoi cosmological simulation of $\Lambda$CDM cosmology selected to match properties and environment of the Local Group. The resulting likelihood gives estimate of the sum of masses of $M_\rm MW,200+M_\rm M31,200=$ $2.40_-1.05^+1.95\times10^12\,M_\odot$ ($90\$ confidence interval). This estimate is consistent with individual mass estimates for the Milky Way and M31 and is consistent, albeit somewhat on the low side, with the mass estimated using the timing argument. We show that although the timing argument is unbiased on average for all pairs, for pairs constrained to have radial and tangential velocities similar to that of the Local Group the argument overestimates the sum of masses by a factor of $1.6$. Using similar technique we estimate the total dark matter mass enclosed within $1$ Mpc from the Local Group barycenter to be $M_\rm LG(r<1\, \rm Mpc)=4.2_-2.0^+3.4\times10^12\,M_\odot$ ($90\$ confidence interval).
 AU  - Gonzalez, R.~E.
 AU  - Kravtsov, A.~V.
 AU  - Gnedin, N.~Y.
@@ -9388,7 +10965,7 @@ KW  -  spiral
 Y2  - November
 SP  - 2835
 EP  - 2860
-T1  - Galaxy Zoo 2: detailed morphological classifications for 304 122 galaxies from the Sloan Digital Sky Survey
+T1  - Galaxy Zoo 2: detailed morphological classifications for 304,122 galaxies from the Sloan Digital Sky Survey
 VL  - 435
 PY  - 2013
 ER  - 
@@ -9404,21 +10981,6 @@ KW  -  Astrophysics - Instrumentation and Methods for Astrophysics
 Y2  - May
 T1  - Data analysis recipes: Probability calculus for inference
 PY  - 2012
-ER  - 
-
-
-TY  - JOUR
-AB  - We present the statistical properties of a volume-limited sample of 7,429 nearby (z = 0.033 - 0.044) galaxies from the Sloan Digital Sky Survey Data Release 7. Our database includes morphology distribution as well as the structural and spectroscopic properties of each morphology type based on the recent re-measurements of spectral line strengths by Oh and collaborators (2011). Our database does not include galaxies that are apparently smaller and flatter, because morphology classification of them turned out to be difficult. Our statistics confirmed the up-to-date knowledge of galaxy populations, e.g., correlations between morphology and line strengths as well as the derived ages, etc. We hope that this database will be useful as a reference.
-AU  - Oh, K.
-AU  - Choi, H.
-AU  - Kim, H.-G.
-AU  - Moon, J.-S.
-AU  - Yi, S.~K.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Cosmology and Extragalactic Astrophysics
-Y2  - October
-T1  - Demographics of Sloan Digital Sky Survey galaxies along the Hubble sequence
-PY  - 2013
 ER  - 
 
 
@@ -14380,34 +15942,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - KIC 9406652 is a remarkable variable star in the Kepler field of view that shows both very rapid oscillations and long term outbursts in its light curve. We present an analysis of the light curve over quarters 1-15 and new spectroscopy that indicates that the object is a cataclysmic variable with an orbital period of 6.108 hr. However, an even stronger signal appears in the light curve periodogram for a shorter period of 5.753 hr, and we argue that this corresponds to the modulation of flux from the hot spot region in a tilted, precessing disk surrounding the white dwarf star. We present a preliminary orbital solution from radial velocity measurements of features from the accretion disk and the photosphere of the companion. We use a Doppler tomography algorithm to reconstruct the disk and companion spectra, and we also consider how these components contribute to the object's spectral energy distribution from ultraviolet to infrared wavelengths. This target offers us a remarkable opportunity to investigate disk processes during the high mass transfer stage of evolution in cataclysmic variables.  This work is based in part from the Planethunters.org Guest Observer program.
-AU  - Gies, D.~R.
-AU  - Guo, Z.
-AU  - Howell, S.~B.
-AU  - Still, M.~D.
-AU  - Boyajian, T.~S.
-AU  - Hoekstra, A.~J.
-AU  - Jek, K.~J.
-AU  - LaCourse, D.
-AU  - Winarski, T.
-JO  - \apj
-KW  - binaries
-KW  -  spectroscopic
-KW  -  circumstellar matter
-KW  -  novae
-KW  -  cataclysmic variables
-KW  -  stars
-KW  -  individual
-KW  -  KIC 9406652
-Y2  - September
-SP  - 64
-T1  - KIC 9406652: An Unusual Cataclysmic Variable in the Kepler Field of View
-VL  - 775
-PY  - 2013
-ER  - 
-
-
-TY  - JOUR
 AB  - We present Herschel observations of 6 fine-structure lines in 25 ultraluminous infrared galaxies at z < 0.27. The lines, [O III]52 mum, [N III]57 mum, [O I]63 mum, [N II]122 mum, [O I]145 mum, and [C II]158 mum, are mostly single Gaussians with widths <600 km s--1 and luminosities of 107-109 L ☉. There are deficits in the [O I]63/L IR, [N II]/L IR, [O I]145/L IR, and [C II]/L IR ratios compared to lower luminosity systems. The majority of the line deficits are consistent with dustier H II regions, but part of the [C II] deficit may arise from an additional mechanism, plausibly charged dust grains. This is consistent with some of the [C II] originating from photodissociation regions or the interstellar medium (ISM). We derive relations between far-IR line luminosities and both the IR luminosity and star formation rate. We find that [N II] and both [O I] lines are good tracers of the IR luminosity and star formation rate. In contrast, [C II] is a poor tracer of the IR luminosity and star formation rate, and does not improve as a tracer of either quantity if the [C II] deficit is accounted for. The continuum luminosity densities also correlate with the IR luminosity and star formation rate. We derive ranges for the gas density and ultraviolet radiation intensity of 101 < n < 102.5 and 102.2 < G 0 < 103.6, respectively. These ranges depend on optical type, the importance of star formation, and merger stage. We do not find relationships between far-IR line properties and several other parameters: active galactic nucleus (AGN) activity, merger stage, mid-IR excitation, and SMBH mass. We conclude that these far-IR lines arise from gas heated by starlight, and that they are not strongly influenced by AGN activity.
 AU  - Farrah, D.
 AU  - Lebouteiller, V.
@@ -15603,7 +17137,7 @@ KW  -  galaxies
 KW  -  surveys
 Y2  - September
 SP  - 38
-T1  - The Velocity Width Function of Galaxies from the 40\% ALFALFA Survey: Shedding Light on the Cold Dark Matter Overabundance Problem
+T1  - The Velocity Width Function of Galaxies from the 40\ ALFALFA Survey: Shedding Light on the Cold Dark Matter Overabundance Problem
 VL  - 739
 PY  - 2011
 ER  - 
@@ -19479,33 +21013,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - Star-forming disk galaxies at high redshift are often subject to violent disk instability, characterized by giant clumps whose fate is yet to be understood. The main question is whether the clumps disrupt within their dynamical timescale (<50Myr), like molecular clouds in today's galaxies, or whether they survive stellar feedback for more than a disk orbital time (~300Myr) in which case they can migrate inward and help building the central bulge. We present 3.5-7pc resolution AMR simulations of high-redshift disks including photo-ionization, radiation pressure, and supernovae feedback (Renaud et al. 2013, and Perret et al., this astro-ph issue). Our modeling of radiation pressure determines the mass loading and initial velocity of winds from basic physical principles. We find that the giant clumps produce steady outflow rates comparable to and sometimes somewhat larger than their star formation rate, with velocities largely sufficient to escape galaxy. The clumps also lose mass, especially old stars, by tidal stripping, and the stellar populations contained in the clumps hence remain relatively young (<=200Myr), as observed. The clumps survive gaseous outflows and stellar loss, because they are wandering in gas-rich turbulent disks from which they can re-accrete gas at high rates compensating for outflows and tidal stripping, overall keeping realistic and self-regulated gaseous and stellar masses. Our simulations produce gaseous outflows with velocities, densities and mass loading consistent with observations, and at the same time suggest that the giant clumps survive for hundreds of Myr and complete their migration to the center of high-redshift galaxies, without rapid dispersion and reformation of clumps.
-AU  - Bournaud, F.
-AU  - Perret, V.
-AU  - Renaud, F.
-AU  - Dekel, A.
-AU  - Elmegreen, B.~G.
-AU  - Elmegreen, D.~M.
-AU  - Teyssier, R.
-AU  - Amram, P.
-AU  - Daddi, E.
-AU  - Duc, P.-A.
-AU  - Elbaz, D.
-AU  - Epinat, B.
-AU  - Gabor, J.~M.
-AU  - Juneau, S.
-AU  - Kraljic, K.
-AU  - Le Floch', E.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Cosmology and Extragalactic Astrophysics
-KW  -  Astrophysics - Galaxy Astrophysics
-Y2  - July
-T1  - The long lives of giant clumps and the birth of outflows in gas-rich galaxies at high redshift
-PY  - 2013
-ER  - 
-
-
-TY  - JOUR
 AB  - We present SEDs fits to a sample of GeV-TeV FSRQs and compare the jet properties between FSRQs and BL Lacs. We show that the SEDs can be fit with the leptonic model, and both the minimum and broken Lorentz factors of relativistic electrons are well constrained, with medians of 48 and 240, respectively. No statistical difference on the Doppler factors between the FSRQs and BL Lacs is found. Assuming that the jet power is carried by electron-proton pairs, the magnetic field, and radiation field, we calculate the powers of these components and the total jet power based on our fitting results, hence derive the radiation efficiency and magnetization parameter of the jets. It is found that the FSRQ jets are dominated by the Poynting flux and have a high radiation efficiency, whereas the BL Lac jets are dominated by particles and have a lower radiation efficiency than FSRQs. Interestingly, different from BL Lacs, jet powers of FSRQs are proportional to their central black hole masses, favoring the scenario that the FSRQ jets are powered by the BZ mechanism. The jet production rate per central BH mass of FSRQs seems to be universal among these sources, whereas it varies over five orders of magnitude for BL Lacs. These results likely suggest that the dominating jet production mechanisms may be different for FSRQs and BL Lacs; the BZ process for FSRQs, the BP and/or BZ processes for BL Lacs, depending on structures and accretion rates of accretion disks. Jet power is correlated with the cavity kinetic power for our blazar sample. The magnetic field energy in the jets may provide the cavity kinetic energy for FSRQs and the kinetic energy of cold protons in the jets may be crucial for cavity kinetic energy for BL Lacs.
 AU  - Zhang, J.
 AU  - Sun, X.-N.
@@ -19782,7 +21289,7 @@ ED  - Srivastava, A.~N.
 Y2  - March
 SP  - 213
 EP  - 236
-PB  - CRC Press, Taylor \& Francis Group
+PB  - CRC Press, Taylor \ Francis Group
 T1  - Galaxy Zoo: Morphological Classification and Citizen Science
 PY  - 2012
 ER  - 
@@ -21624,23 +23131,6 @@ EP  - 194
 T1  - First-Year Wilkinson Microwave Anisotropy Probe (WMAP) Observations: Determination of Cosmological Parameters
 VL  - 148
 PY  - 2003
-ER  - 
-
-
-TY  - JOUR
-AB  - The early--type galaxy (ETG) mass--size relation has been largely studied to understand how these galaxies have assembled their mass. One key observational result of the last years is that massive galaxies increased their size by a factor of a few at fixed stellar mass from z~2. Minor mergers have been put forward in hierarchical models as a plausible driver of this size growth. Some of these models, predict a significant environmental dependence in the sense that galaxies residing in more massive halos tend to be larger than galaxies in lower mass halos, at fixed stellar mass and redshift. At present, observational results of this environmental dependence have been contradictory. In this paper we revisit this issue in the local Universe, by carefully investigating how the sizes of massive ETGs depend on large-scale environment using an updated and accurate sample of massive ETGs (>10^11) in different environments - field, group, clusters - from the Sloan Digital Sky Survey DR7. Observations do not show any environmental dependence of the sizes of central and satellites ETGs at fixed stellar mass. The size-mass relation of early-type galaxies seems to be universal, i.e., independent of the mass of the host halo and of the position of the galaxy in that halo (central or satellite). We compare our observational results with two hierarchical models built from the Millennium Simulation. Once observational errors are properly included in model predictions, we find our results to broadly agree (at 1-2 sigma level) with one of the models, but strongly disagree with the other (at ~3sigma level), proving how useful environment is in testing galaxy evolution models.
-AU  - Huertas-Company, M.
-AU  - Shankar, F.
-AU  - Mei, S.
-AU  - Bernardi, M.
-AU  - Aguerri, J.~A.~L.
-AU  - Meert, A.
-AU  - Vikram, V.
-JO  - ArXiv e-prints
-KW  - Astrophysics - Cosmology and Extragalactic Astrophysics
-Y2  - December
-T1  - The dependence of the mass-size relation of early-type galaxies on environment in the local Universe
-PY  - 2012
 ER  - 
 
 
@@ -24996,21 +26486,6 @@ SP  - 51
 EP  - 54
 T1  - A gas cloud on its way towards the supermassive black hole at the Galactic Centre
 VL  - 481
-PY  - 2012
-ER  - 
-
-
-TY  - JOUR
-AB  - Classifier combination methods need to make best use of the outputs of multiple, imperfect classifiers to enable higher accuracy classifications. In many situations, such as when human decisions need to be combined, the base decisions can vary enormously in reliability. A Bayesian approach to such uncertain combination allows us to infer the differences in performance between individuals and to incorporate any available prior knowledge about their abilities when training data is sparse. In this paper we explore Bayesian classifier combination, using the computationally efficient framework of variational Bayesian inference. We apply the approach to real data from a large citizen science project, Galaxy Zoo Supernovae, and show that our method far outperforms other established approaches to imperfect decision combination. We go on to analyse the putative community structure of the decision makers, based on their inferred decision making strategies, and show that natural groupings are formed. Finally we present a dynamic Bayesian classifier combination approach and investigate the changes in base classifier performance over time.
-AU  - Simpson, E.
-AU  - Roberts, S.
-AU  - Psorakis, I.
-AU  - Smith, A.
-JO  - ArXiv e-prints
-KW  - Mathematics - Statistics Theory
-KW  -  Astrophysics - Instrumentation and Methods for Astrophysics
-Y2  - June
-T1  - Dynamic Bayesian Combination of Multiple Imperfect Classifiers
 PY  - 2012
 ER  - 
 
@@ -30522,7 +31997,7 @@ TY  - CONF
 AU  - Mazzarella, J.~M.
 AU  - NED Team
 T2  - Astronomical Society of the Pacific Conference Series
-ED  - M.~J.~Graham, M.~J.~Fitzpatrick, \& T.~A.~McGlynn
+ED  - M.~J.~Graham, M.~J.~Fitzpatrick, \ T.~A.~McGlynn
 SP  - 165
 EP  - +
 T1  - Chapter 18: Web-based Tools - NED VO Services
@@ -31056,7 +32531,7 @@ ER  -
 TY  - CONF
 AU  - Stawarz, L.
 T2  - Accretion and Ejection in AGN: a Global View
-ED  - L.~Maraschi, G.~Ghisellini, R.~Della Ceca \& F.~Tavecchio
+ED  - L.~Maraschi, G.~Ghisellini, R.~Della Ceca \ F.~Tavecchio
 Y2  - October
 SP  - 357
 EP  - +
@@ -31330,7 +32805,7 @@ ER  -
 TY  - CONF
 AU  - Reid, M.~J.
 T2  - IAU Symposium
-ED  - J.~M.~Chapman \& W.~A.~Baan
+ED  - J.~M.~Chapman \ W.~A.~Baan
 Y2  - March
 SP  - 522
 EP  - 529
@@ -31403,7 +32878,7 @@ ER  -
 TY  - CONF
 AU  - Fish, V.~L.
 T2  - IAU Symposium
-ED  - J.~M.~Chapman \& W.~A.~Baan
+ED  - J.~M.~Chapman \ W.~A.~Baan
 KW  - masers
 KW  -  stars
 KW  -  formation
@@ -31876,7 +33351,7 @@ ER  -
 TY  - CONF
 AU  - Reid, M.~J.
 T2  - IAU Symposium
-ED  - W.~J.~Jin, I.~Platais, \& M.~A.~C.~Perryman
+ED  - W.~J.~Jin, I.~Platais, \ M.~A.~C.~Perryman
 KW  - Galactic
 KW  -  structure
 KW  -  stars
@@ -32065,7 +33540,7 @@ ER  -
 TY  - CONF
 AU  - Lynden-Bell, D.
 T2  - The Stellar Content of Local Group Galaxies
-ED  - P.~Whitelock \& R.~Cannon
+ED  - P.~Whitelock \ R.~Cannon
 Y2  - January
 SP  - 39
 EP  - +
@@ -32609,7 +34084,7 @@ ER  -
 TY  - CONF
 AU  - Grebel, E.~K.
 T2  - Microlensing 2000: A New Era of Microlensing Astrophysics
-ED  - J.~W.~Menzies \& P.~D.~Sackett
+ED  - J.~W.~Menzies \ P.~D.~Sackett
 SP  - 280
 EP  - +
 T1  - The Local Group
@@ -32674,7 +34149,7 @@ ER  -
 TY  - CONF
 AU  - Reid, M.~J.
 T2  - Synthesis Imaging in Radio Astronomy II
-ED  - G.~B.~Taylor, C.~L.~Carilli, \& R.~A.~Perley
+ED  - G.~B.~Taylor, C.~L.~Carilli, \ R.~A.~Perley
 SP  - 481
 EP  - +
 T1  - Spectral Line VLBI
@@ -32688,7 +34163,7 @@ AU  - Briggs, D.~S.
 AU  - Schwab, F.~R.
 AU  - Sramek, R.~A.
 T2  - Synthesis Imaging in Radio Astronomy II
-ED  - G.~B.~Taylor, C.~L.~Carilli, \& R.~A.~Perley
+ED  - G.~B.~Taylor, C.~L.~Carilli, \ R.~A.~Perley
 SP  - 127
 EP  - +
 T1  - Imaging
@@ -33853,7 +35328,7 @@ AU  - Norrod, R.~D.
 AU  - Ray, J.
 AU  - Watts, G.
 T2  - From Z-Machines to ALMA: (Sub)Millimeter Spectroscopy of Galaxies
-ED  - A.~J.~Baker, J.~Glenn, A.~I.~Harris J.~G.~Mangum \& M.~S.~Yun 
+ED  - A.~J.~Baker, J.~Glenn, A.~I.~Harris J.~G.~Mangum \ M.~S.~Yun 
 Y2  - October
 SP  - 82
 EP  - +
@@ -34284,7 +35759,7 @@ ER  -
 TY  - CONF
 AU  - Petric, A.
 T2  - American Institute of Physics Conference Series
-ED  - V.~P.~Debattista \& C.~C.~Popescu
+ED  - V.~P.~Debattista \ C.~C.~Popescu
 KW  - galaxies
 KW  -  red shift
 KW  -  infrared sources (astronomical)
@@ -34374,7 +35849,7 @@ ER  -
 TY  - CONF
 AU  - Baan, W.~A.
 T2  - Atoms, Ions and Molecules: New Results in Spectral Line Astrophysics
-ED  - A.~D.~Haschick \& P.~T.~P.~Ho
+ED  - A.~D.~Haschick \ P.~T.~P.~Ho
 SP  - 45
 EP  - +
 T1  - Active Nuclei and Molecular Megamasers
@@ -46319,7 +47794,7 @@ AU  - Narayan, R.
 AU  - Mahadevan, R.
 AU  - Quataert, E.
 T2  - Theory of Black Hole Accretion Disks
-ED  - M.~A.~Abramowicz, G.~Bjornsson, \& J.~E.~Pringle
+ED  - M.~A.~Abramowicz, G.~Bjornsson, \ J.~E.~Pringle
 SP  - 148
 EP  - +
 T1  - Advection-dominated accretion around black holes
@@ -49506,7 +50981,7 @@ TY  - CONF
 AU  - Ghosh, T.
 AU  - Salter, C.
 T2  - Single-Dish Radio Astronomy: Techniques and Applications
-ED  - S.~Stanimirovic, D.~Altschuler, P.~Goldsmith \& C.~Salter
+ED  - S.~Stanimirovic, D.~Altschuler, P.~Goldsmith \ C.~Salter
 Y2  - December
 SP  - 521
 EP  - 524
