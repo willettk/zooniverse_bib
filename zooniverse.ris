@@ -202,7 +202,7 @@ ER  -
 
 
 TY  - JOUR
-AB  - Over the duration of the Kepler mission, KIC 8462852 was observed to undergo irregularly shaped, aperiodic dips in flux of up to ˜20%. The dipping activity can last for between 5 and 80 days. We characterize the object with high-resolution spectroscopy, spectral energy distribution fitting, radial velocity measurements, high-resolution imaging, and Fourier analyses of the Kepler light curve. We determine that KIC 8462852 is a typical main-sequence F3 V star that exhibits no significant IR excess, and has no very close interacting companions. In this paper, we describe various scenarios to explain the dipping events observed in the Kepler light curve. We confirm that the dipping signals in the data are not caused by any instrumental or data processing artifact, and thus are astrophysical in origin. We construct scenario-independent constraints on the size and location of a body in the system that is needed to reproduce the observations. We deliberate over several assorted stellar and circumstellar astrophysical scenarios, most of which have problems explaining the data in hand. By considering the observational constraints on dust clumps in orbit around a normal main-sequence star, we conclude that the scenario most consistent with the data in hand is the passage of a family of exocomet or planetesimal fragments, all of which are associated with a single previous break-up event, possibly caused by tidal disruption or thermal processing. The minimum total mass associated with these fragments likely exceeds 10-6 M⊕, corresponding to an original rocky body of >100 km in diameter. We discuss the necessity of future observations to help interpret the system.
+AB  - Over the duration of the Kepler mission, KIC 8462852 was observed to undergo irregularly shaped, aperiodic dips in flux of up to ˜20 per cent. The dipping activity can last for between 5 and 80 d. We characterize the object with high-resolution spectroscopy, spectral energy distribution fitting, radial velocity measurements, high-resolution imaging, and Fourier analyses of the Kepler light curve. We determine that KIC 8462852 is a typical main-sequence F3 V star that exhibits no significant IR excess, and has no very close interacting companions. In this paper, we describe various scenarios to explain the dipping events observed in the Kepler light curve. We confirm that the dipping signals in the data are not caused by any instrumental or data processing artefact, and thus are astrophysical in origin. We construct scenario-independent constraints on the size and location of a body in the system that are needed to reproduce the observations. We deliberate over several assorted stellar and circumstellar astrophysical scenarios, most of which have problems explaining the data in hand. By considering the observational constraints on dust clumps in orbit around a normal main-sequence star, we conclude that the scenario most consistent with the data in hand is the passage of a family of exocomet or planetesimal fragments, all of which are associated with a single previous break-up event, possibly caused by tidal disruption or thermal processing. The minimum total mass associated with these fragments likely exceeds 10-6 M⊕, corresponding to an original rocky body of >100 km in diameter. We discuss the necessity of future observations to help interpret the system.
 AU  - Boyajian, T.~S.
 AU  - LaCourse, D.~M.
 AU  - Rappaport, S.~A.
@@ -253,18 +253,22 @@ AU  - Omohundro, M.~R.
 AU  - Schwengeler, H.~M.
 AU  - Szewczyk, A.
 JO  - \mnras
-KW  - stars
-KW  -  individual (KIC 8462852)
-KW  -  stars
-KW  -  peculiar
-KW  -  stars
-KW  -  activity
-KW  -  comets
+KW  - comets
 KW  -  general
 KW  -  planets and satellites
 KW  -  dynamical evolution and stability
-Y2  - January
-T1  - Planet Hunters X. KIC 8462852 - Where's the flux?
+KW  -  stars
+KW  -  activity
+KW  -  stars
+KW  -  individual
+KW  -  KIC 8462852
+KW  -  stars
+KW  -  peculiar
+Y2  - April
+SP  - 3988
+EP  - 4004
+T1  - Planet Hunters IX. KIC 8462852 - where's the flux?
+VL  - 457
 PY  - 2016
 ER  - 
 
@@ -762,22 +766,15 @@ ER  -
 
 
 TY  - JOUR
-AB  - Following the study of Darg et al., we explore the environments, optical colours, stellar masses, star formation and active galactic nucleus activity in a sample of 3003 pairs of merging galaxies drawn from the Sloan Digital Sky Survey using visual classifications from the Galaxy Zoo project. While Darg et al. found that the spiral-to-elliptical ratio in (major) mergers appeared higher than that of the global galaxy population, no significant differences are found between the environmental distributions of mergers and a randomly selected control sample. This makes the high occurrence of spirals in mergers unlikely to be an environmental effect and must therefore arise from differing time-scales of detectability for spirals and ellipticals. We find that merging galaxies have a wider spread in colour than the global galaxy population, with a significant blue tail resulting from intense star formation in spiral mergers. Galaxies classed as star-forming using their emission-line properties have average star formation rates approximately doubled by the merger process though star formation is negligibly enhanced in merging elliptical galaxies. We conclude that the internal properties of galaxies significantly affect the time-scales over which merging systems can be detected (as suggested by recent theoretical studies) which leads to spirals being `over-observed' in mergers. We also suggest that the transition mass 3 × 1010Msolar, noted by Kauffmann et al., below which ellipticals are rare could be linked to disc survival/destruction in mergers.
+AB  - We present a catalogue of 39 multiple mergers, found using the mergers catalogue of the Galaxy Zoo project for z < 0.1, and compare them to corresponding semi-analytical galaxies from the Millennium Simulation. We estimate the (volume-limited) multimerger fraction of the local Universe using our sample and find it to be at least 2 orders of magnitude less than binary mergers - in good agreement with the simulations (especially the Munich group). We then investigate the properties of galaxies in binary mergers and multimergers (morphologies, colours, stellar masses and environment) and compare these results with those predicted by the semi-analytical galaxies. We find that multimergers favour galaxies with properties typical of elliptical morphologies and that this is in qualitative agreement with the models. Studies of multimergers thus provide an independent (and largely corroborating) test of the Millennium semi-analytical models.
 AU  - Darg, D.~W.
 AU  - Kaviraj, S.
 AU  - Lintott, C.~J.
 AU  - Schawinski, K.
-AU  - Sarzi, M.
-AU  - Bamford, S.
 AU  - Silk, J.
-AU  - Andreescu, D.
-AU  - Murray, P.
+AU  - Lynn, S.
+AU  - Bamford, S.
 AU  - Nichol, R.~C.
-AU  - Raddick, M.~J.
-AU  - Slosar, A.
-AU  - Szalay, A.~S.
-AU  - Thomas, D.
-AU  - Vandenberg, J.
 JO  - \mnras
 KW  - catalogues
 KW  -  galaxies
@@ -791,12 +788,12 @@ KW  -  galaxies
 KW  -  interactions
 KW  -  galaxies
 KW  -  spiral
-Y2  - January
-SP  - 1552
-EP  - 1563
-T1  - Galaxy Zoo: the properties of merging galaxies in the nearby Universe - local environments, colours, masses, star formation rates and AGN activity
-VL  - 401
-PY  - 2010
+Y2  - September
+SP  - 1745
+EP  - 1755
+T1  - Galaxy Zoo: multimergers and the Millennium Simulation
+VL  - 416
+PY  - 2011
 ER  - 
 
 
@@ -840,15 +837,22 @@ ER  -
 
 
 TY  - JOUR
-AB  - We present a catalogue of 39 multiple mergers, found using the mergers catalogue of the Galaxy Zoo project for z < 0.1, and compare them to corresponding semi-analytical galaxies from the Millennium Simulation. We estimate the (volume-limited) multimerger fraction of the local Universe using our sample and find it to be at least 2 orders of magnitude less than binary mergers - in good agreement with the simulations (especially the Munich group). We then investigate the properties of galaxies in binary mergers and multimergers (morphologies, colours, stellar masses and environment) and compare these results with those predicted by the semi-analytical galaxies. We find that multimergers favour galaxies with properties typical of elliptical morphologies and that this is in qualitative agreement with the models. Studies of multimergers thus provide an independent (and largely corroborating) test of the Millennium semi-analytical models.
+AB  - Following the study of Darg et al., we explore the environments, optical colours, stellar masses, star formation and active galactic nucleus activity in a sample of 3003 pairs of merging galaxies drawn from the Sloan Digital Sky Survey using visual classifications from the Galaxy Zoo project. While Darg et al. found that the spiral-to-elliptical ratio in (major) mergers appeared higher than that of the global galaxy population, no significant differences are found between the environmental distributions of mergers and a randomly selected control sample. This makes the high occurrence of spirals in mergers unlikely to be an environmental effect and must therefore arise from differing time-scales of detectability for spirals and ellipticals. We find that merging galaxies have a wider spread in colour than the global galaxy population, with a significant blue tail resulting from intense star formation in spiral mergers. Galaxies classed as star-forming using their emission-line properties have average star formation rates approximately doubled by the merger process though star formation is negligibly enhanced in merging elliptical galaxies. We conclude that the internal properties of galaxies significantly affect the time-scales over which merging systems can be detected (as suggested by recent theoretical studies) which leads to spirals being `over-observed' in mergers. We also suggest that the transition mass 3 × 1010Msolar, noted by Kauffmann et al., below which ellipticals are rare could be linked to disc survival/destruction in mergers.
 AU  - Darg, D.~W.
 AU  - Kaviraj, S.
 AU  - Lintott, C.~J.
 AU  - Schawinski, K.
-AU  - Silk, J.
-AU  - Lynn, S.
+AU  - Sarzi, M.
 AU  - Bamford, S.
+AU  - Silk, J.
+AU  - Andreescu, D.
+AU  - Murray, P.
 AU  - Nichol, R.~C.
+AU  - Raddick, M.~J.
+AU  - Slosar, A.
+AU  - Szalay, A.~S.
+AU  - Thomas, D.
+AU  - Vandenberg, J.
 JO  - \mnras
 KW  - catalogues
 KW  -  galaxies
@@ -862,12 +866,12 @@ KW  -  galaxies
 KW  -  interactions
 KW  -  galaxies
 KW  -  spiral
-Y2  - September
-SP  - 1745
-EP  - 1755
-T1  - Galaxy Zoo: multimergers and the Millennium Simulation
-VL  - 416
-PY  - 2011
+Y2  - January
+SP  - 1552
+EP  - 1563
+T1  - Galaxy Zoo: the properties of merging galaxies in the nearby Universe - local environments, colours, masses, star formation rates and AGN activity
+VL  - 401
+PY  - 2010
 ER  - 
 
 
@@ -1241,6 +1245,32 @@ ER  -
 
 
 TY  - JOUR
+AB  - The dynamical history of most merging galaxies is not well understood. Correlations between galaxy interaction and star formation have been found in previous studies, but require the context of the physical history of merging systems for full insight into the processes that lead to enhanced star formation. We present the results of simulations that reconstruct the orbit trajectories and disturbed morphologies of pairs of interacting galaxies. With the use of a restricted three-body simulation code and the help of Citizen Scientists, we sample 105 points in parameter space for each system. We demonstrate a successful recreation of the morphologies of 62 pairs of interacting galaxies through the review of more than 3 million simulations. We examine the level of convergence and uniqueness of the dynamical properties of each system. These simulations represent the largest collection of models of interacting galaxies to date, providing a valuable resource for the investigation of mergers. This paper presents the simulation parameters generated by the project. They are now publicly available in electronic format at http://data.galaxyzoo.org/mergers.html. Though our best-fit model parameters are not an exact match to previously published models, our method for determining uncertainty measurements will aid future comparisons between models. The dynamical clocks from our models agree with previous results of the time since the onset of star formation from star burst models in interacting systems and suggests that tidally induced star formation is triggered very soon after closest approach.
+AU  - Holincheck, A.~J.
+AU  - Wallin, J.~F.
+AU  - Borne, K.
+AU  - Fortson, L.
+AU  - Lintott, C.
+AU  - Smith, A.~M.
+AU  - Bamford, S.
+AU  - Keel, W.~C.
+AU  - Parrish, M.
+JO  - \mnras
+KW  - galaxies
+KW  -  interactions
+KW  -  galaxies
+KW  -  kinematics and dynamics
+KW  -  galaxies
+KW  -  peculiar
+KW  -  methods
+KW  -  numerical
+Y2  - March
+T1  - Galaxy Zoo: Mergers - Dynamical Models of Interacting Galaxies
+PY  - 2016
+ER  - 
+
+
+TY  - JOUR
 AB  - We present an analysis of bar length measurements of 3150 local galaxies in a volume-limited sample of low-redshift (z < 0.06) disc galaxies. Barred galaxies were initially selected from the Galaxy Zoo 2 project, and the lengths and widths of the bars were manually drawn by members of the Galaxy Zoo community using a Google Maps interface. Bars were measured independently by different observers, multiple times per galaxy (>=3), and we find that observers were able to reproduce their own bar lengths to 3 per cent and each others' to better than 20 per cent. We find a colour bimodality in our disc galaxy population with bar length, i.e. longer bars inhabit redder disc galaxies and the bars themselves are redder, and that the bluest galaxies host the smallest galactic bars (<5 h-1 kpc). We also find that bar and disc colours are clearly correlated, and for galaxies with small bars, the disc is, on average, redder than the bar colours, while for longer bars the bar then itself is redder, on average, than the disc. We further find that galaxies with a prominent bulge are more likely to host longer bars than those without bulges. We categorize our galaxy populations by how the bar and/or ring are connected to the spiral arms. We find that galaxies whose bars are directly connected to the spiral arms are preferentially bluer and that these galaxies host typically shorter bars. Within the scatter, we find that stronger bars are found in galaxies which host a ring (and only a ring). The bar length and width measurements used herein are made publicly available for others to use (). This publication has been made possible by the participation of more than 200 000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at .
 AU  - Hoyle, B.
 AU  - Masters, K.~L.
@@ -1437,35 +1467,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - Some active galactic nuclei (AGN) are surrounded by extended emission-line regions (EELRs), which trace both the illumination pattern of escaping radiation and its history over the light travel time from the AGN to the gas. From a new set of such EELRs, we present evidence that the AGN in many Seyfert galaxies undergo luminous episodes 0.2-2 ? years in duration. Motivated by the discovery of the spectacular nebula known as Hanny's Voorwerp, ionized by a powerful AGN which has apparently faded dramatically within ? years, Galaxy Zoo volunteers have carried out both targeted and serendipitous searches for similar emission-line clouds around low-redshift galaxies. We present the resulting list of candidates and describe spectroscopy identifying 19 galaxies with AGN-ionized regions at projected radii ? kpc. This search recovered known EELRs (such as Mrk 78, Mrk 266 and NGC 5252) and identified additional previously unknown cases, one with detected emission to ? kpc. One new Sy 2 was identified. At least 14/19 are in interacting or merging systems, suggesting that tidal tails are a prime source of distant gas out of the galaxy plane to be ionized by an AGN. We see a mix of one- and two-sided structures, with observed cone angles from 23? to 112?. We consider the energy balance in the ionized clouds, with lower and upper bounds on ionizing luminosity from recombination and ionization-parameter arguments, and estimate the luminosity of the core from the far-infrared data. The implied ratio of ionizing radiation seen by the clouds to that emitted by the nucleus, on the assumption of a non-variable nuclear source, ranges from 0.02 to ?; 7/19 exceed unity. Small values fit well with a heavily obscured AGN in which only a small fraction of the ionizing output escapes to be traced by surrounding gas. However, large values may require that the AGN has faded over tens of thousands of years, giving us several examples of systems in which such dramatic long-period variation has occurred; this is the only current technique for addressing these time-scales in AGN history. The relative numbers of faded and non-faded objects we infer, and the projected extents of the ionized regions, give our estimate (0.2-2 ? years) for the length of individual bright phases.
-AU  - Keel, W.~C.
-AU  - Chojnowski, S.~D.
-AU  - Bennert, V.~N.
-AU  - Schawinski, K.
-AU  - Lintott, C.~J.
-AU  - Lynn, S.
-AU  - Pancoast, A.
-AU  - Harris, C.
-AU  - Nierenberg, A.~M.
-AU  - Sonnenfeld, A.
-AU  - Proctor, R.
-JO  - \mnras
-KW  - galaxies
-KW  -  active
-KW  -  galaxies
-KW  -  ISM
-KW  -  galaxies
-KW  -  Seyfert
-Y2  - February
-SP  - 878
-EP  - 900
-T1  - The Galaxy Zoo survey for giant AGN-ionized clouds: past and present black hole accretion events
-VL  - 420
-PY  - 2012
-ER  - 
-
-
-TY  - JOUR
 AB  - Analysis of galaxies with overlapping images offers a direct way to probe the distribution of dust extinction and its effects on the background light. We present a catalog of 1990 such galaxy pairs selected from the Sloan Digital Sky Survey (SDSS) by volunteers of the Galaxy Zoo project. We highlight subsamples which are particularly useful for retrieving such properties of the dust distribution as UV extinction, the extent perpendicular to the disk plane, and extinction in the inner parts of disks. The sample spans wide ranges of morphology and surface brightness, opening up the possibility of using this technique to address systematic changes in dust extinction or distribution with galaxy type. This sample will form the basis for forthcoming work on the ranges of dust distributions in local disk galaxies, both for their astrophysical implications and as the low-redshift part of a study of the evolution of dust properties. Separate lists and figures show deep overlaps, where the inner regions of the foreground galaxy are backlit, and the relatively small number of previously-known overlapping pairs outside the SDSS DR7 sky coverage.
 AU  - Keel, W.~C.
 AU  - Manning, A.~M.
@@ -1483,28 +1484,6 @@ EP  - 16
 T1  - Galaxy Zoo: A Catalog of Overlapping Galaxy Pairs for Dust Studies
 VL  - 125
 PY  - 2013
-ER  - 
-
-
-TY  - JOUR
-AB  - The effective extinction law (attenuation behavior) in galaxies in the emitted ultraviolet (UV) regime is well known only for actively star-forming objects and combines effects of the grain properties, fine structure in the dust distribution, and relative distributions of stars and dust. We use Galaxy Evolution Explorer, XMM Optical Monitor, and Hubble Space Telescope (HST) data to explore the UV attenuation in the outer parts of spiral disks which are backlit by other UV-bright galaxies, starting with the candidate list of pairs provided by Galaxy Zoo participants. New optical images help to constrain the geometry and structure of the target galaxies. Our analysis incorporates galaxy symmetry, using non-overlapping regions of each galaxy to derive error estimates on the attenuation measurements. The entire sample has an attenuation law across the optical and UV that is close to the Calzetti et al. form; the UV slope for the overall sample is substantially shallower than found by Wild et al., which is a reasonable match to the more distant galaxies in our sample but not to the weighted combination including NGC 2207. The nearby, bright spiral NGC 2207 alone gives an accuracy almost equal to the rest of our sample, and its outer arms have a very low level of foreground starlight. Thus, this widespread, fairly "gray" law can be produced from the distribution of dust alone, without a necessary contribution from differential escape of stars from dense clouds. Our results indicate that the extrapolation needed to compare attenuation between backlit galaxies at moderate redshifts from HST data, and local systems from Sloan Digital Sky Survey and similar data, is mild enough to allow the use of galaxy overlaps to trace the cosmic history of dust in galaxies. For NGC 2207, HST data in the near-UV F336W band show that the covering factor of clouds with small optical attenuation becomes a dominant factor farther into the UV, which opens the possibility that widespread diffuse dust dominates over dust in star-forming regions deep into the UV. Comparison with published radiative-transfer models indicates that the role of dust clumping dominates over differences in grain populations at this coarse spatial resolution.  Based in part on observations made with the NASA Galaxy Evolution Explorer. GALEX is operated for NASA by the California Institute of Technology under NASA contract NAS5-98034.
-AU  - Keel, W.~C.
-AU  - Manning, A.~M.
-AU  - Holwerda, B.~W.
-AU  - Lintott, C.~J.
-AU  - Schawinski, K.
-JO  - \aj
-KW  - galaxies
-KW  -  ISM
-KW  -  galaxies
-KW  -  spiral
-KW  -  ultraviolet
-KW  -  galaxies
-Y2  - February
-SP  - 44
-T1  - The Ultraviolet Attenuation Law in Backlit Spiral Galaxies
-VL  - 147
-PY  - 2014
 ER  - 
 
 
@@ -1543,6 +1522,57 @@ SP  - 155
 T1  - HST Imaging of Fading AGN Candidates. I. Host-galaxy Properties and Origin of the Extended Gas
 VL  - 149
 PY  - 2015
+ER  - 
+
+
+TY  - JOUR
+AB  - Some active galactic nuclei (AGN) are surrounded by extended emission-line regions (EELRs), which trace both the illumination pattern of escaping radiation and its history over the light travel time from the AGN to the gas. From a new set of such EELRs, we present evidence that the AGN in many Seyfert galaxies undergo luminous episodes 0.2-2 ? years in duration. Motivated by the discovery of the spectacular nebula known as Hanny's Voorwerp, ionized by a powerful AGN which has apparently faded dramatically within ? years, Galaxy Zoo volunteers have carried out both targeted and serendipitous searches for similar emission-line clouds around low-redshift galaxies. We present the resulting list of candidates and describe spectroscopy identifying 19 galaxies with AGN-ionized regions at projected radii ? kpc. This search recovered known EELRs (such as Mrk 78, Mrk 266 and NGC 5252) and identified additional previously unknown cases, one with detected emission to ? kpc. One new Sy 2 was identified. At least 14/19 are in interacting or merging systems, suggesting that tidal tails are a prime source of distant gas out of the galaxy plane to be ionized by an AGN. We see a mix of one- and two-sided structures, with observed cone angles from 23? to 112?. We consider the energy balance in the ionized clouds, with lower and upper bounds on ionizing luminosity from recombination and ionization-parameter arguments, and estimate the luminosity of the core from the far-infrared data. The implied ratio of ionizing radiation seen by the clouds to that emitted by the nucleus, on the assumption of a non-variable nuclear source, ranges from 0.02 to ?; 7/19 exceed unity. Small values fit well with a heavily obscured AGN in which only a small fraction of the ionizing output escapes to be traced by surrounding gas. However, large values may require that the AGN has faded over tens of thousands of years, giving us several examples of systems in which such dramatic long-period variation has occurred; this is the only current technique for addressing these time-scales in AGN history. The relative numbers of faded and non-faded objects we infer, and the projected extents of the ionized regions, give our estimate (0.2-2 ? years) for the length of individual bright phases.
+AU  - Keel, W.~C.
+AU  - Chojnowski, S.~D.
+AU  - Bennert, V.~N.
+AU  - Schawinski, K.
+AU  - Lintott, C.~J.
+AU  - Lynn, S.
+AU  - Pancoast, A.
+AU  - Harris, C.
+AU  - Nierenberg, A.~M.
+AU  - Sonnenfeld, A.
+AU  - Proctor, R.
+JO  - \mnras
+KW  - galaxies
+KW  -  active
+KW  -  galaxies
+KW  -  ISM
+KW  -  galaxies
+KW  -  Seyfert
+Y2  - February
+SP  - 878
+EP  - 900
+T1  - The Galaxy Zoo survey for giant AGN-ionized clouds: past and present black hole accretion events
+VL  - 420
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - The effective extinction law (attenuation behavior) in galaxies in the emitted ultraviolet (UV) regime is well known only for actively star-forming objects and combines effects of the grain properties, fine structure in the dust distribution, and relative distributions of stars and dust. We use Galaxy Evolution Explorer, XMM Optical Monitor, and Hubble Space Telescope (HST) data to explore the UV attenuation in the outer parts of spiral disks which are backlit by other UV-bright galaxies, starting with the candidate list of pairs provided by Galaxy Zoo participants. New optical images help to constrain the geometry and structure of the target galaxies. Our analysis incorporates galaxy symmetry, using non-overlapping regions of each galaxy to derive error estimates on the attenuation measurements. The entire sample has an attenuation law across the optical and UV that is close to the Calzetti et al. form; the UV slope for the overall sample is substantially shallower than found by Wild et al., which is a reasonable match to the more distant galaxies in our sample but not to the weighted combination including NGC 2207. The nearby, bright spiral NGC 2207 alone gives an accuracy almost equal to the rest of our sample, and its outer arms have a very low level of foreground starlight. Thus, this widespread, fairly "gray" law can be produced from the distribution of dust alone, without a necessary contribution from differential escape of stars from dense clouds. Our results indicate that the extrapolation needed to compare attenuation between backlit galaxies at moderate redshifts from HST data, and local systems from Sloan Digital Sky Survey and similar data, is mild enough to allow the use of galaxy overlaps to trace the cosmic history of dust in galaxies. For NGC 2207, HST data in the near-UV F336W band show that the covering factor of clouds with small optical attenuation becomes a dominant factor farther into the UV, which opens the possibility that widespread diffuse dust dominates over dust in star-forming regions deep into the UV. Comparison with published radiative-transfer models indicates that the role of dust clumping dominates over differences in grain populations at this coarse spatial resolution.  Based in part on observations made with the NASA Galaxy Evolution Explorer. GALEX is operated for NASA by the California Institute of Technology under NASA contract NAS5-98034.
+AU  - Keel, W.~C.
+AU  - Manning, A.~M.
+AU  - Holwerda, B.~W.
+AU  - Lintott, C.~J.
+AU  - Schawinski, K.
+JO  - \aj
+KW  - galaxies
+KW  -  ISM
+KW  -  galaxies
+KW  -  spiral
+KW  -  ultraviolet
+KW  -  galaxies
+Y2  - February
+SP  - 44
+T1  - The Ultraviolet Attenuation Law in Backlit Spiral Galaxies
+VL  - 147
+PY  - 2014
 ER  - 
 
 
@@ -1757,38 +1787,6 @@ ER  -
 TY  - JOUR
 AU  - Lintott, C.~J.
 AU  - Schawinski, K.
-AU  - Slosar, A.
-AU  - Land, K.
-AU  - Bamford, S.
-AU  - Thomas, D.
-AU  - Raddick, M.~J.
-AU  - Nichol, R.~C.
-AU  - Szalay, A.
-AU  - Andreescu, D.
-AU  - Murray, P.
-AU  - Vandenberg, J.
-JO  - \mnras
-KW  - methods
-KW  -  data analysis 
-KW  -  galaxies
-KW  -  elliptical and lenticular
-KW  -  cD 
-KW  -  galaxies
-KW  -  general 
-KW  -  galaxies
-KW  -  spiral
-Y2  - September
-SP  - 1179
-EP  - 1189
-T1  - Galaxy Zoo: morphologies derived from visual inspection of galaxies from the Sloan Digital Sky Survey
-VL  - 389
-PY  - 2008
-ER  - 
-
-
-TY  - JOUR
-AU  - Lintott, C.~J.
-AU  - Schawinski, K.
 AU  - Keel, W.
 AU  - van Arkel, H.
 AU  - Bennert, N.
@@ -1823,6 +1821,38 @@ EP  - 140
 T1  - Galaxy Zoo: `Hanny's Voorwerp', a quasar light echo?
 VL  - 399
 PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AU  - Lintott, C.~J.
+AU  - Schawinski, K.
+AU  - Slosar, A.
+AU  - Land, K.
+AU  - Bamford, S.
+AU  - Thomas, D.
+AU  - Raddick, M.~J.
+AU  - Nichol, R.~C.
+AU  - Szalay, A.
+AU  - Andreescu, D.
+AU  - Murray, P.
+AU  - Vandenberg, J.
+JO  - \mnras
+KW  - methods
+KW  -  data analysis 
+KW  -  galaxies
+KW  -  elliptical and lenticular
+KW  -  cD 
+KW  -  galaxies
+KW  -  general 
+KW  -  galaxies
+KW  -  spiral
+Y2  - September
+SP  - 1179
+EP  - 1189
+T1  - Galaxy Zoo: morphologies derived from visual inspection of galaxies from the Sloan Digital Sky Survey
+VL  - 389
+PY  - 2008
 ER  - 
 
 
@@ -1894,52 +1924,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - PTF10ops is a Type Ia supernova (SN Ia), whose light curve and spectral properties place it outside the current SN Ia subtype classifications. Its spectra display the characteristic lines of subluminous SNe Ia, but it has a normal-width light curve with a long rise time, typical of normal-luminosity SNe Ia. The early-time optical spectra of PTF10ops were modelled using a spectral fitting code and found to have all the lines typically seen in subluminous SNe Ia, without the need to invoke more uncommon elements. The host galaxy environment of PTF10ops is also unusual with no galaxy detected at the position of the SN down to an absolute limiting magnitude of r>=-12.0 mag, but a very massive galaxy is present at a separation of ˜148 kpc and at the same redshift as suggested by the SN spectral features. The progenitor of PTF10ops is most likely a very old star, possibly in a low-metallicity environment, which affects its explosion mechanism and observational characteristics. PTF10ops does not easily fit into any of the current models of either subluminous or normal SN Ia progenitor channels.
-AU  - Maguire, K.
-AU  - Sullivan, M.
-AU  - Thomas, R.~C.
-AU  - Nugent, P.
-AU  - Howell, D.~A.
-AU  - Gal-Yam, A.
-AU  - Arcavi, I.
-AU  - Ben-Ami, S.
-AU  - Blake, S.
-AU  - Botyanszki, J.
-AU  - Buton, C.
-AU  - Cooke, J.
-AU  - Ellis, R.~S.
-AU  - Hook, I.~M.
-AU  - Kasliwal, M.~M.
-AU  - Pan, Y.-C.
-AU  - Pereira, R.
-AU  - Podsiadlowski, P.
-AU  - Sternberg, A.
-AU  - Suzuki, N.
-AU  - Xu, D.
-AU  - Yaron, O.
-AU  - Bloom, J.~S.
-AU  - Cenko, S.~B.
-AU  - Kulkarni, S.~R.
-AU  - Law, N.
-AU  - Ofek, E.~O.
-AU  - Poznanski, D.
-AU  - Quimby, R.~M.
-JO  - \mnras
-KW  - supernovae
-KW  -  general
-KW  -  supernovae
-KW  -  individual
-KW  -  PTF10ops
-Y2  - December
-SP  - 747
-EP  - 758
-T1  - PTF10ops - a subluminous, normal-width light curve Type Ia supernova in the middle of nowhere
-VL  - 418
-PY  - 2011
-ER  - 
-
-
-TY  - JOUR
 AB  - We present an analysis of the maximum light, near-ultraviolet (NUV; 2900 < lambda < 5500 Å) spectra of 32 low-redshift (0.001 < z < 0.08) Type Ia supernovae (SNe Ia), obtained with the Hubble Space Telescope (HST) using the Space Telescope Imaging Spectrograph. We combine this spectroscopic sample with high-quality gri light curves obtained with robotic telescopes to measure SN Ia photometric parameters, such as stretch (light-curve width), optical colour and brightness (Hubble residual). By comparing our new data to a comparable sample of SNe Ia at intermediate redshift (0.4 < z < 0.9), we detect modest spectral evolution (3sigma), in the sense that our mean low-redshift NUV spectrum has a depressed flux compared to its intermediate-redshift counterpart. We also see a strongly increased dispersion about the mean with decreasing wavelength, confirming the results of earlier surveys. We show that these trends are consistent with changes in metallicity as predicted by contemporary SN Ia spectral models. We also examine the properties of various NUV spectral diagnostics in the individual SN spectra. We find a general correlation between SN stretch and the velocity (or position) of many NUV spectral features. In particular, we observe that higher stretch SNe have larger Ca II H&K velocities, which also correlate with host galaxy stellar mass. This latter trend is probably driven by the well-established correlation between stretch and host galaxy stellar mass. We find no significant trends between UV spectral features and optical colour. Mean spectra constructed according to whether the SN has a positive or negative Hubble residual show very little difference at NUV wavelengths, indicating that the NUV evolution and variation we identify does not directly correlate with Hubble diagram residuals. Our work confirms and strengthens earlier conclusions regarding the complex behaviour of SNe Ia in the NUV spectral region, but suggests the correlations we find are more useful in constraining progenitor models rather than improving the use of SNe Ia as cosmological probes.
 AU  - Maguire, K.
 AU  - Sullivan, M.
@@ -1983,6 +1967,52 @@ EP  - 2379
 T1  - Hubble Space Telescope studies of low-redshift Type Ia supernovae: evolution with redshift and ultraviolet spectral trends
 VL  - 426
 PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - PTF10ops is a Type Ia supernova (SN Ia), whose light curve and spectral properties place it outside the current SN Ia subtype classifications. Its spectra display the characteristic lines of subluminous SNe Ia, but it has a normal-width light curve with a long rise time, typical of normal-luminosity SNe Ia. The early-time optical spectra of PTF10ops were modelled using a spectral fitting code and found to have all the lines typically seen in subluminous SNe Ia, without the need to invoke more uncommon elements. The host galaxy environment of PTF10ops is also unusual with no galaxy detected at the position of the SN down to an absolute limiting magnitude of r>=-12.0 mag, but a very massive galaxy is present at a separation of ˜148 kpc and at the same redshift as suggested by the SN spectral features. The progenitor of PTF10ops is most likely a very old star, possibly in a low-metallicity environment, which affects its explosion mechanism and observational characteristics. PTF10ops does not easily fit into any of the current models of either subluminous or normal SN Ia progenitor channels.
+AU  - Maguire, K.
+AU  - Sullivan, M.
+AU  - Thomas, R.~C.
+AU  - Nugent, P.
+AU  - Howell, D.~A.
+AU  - Gal-Yam, A.
+AU  - Arcavi, I.
+AU  - Ben-Ami, S.
+AU  - Blake, S.
+AU  - Botyanszki, J.
+AU  - Buton, C.
+AU  - Cooke, J.
+AU  - Ellis, R.~S.
+AU  - Hook, I.~M.
+AU  - Kasliwal, M.~M.
+AU  - Pan, Y.-C.
+AU  - Pereira, R.
+AU  - Podsiadlowski, P.
+AU  - Sternberg, A.
+AU  - Suzuki, N.
+AU  - Xu, D.
+AU  - Yaron, O.
+AU  - Bloom, J.~S.
+AU  - Cenko, S.~B.
+AU  - Kulkarni, S.~R.
+AU  - Law, N.
+AU  - Ofek, E.~O.
+AU  - Poznanski, D.
+AU  - Quimby, R.~M.
+JO  - \mnras
+KW  - supernovae
+KW  -  general
+KW  -  supernovae
+KW  -  individual
+KW  -  PTF10ops
+Y2  - December
+SP  - 747
+EP  - 758
+T1  - PTF10ops - a subluminous, normal-width light curve Type Ia supernova in the middle of nowhere
+VL  - 418
+PY  - 2011
 ER  - 
 
 
@@ -2036,6 +2066,85 @@ EP  - 1190
 T1  - SPACE WARPS - I. Crowdsourcing the discovery of gravitational lenses
 VL  - 455
 PY  - 2016
+ER  - 
+
+
+TY  - CONF
+AB  - We live in a universe filled with galaxies with an amazing variety of sizes and shapes. One of the biggest challenges for astronomers working in this field is to understand how all these types relate to each other in the background of an expanding universe. Modern astronomical surveys (like the Sloan Digital Sky Survey) have revolutionised this field of astronomy, by providing vast numbers of galaxies to study. The sheer size of the these databases made traditional visual classification of the types galaxies impossible and in 2007 inspired the Galaxy Zoo project (www.galaxyzoo.org); starting the largest ever scientific collaboration by asking members of the public to help classify galaxies by type and shape. Galaxy Zoo has since shown itself, in a series of now more than 30 scientific papers, to be a fantastic database for the study of galaxy evolution. In this Invited Discourse I spoke a little about the historical background of our understanding of what galaxies are, of galaxy classification, about our modern view of galaxies in the era of large surveys. I finish with showcasing some of the contributions galaxy classifications from the Galaxy Zoo project are making to our understanding of galaxy evolution. This publication has been made possible by the participation of more than 200,000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at http://www.galaxyzoo.org/volunteers. KLM acknowledges funding from the Peter and Patricia Gruber Foundation as the 2008 Peter and Patricia Gruber Foundation IAU Fellow, and from a 2010 Leverhulme Trust Early Career Fellowship, as well as support from the Royal Astronomical Society to attend the 28th GA of the IAU.
+AU  - Masters, K.~L.
+T2  - XXVIIIth IAU General Assembly
+JO  - ArXiv e-prints
+KW  - Astrophysics - Cosmology and Extragalactic Astrophysics
+Y2  - August
+T1  - A Zoo of Galaxies
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - We study the observed correlation between atomic gas content and the likelihood of hosting a large-scale bar in a sample of 2090 disc galaxies. Such a test has never been done before on this scale. We use data on morphologies from the Galaxy Zoo project and information on the galaxies' H I content from the Arecibo Legacy Fast Arecibo L-band Feed Array (ALFALFA) blind H I survey. Our main result is that the bar fraction is significantly lower among gas-rich disc galaxies than gas-poor ones. This is not explained by known trends for more massive (stellar) and redder disc galaxies to host more bars and have lower gas fractions: we still see at fixed stellar mass a residual correlation between gas content and bar fraction. We discuss three possible causal explanations: (1) bars in disc galaxies cause atomic gas to be used up more quickly, (2) increasing the atomic gas content in a disc galaxy inhibits bar formation and (3) bar fraction and gas content are both driven by correlation with environmental effects (e.g. tidal triggering of bars, combined with strangulation removing gas). All three explanations are consistent with the observed correlations. In addition our observations suggest bars may reduce or halt star formation in the outer parts of discs by holding back the infall of external gas beyond bar co-rotation, reddening the global colours of barred disc galaxies. This suggests that secular evolution driven by the exchange of angular momentum between stars in the bar, and gas in the disc, acts as a feedback mechanism to regulate star formation in intermediate-mass disc galaxies. This publication has been made possible by the participation of more than 200 000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at South East Physics Network, E-mail: karen.masters@port.ac.ukEinstein fellow.
+AU  - Masters, K.~L.
+AU  - Nichol, R.~C.
+AU  - Haynes, M.~P.
+AU  - Keel, W.~C.
+AU  - Lintott, C.
+AU  - Simmons, B.
+AU  - Skibba, R.
+AU  - Bamford, S.
+AU  - Giovanelli, R.
+AU  - Schawinski, K.
+JO  - \mnras
+KW  - surveys
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  ISM
+KW  -  galaxies
+KW  -  spiral
+KW  -  galaxies
+KW  -  statistics
+KW  -  galaxies
+KW  -  structure
+Y2  - August
+SP  - 2180
+EP  - 2192
+T1  - Galaxy Zoo and ALFALFA: atomic gas and the regulation of star formation in barred disc galaxies
+VL  - 424
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - We present first results from Galaxy Zoo 2, the second phase of the highly successful Galaxy Zoo project (). Using a volume-limited sample of 13 665 disc galaxies (0.01 < z < 0.06 and Mr < -19.38), we study the fraction of galaxies with bars as a function of global galaxy properties like colour, luminosity and bulge prominence. Overall, 29.4 $\pm$ 0.5 per cent of galaxies in our sample have a bar, in excellent agreement with previous visually classified samples of galaxies (although this overall fraction is lower than that measured by automated bar-finding methods). We see a clear increase in the bar fraction with redder (g-r) colours, decreased luminosity and in galaxies with more prominent bulges, to the extent that over half of the red, bulge-dominated disc galaxies in our sample possess a bar. We see evidence for a colour bimodality for our sample of disc galaxies, with a 'red sequence' that is both bulge and bar dominated, and a 'blue cloud' which has little, or no, evidence for a (classical) bulge or bar. These results are consistent with similar trends for barred galaxies seen recently both locally and at higher redshift, and with early studies using the RC3. We discuss these results in the context of internal (secular) galaxy evolution scenarios and the possible links to the formation of bars and bulges in disc galaxies. This publication has been made possible by the participation of more than 200 000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at http://www.galaxyzoo.org/Volunteers.aspx
+AU  - Masters, K.~L.
+AU  - Nichol, R.~C.
+AU  - Hoyle, B.
+AU  - Lintott, C.
+AU  - Bamford, S.~P.
+AU  - Edmondson, E.~M.
+AU  - Fortson, L.
+AU  - Keel, W.~C.
+AU  - Schawinski, K.
+AU  - Smith, A.~M.
+AU  - Thomas, D.
+JO  - \mnras
+KW  - surveys
+KW  -  galaxies
+KW  -  bulges
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  photometry
+KW  -  galaxies
+KW  -  spiral
+KW  -  galaxies
+KW  -  structure
+Y2  - March
+SP  - 2026
+EP  - 2034
+T1  - Galaxy Zoo: bars in disc galaxies
+VL  - 411
+PY  - 2011
 ER  - 
 
 
@@ -2109,85 +2218,6 @@ EP  - 799
 T1  - Galaxy Zoo: passive red spirals
 VL  - 405
 PY  - 2010
-ER  - 
-
-
-TY  - JOUR
-AB  - We present first results from Galaxy Zoo 2, the second phase of the highly successful Galaxy Zoo project (). Using a volume-limited sample of 13 665 disc galaxies (0.01 < z < 0.06 and Mr < -19.38), we study the fraction of galaxies with bars as a function of global galaxy properties like colour, luminosity and bulge prominence. Overall, 29.4 $\pm$ 0.5 per cent of galaxies in our sample have a bar, in excellent agreement with previous visually classified samples of galaxies (although this overall fraction is lower than that measured by automated bar-finding methods). We see a clear increase in the bar fraction with redder (g-r) colours, decreased luminosity and in galaxies with more prominent bulges, to the extent that over half of the red, bulge-dominated disc galaxies in our sample possess a bar. We see evidence for a colour bimodality for our sample of disc galaxies, with a 'red sequence' that is both bulge and bar dominated, and a 'blue cloud' which has little, or no, evidence for a (classical) bulge or bar. These results are consistent with similar trends for barred galaxies seen recently both locally and at higher redshift, and with early studies using the RC3. We discuss these results in the context of internal (secular) galaxy evolution scenarios and the possible links to the formation of bars and bulges in disc galaxies. This publication has been made possible by the participation of more than 200 000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at http://www.galaxyzoo.org/Volunteers.aspx
-AU  - Masters, K.~L.
-AU  - Nichol, R.~C.
-AU  - Hoyle, B.
-AU  - Lintott, C.
-AU  - Bamford, S.~P.
-AU  - Edmondson, E.~M.
-AU  - Fortson, L.
-AU  - Keel, W.~C.
-AU  - Schawinski, K.
-AU  - Smith, A.~M.
-AU  - Thomas, D.
-JO  - \mnras
-KW  - surveys
-KW  -  galaxies
-KW  -  bulges
-KW  -  galaxies
-KW  -  evolution
-KW  -  galaxies
-KW  -  photometry
-KW  -  galaxies
-KW  -  spiral
-KW  -  galaxies
-KW  -  structure
-Y2  - March
-SP  - 2026
-EP  - 2034
-T1  - Galaxy Zoo: bars in disc galaxies
-VL  - 411
-PY  - 2011
-ER  - 
-
-
-TY  - JOUR
-AB  - We study the observed correlation between atomic gas content and the likelihood of hosting a large-scale bar in a sample of 2090 disc galaxies. Such a test has never been done before on this scale. We use data on morphologies from the Galaxy Zoo project and information on the galaxies' H I content from the Arecibo Legacy Fast Arecibo L-band Feed Array (ALFALFA) blind H I survey. Our main result is that the bar fraction is significantly lower among gas-rich disc galaxies than gas-poor ones. This is not explained by known trends for more massive (stellar) and redder disc galaxies to host more bars and have lower gas fractions: we still see at fixed stellar mass a residual correlation between gas content and bar fraction. We discuss three possible causal explanations: (1) bars in disc galaxies cause atomic gas to be used up more quickly, (2) increasing the atomic gas content in a disc galaxy inhibits bar formation and (3) bar fraction and gas content are both driven by correlation with environmental effects (e.g. tidal triggering of bars, combined with strangulation removing gas). All three explanations are consistent with the observed correlations. In addition our observations suggest bars may reduce or halt star formation in the outer parts of discs by holding back the infall of external gas beyond bar co-rotation, reddening the global colours of barred disc galaxies. This suggests that secular evolution driven by the exchange of angular momentum between stars in the bar, and gas in the disc, acts as a feedback mechanism to regulate star formation in intermediate-mass disc galaxies. This publication has been made possible by the participation of more than 200 000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at South East Physics Network, E-mail: karen.masters@port.ac.ukEinstein fellow.
-AU  - Masters, K.~L.
-AU  - Nichol, R.~C.
-AU  - Haynes, M.~P.
-AU  - Keel, W.~C.
-AU  - Lintott, C.
-AU  - Simmons, B.
-AU  - Skibba, R.
-AU  - Bamford, S.
-AU  - Giovanelli, R.
-AU  - Schawinski, K.
-JO  - \mnras
-KW  - surveys
-KW  -  galaxies
-KW  -  evolution
-KW  -  galaxies
-KW  -  ISM
-KW  -  galaxies
-KW  -  spiral
-KW  -  galaxies
-KW  -  statistics
-KW  -  galaxies
-KW  -  structure
-Y2  - August
-SP  - 2180
-EP  - 2192
-T1  - Galaxy Zoo and ALFALFA: atomic gas and the regulation of star formation in barred disc galaxies
-VL  - 424
-PY  - 2012
-ER  - 
-
-
-TY  - CONF
-AB  - We live in a universe filled with galaxies with an amazing variety of sizes and shapes. One of the biggest challenges for astronomers working in this field is to understand how all these types relate to each other in the background of an expanding universe. Modern astronomical surveys (like the Sloan Digital Sky Survey) have revolutionised this field of astronomy, by providing vast numbers of galaxies to study. The sheer size of the these databases made traditional visual classification of the types galaxies impossible and in 2007 inspired the Galaxy Zoo project (www.galaxyzoo.org); starting the largest ever scientific collaboration by asking members of the public to help classify galaxies by type and shape. Galaxy Zoo has since shown itself, in a series of now more than 30 scientific papers, to be a fantastic database for the study of galaxy evolution. In this Invited Discourse I spoke a little about the historical background of our understanding of what galaxies are, of galaxy classification, about our modern view of galaxies in the era of large surveys. I finish with showcasing some of the contributions galaxy classifications from the Galaxy Zoo project are making to our understanding of galaxy evolution. This publication has been made possible by the participation of more than 200,000 volunteers in the Galaxy Zoo project. Their contributions are individually acknowledged at http://www.galaxyzoo.org/volunteers. KLM acknowledges funding from the Peter and Patricia Gruber Foundation as the 2008 Peter and Patricia Gruber Foundation IAU Fellow, and from a 2010 Leverhulme Trust Early Career Fellowship, as well as support from the Royal Astronomical Society to attend the 28th GA of the IAU.
-AU  - Masters, K.~L.
-T2  - XXVIIIth IAU General Assembly
-JO  - ArXiv e-prints
-KW  - Astrophysics - Cosmology and Extragalactic Astrophysics
-Y2  - August
-T1  - A Zoo of Galaxies
-PY  - 2013
 ER  - 
 
 
@@ -2281,6 +2311,26 @@ TY  - CONF
 AD  - New York, NY, USA
 AU  - Mugar, Gabriel
 AU  - \Osterlund, Carsten
+AU  - Jackson, Corey Brian
+AU  - Crowston, Kevin
+T2  - Proceedings of the 7th International Conference on Communities and Technologies
+SN  - 978-1-4503-3460-0
+KW  - citizen science
+KW  -  situated learning
+KW  -  sociomateriality
+SP  - 129
+EP  - -138
+PB  - ACM
+T1  - Being Present in Online Communities: Learning in Citizen Science
+UR  - http://doi.acm.org/10.1145/2768545.2768555
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AD  - New York, NY, USA
+AU  - Mugar, Gabriel
+AU  - \Osterlund, Carsten
 AU  - Hassman, Katie DeVries
 AU  - Crowston, Kevin
 AU  - Jackson, Corey Brian
@@ -2297,26 +2347,6 @@ PB  - ACM
 T1  - Planet Hunters and Seafloor Explorers: Legitimate Peripheral Participation Through Practice Proxies in Online Citizen Science
 UR  - http://doi.acm.org/10.1145/2531602.2531721
 PY  - 2014
-ER  - 
-
-
-TY  - CONF
-AD  - New York, NY, USA
-AU  - Mugar, Gabriel
-AU  - \Osterlund, Carsten
-AU  - Jackson, Corey Brian
-AU  - Crowston, Kevin
-T2  - Proceedings of the 7th International Conference on Communities and Technologies
-SN  - 978-1-4503-3460-0
-KW  - citizen science
-KW  -  situated learning
-KW  -  sociomateriality
-SP  - 129
-EP  - -138
-PB  - ACM
-T1  - Being Present in Online Communities: Learning in Citizen Science
-UR  - http://doi.acm.org/10.1145/2768545.2768555
-PY  - 2015
 ER  - 
 
 
@@ -2545,39 +2575,6 @@ ER  -
 
 
 TY  - JOUR
-AB  - Galaxy formation is significantly modulated by energy output from supermassive black holes at the centers of galaxies which grow in highly efficient luminous quasar phases. The timescale on which black holes transition into and out of such phases is, however, unknown. We present the first measurement of the shutdown timescale for an individual quasar using X-ray observations of the nearby galaxy IC 2497, which hosted a luminous quasar no more than 70,000 years ago that is still seen as a light echo in "Hanny's Voorwerp," but whose present-day radiative output is lower by at least two, and more likely by over four, orders of magnitude. This extremely rapid shutdown provides new insight into the physics of accretion in supermassive black holes and may signal a transition of the accretion disk to a radiatively inefficient state.
-AU  - Schawinski, K.
-AU  - Evans, D.~A.
-AU  - Virani, S.
-AU  - Urry, C.~M.
-AU  - Keel, W.~C.
-AU  - Natarajan, P.
-AU  - Lintott, C.~J.
-AU  - Manning, A.
-AU  - Coppi, P.
-AU  - Kaviraj, S.
-AU  - Bamford, S.~P.
-AU  - Józsa, G.~I.~G.
-AU  - Garrett, M.
-AU  - van Arkel, H.
-AU  - Gay, P.
-AU  - Fortson, L.
-JO  - \apjl
-KW  - quasars
-KW  -  general
-KW  -  quasars
-KW  -  individual
-KW  -  IC 2497
-Y2  - November
-SP  - L30
-EP  - L33
-T1  - The Sudden Death of the Nearest Quasar
-VL  - 724
-PY  - 2010
-ER  - 
-
-
-TY  - JOUR
 AB  - We use SDSS+GALEX+Galaxy Zoo data to study the quenching of star formation in low-redshift galaxies. We show that the green valley between the blue cloud of star-forming galaxies and the red sequence of quiescent galaxies in the colour-mass diagram is not a single transitional state through which most blue galaxies evolve into red galaxies. Rather, an analysis that takes morphology into account makes clear that only a small population of blue early-type galaxies move rapidly across the green valley after the morphologies are transformed from disc to spheroid and star formation is quenched rapidly. In contrast, the majority of blue star-forming galaxies have significant discs, and they retain their late-type morphologies as their star formation rates decline very slowly. We summarize a range of observations that lead to these conclusions, including UV-optical colours and halo masses, which both show a striking dependence on morphological type. We interpret these results in terms of the evolution of cosmic gas supply and gas reservoirs. We conclude that late-type galaxies are consistent with a scenario where the cosmic supply of gas is shut off, perhaps at a critical halo mass, followed by a slow exhaustion of the remaining gas over several Gyr, driven by secular and/or environmental processes. In contrast, early-type galaxies require a scenario where the gas supply and gas reservoir are destroyed virtually instantaneously, with rapid quenching accompanied by a morphological transformation from disc to spheroid. This gas reservoir destruction could be the consequence of a major merger, which in most cases transforms galaxies from disc to elliptical morphology, and mergers could play a role in inducing black hole accretion and possibly active galactic nuclei feedback.
 AU  - Schawinski, K.
 AU  - Urry, C.~M.
@@ -2610,6 +2607,39 @@ EP  - 907
 T1  - The green valley is a red herring: Galaxy Zoo reveals two evolutionary pathways towards quenching of star formation in early- and late-type galaxies
 VL  - 440
 PY  - 2014
+ER  - 
+
+
+TY  - JOUR
+AB  - Galaxy formation is significantly modulated by energy output from supermassive black holes at the centers of galaxies which grow in highly efficient luminous quasar phases. The timescale on which black holes transition into and out of such phases is, however, unknown. We present the first measurement of the shutdown timescale for an individual quasar using X-ray observations of the nearby galaxy IC 2497, which hosted a luminous quasar no more than 70,000 years ago that is still seen as a light echo in "Hanny's Voorwerp," but whose present-day radiative output is lower by at least two, and more likely by over four, orders of magnitude. This extremely rapid shutdown provides new insight into the physics of accretion in supermassive black holes and may signal a transition of the accretion disk to a radiatively inefficient state.
+AU  - Schawinski, K.
+AU  - Evans, D.~A.
+AU  - Virani, S.
+AU  - Urry, C.~M.
+AU  - Keel, W.~C.
+AU  - Natarajan, P.
+AU  - Lintott, C.~J.
+AU  - Manning, A.
+AU  - Coppi, P.
+AU  - Kaviraj, S.
+AU  - Bamford, S.~P.
+AU  - Józsa, G.~I.~G.
+AU  - Garrett, M.
+AU  - van Arkel, H.
+AU  - Gay, P.
+AU  - Fortson, L.
+JO  - \apjl
+KW  - quasars
+KW  -  general
+KW  -  quasars
+KW  -  individual
+KW  -  IC 2497
+Y2  - November
+SP  - L30
+EP  - L33
+T1  - The Sudden Death of the Nearest Quasar
+VL  - 724
+PY  - 2010
 ER  - 
 
 
@@ -2695,27 +2725,34 @@ ER  -
 
 
 TY  - JOUR
-AB  - We present the results from a search of data from the first 33.5 days of the Kepler science mission (Quarter 1) for exoplanet transits by the Planet Hunters citizen science project. Planet Hunters enlists members of the general public to visually identify transits in the publicly released Kepler light curves via the World Wide Web. Over 24,000 volunteers reviewed the Kepler Quarter 1 data set. We examine the abundance of >=2 R ⊕ planets on short-period (<15 days) orbits based on Planet Hunters detections. We present these results along with an analysis of the detection efficiency of human classifiers to identify planetary transits including a comparison to the Kepler inventory of planet candidates. Although performance drops rapidly for smaller radii, >=4 R ⊕ Planet Hunters >=85% efficient at identifying transit signals for planets with periods less than 15 days for the Kepler sample of target stars. Our high efficiency rate for simulated transits along with recovery of the majority of Kepler >=4 R ⊕ planets suggests that the Kepler inventory of >=4 R ⊕ short-period planets is nearly complete.
-AU  - Schwamb, M.~E.
-AU  - Lintott, C.~J.
-AU  - Fischer, D.~A.
-AU  - Giguere, M.~J.
-AU  - Lynn, S.
-AU  - Smith, A.~M.
-AU  - Brewer, J.~M.
-AU  - Parrish, M.
-AU  - Schawinski, K.
-AU  - Simpson, R.~J.
-JO  - \apj
-KW  - planets and satellites
-KW  -  detection
-KW  -  planets and satellites
-KW  -  general
-Y2  - August
-SP  - 129
-T1  - Planet Hunters: Assessing the Kepler Inventory of Short-period Planets
-VL  - 754
-PY  - 2012
+AB  - We present high resolution observations of a sample of 75 K2 targets from Campaigns 1-3 using speckle interferometry on the Southern Astrophysical Research (SOAR) telescope and adaptive optics (AO) imaging at the Keck II telescope. The median SOAR $I$-band and Keck $K_s$-band detection limits at 1'' were $\Delta m_I=4.4$ mag and $\Delta m_K_s=6.1$ mag, respectively. This sample includes 37 stars likely to host planets, 32 targets likely to be EBs, and 6 other targets previously labeled as likely planetary false positives. We find nine likely physically bound companion stars within 3'' of three candidate transiting exoplanet host stars and six likely eclipsing binaries (EB). Six of the nine detected companions are new discoveries, one of them associated with a planet candidate (EPIC 206061524). Among the EB candidates, companions were only found near the shortest period ones ($P<3$ days), which is in line with previous results showing high multiplicity near short-period binary stars. This high resolution data, including both the detected companions and the limits on potential unseen companions, will be useful in future planet vetting and stellar multiplicity rate studies for planets and binaries.
+AU  - Schmitt, Joseph~R.
+AU  - Tokovinin, Andrei
+AU  - Wang, Ji
+AU  - Fischer, Debra~A.
+AU  - Kristiansen, Martti~H.
+AU  - LaCourse, Daryll~M.
+AU  - Gagliano, Robert
+AU  - Tan, Arvin~Joseff~V.
+AU  - Schwengeler, Hans~Martin
+AU  - Omohundro, Mark~R.
+AU  - Venner, Alexander
+AU  - Terentev, Ivan
+AU  - Schmitt, Allan~R.
+AU  - Jacobs, Thomas~L.
+AU  - Winarski, Troy
+AU  - Sejpka, Johann
+AU  - Jek, Kian~J.
+AU  - Boyajian, Tabetha~S.
+AU  - Brewer, John~M.
+AU  - Ishikawa, Sascha~T.
+AU  - Lintott, Chris
+AU  - Lynn, Stuart
+AU  - Schawinski, Kevin
+AU  - Weiksnar, Alex
+Y2  - Mar
+T1  - Planet Hunters X: Searching for Nearby Neighbors of 75 Planet and Eclipsing Binary Candidates from the K2 Kepler extended mission
+PY  - 2016
 ER  - 
 
 
@@ -2756,6 +2793,31 @@ SP  - 127
 T1  - Planet Hunters: A Transiting Circumbinary Planet in a Quadruple Star System
 VL  - 768
 PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - We present the results from a search of data from the first 33.5 days of the Kepler science mission (Quarter 1) for exoplanet transits by the Planet Hunters citizen science project. Planet Hunters enlists members of the general public to visually identify transits in the publicly released Kepler light curves via the World Wide Web. Over 24,000 volunteers reviewed the Kepler Quarter 1 data set. We examine the abundance of >=2 R ⊕ planets on short-period (<15 days) orbits based on Planet Hunters detections. We present these results along with an analysis of the detection efficiency of human classifiers to identify planetary transits including a comparison to the Kepler inventory of planet candidates. Although performance drops rapidly for smaller radii, >=4 R ⊕ Planet Hunters >=85% efficient at identifying transit signals for planets with periods less than 15 days for the Kepler sample of target stars. Our high efficiency rate for simulated transits along with recovery of the majority of Kepler >=4 R ⊕ planets suggests that the Kepler inventory of >=4 R ⊕ short-period planets is nearly complete.
+AU  - Schwamb, M.~E.
+AU  - Lintott, C.~J.
+AU  - Fischer, D.~A.
+AU  - Giguere, M.~J.
+AU  - Lynn, S.
+AU  - Smith, A.~M.
+AU  - Brewer, J.~M.
+AU  - Parrish, M.
+AU  - Schawinski, K.
+AU  - Simpson, R.~J.
+JO  - \apj
+KW  - planets and satellites
+KW  -  detection
+KW  -  planets and satellites
+KW  -  general
+Y2  - August
+SP  - 129
+T1  - Planet Hunters: Assessing the Kepler Inventory of Short-period Planets
+VL  - 754
+PY  - 2012
 ER  - 
 
 
@@ -3158,6 +3220,36 @@ ER  -
 
 
 TY  - JOUR
+AB  - Citizen science has the potential to expand the scope and scale of research in ecology and conservation, but many professional researchers remain skeptical of data produced by nonexperts. We devised an approach for producing accurate, reliable data from untrained, nonexpert volunteers. On the citizen science website www.snapshotserengeti.org, more than 28,000 volunteers classified 1.51 million images taken in a large-scale camera-trap survey in Serengeti National Park, Tanzania. Each image was circulated to, on average, 27 volunteers, and their classifications were aggregated using a simple plurality algorithm. We validated the aggregated answers against a data set of 3829 images verified by experts and calculated 3 certainty metrics—level of agreement among classifications (evenness), fraction of classifications supporting the aggregated answer (fraction support), and fraction of classifiers who reported “nothing here” for an image that was ultimately classified as containing an animal (fraction blank)—to measure confidence that an aggregated answer was correct. Overall, aggregated volunteer answers agreed with the expert-verified data on 98% of images, but accuracy differed by species commonness such that rare species had higher rates of false positives and false negatives. Easily calculated analysis of variance and post-hoc Tukey tests indicated that the certainty metrics were significant indicators of whether each image was correctly classified or classifiable. Thus, the certainty metrics can be used to identify images for expert review. Bootstrapping analyses further indicated that 90% of images were correctly classified with just 5 volunteers per image. Species classifications based on the plurality vote of multiple citizen scientists can provide a reliable foundation for large-scale monitoring of African wildlife.
+AU  - Swanson, Alexandra
+AU  - Kosmala, Margaret
+AU  - Lintott, Chris
+AU  - Packer, Craig
+JO  - Conservation Biology
+KW  - big data
+KW  -  camera traps
+KW  -  crowdsourcing
+KW  -  data aggregation
+KW  -  data validation
+KW  -  image processing
+KW  -  Snapshot Serengeti
+KW  -  Zooniversecámaras trampa
+KW  -  conjunto de datos
+KW  -  crowdsourcing
+KW  -  datos grandes
+KW  -  procesamiento de imágenes
+KW  -  Snapshot Serengeti
+KW  -  validación de datos
+KW  -  Zooniverse
+SP  - n/a
+EP  - -n/a
+T1  - A generalized approach for producing, quantifying, and validating citizen science data from wildlife images
+UR  - http://dx.doi.org/10.1111/cobi.12695
+PY  - 2016
+ER  - 
+
+
+TY  - JOUR
 AU  - Swanson, Alexandra
 AU  - Kosmala, Margaret
 AU  - Lintott, Chris
@@ -3306,6 +3398,56 @@ ER  -
 
 
 TY  - JOUR
+AB  - The census of exoplanets is incomplete for orbital distances larger than 1 AU. Here, we present 41 long-period planet candidates in 38 systems identified by Planet Hunters based on Kepler archival data (Q0-Q17). Among them, 17 exhibit only one transit, 14 have two visible transits, and 10 have more than three visible transits. For planet candidates with only one visible transit, we estimate their orbital periods based on transit duration and host star properties. The majority of the planet candidates in this work (75%) have orbital periods that correspond to distances of 1-3 AU from their host stars. We conduct follow-up imaging and spectroscopic observations to validate and characterize planet host stars. In total, we obtain adaptive optics images for 33 stars to search for possible blending sources. Six stars have stellar companions within 4". We obtain high-resolution spectra for 6 stars to determine their physical properties. Stellar properties for other stars are obtained from the NASA Exoplanet Archive and the Kepler Stellar Catalog by Huber et al. We validate 7 planet candidates that have planet confidence over 0.997 (3sigma level). These validated planets include 3 single-transit planets (KIC-3558849b, KIC-5951458b, and KIC-8540376c), 3 planets with double transits (KIC-8540376b, KIC-9663113b, and KIC-10525077b), and 1 planet with four transits (KIC-5437945b). This work provides assessment regarding the existence of planets at wide separations and the associated false positive rate for transiting observation (17%-33%). More than half of the long-period planets with at least three transits in this paper exhibit transit timing variations up to 41 hr, which suggest additional components that dynamically interact with the transiting planet candidates. The nature of these components can be determined by follow-up radial velocity and transit observations.
+AU  - Wang, J.
+AU  - Fischer, D.~A.
+AU  - Barclay, T.
+AU  - Picard, A.
+AU  - Ma, B.
+AU  - Bowler, B.~P.
+AU  - Schmitt, J.~R.
+AU  - Boyajian, T.~S.
+AU  - Jek, K.~J.
+AU  - LaCourse, D.
+AU  - Baranec, C.
+AU  - Riddle, R.
+AU  - Law, N.~M.
+AU  - Lintott, C.
+AU  - Schawinski, K.
+AU  - Simister, D.~J.
+AU  - Grégoire, B.
+AU  - Babin, S.~P.
+AU  - Poile, T.
+AU  - Jacobs, T.~L.
+AU  - Jebson, T.
+AU  - Omohundro, M.~R.
+AU  - Schwengeler, H.~M.
+AU  - Sejpka, J.
+AU  - Terentev, I.~A.
+AU  - Gagliano, R.
+AU  - Paakkonen, J.-P.
+AU  - Otnes Berge, H.~K.
+AU  - Winarski, T.
+AU  - Green, G.~R.
+AU  - Schmitt, A.~R.
+AU  - Kristiansen, M.~H.
+AU  - Hoekstra, A.
+JO  - \apj
+KW  - methods
+KW  -  observational
+KW  -  techniques
+KW  -  high angular resolution
+KW  -  techniques
+KW  -  spectroscopic
+Y2  - December
+SP  - 127
+T1  - Planet Hunters. VIII. Characterization of 41 Long-period Exoplanet Candidates from Kepler Archival Data
+VL  - 815
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
 AB  - It has recently been demonstrated that one can accurately derive galaxy morphology from particular primary and secondary isophotal shape estimates in the Sloan Digital Sky Survey (SDSS) imaging catalog. This was accomplished by applying Machine Learning techniques to the Galaxy Zoo morphology catalog. Using the broad bandpass photometry of the SDSS in combination with precise knowledge of galaxy morphology should help in estimating more accurate photometric redshifts for galaxies. Using the Galaxy Zoo separation for spirals and ellipticals in combination with SDSS photometry we attempt to calculate photometric redshifts. In the best case we find that the root-mean-square error for luminous red galaxies classified as ellipticals is as low as 0.0118. Given these promising results we believe better photometric redshift estimates for all galaxies in the SDSS (~350 million) will be feasible if researchers can also leverage their derived morphologies via Machine Learning. These initial results look to be promising for those interested in estimating weak lensing, baryonic acoustic oscillation, and other fields dependent upon accurate photometric redshifts.
 AU  - Way, M.~J.
 JO  - \apjl
@@ -3318,6 +3460,22 @@ SP  - L9
 T1  - Galaxy Zoo Morphology and Photometric Redshifts in the Sloan Digital Sky Survey
 VL  - 734
 PY  - 2011
+ER  - 
+
+
+TY  - JOUR
+AB  - Julia Wilkinson and a Zooniverse citizen-science team examine Arctic auroral data, using observations from the ill-fated 19th-century Arctic exploration ship USS Jeannette.
+AU  - Wilkinson, Julia
+AU  - Scott, Chris J
+AU  - Willis, David M
+JO  - Astronomy & Geophysics
+IS  - 2
+SP  - 2.37
+EP  - 2.42
+T1  - Going with the floe
+UR  - http://astrogeo.oxfordjournals.org/content/57/2/2.37.abstract
+VL  - 57
+PY  - 2016
 ER  - 
 
 
@@ -3390,49 +3548,6 @@ ER  -
 
 TY  - CONF
 AU  - Williams, A.C.
-AU  - Carroll, H.D.
-AU  - Wallin, J.F.
-AU  - Brusuelas, J.
-AU  - Fortson, L.
-AU  - Lamblin, A.-F.
-AU  - Yu, Haoyu
-T2  - e-Science (e-Science), 2014 IEEE 10th International Conference on
-KW  - bioinformatics
-KW  - data mining
-KW  - genetic algorithms
-KW  - humanities
-KW  - amino acid
-KW  - ancient Greek papyrus fragment
-KW  - ancient Greek text fragment
-KW  - computational biology
-KW  - culture
-KW  - genetic sequence alignment algorithm
-KW  - humanities
-KW  - linguistics
-KW  - multiline text identification
-KW  - noncontextual identification
-KW  - Amino acids
-KW  - Computational biology
-KW  - Databases
-KW  - Educational institutions
-KW  - Error analysis
-KW  - Genetics
-KW  - Matrices
-KW  - Ancient Greek
-KW  - genetic sequence alignment
-KW  - identification
-KW  - papyrus
-Y2  - Oct
-SP  - 5
-EP  - 10
-T1  - Identification of Ancient Greek Papyrus Fragments Using Genetic Sequence Alignment Algorithms
-VL  - 2
-PY  - 2014
-ER  - 
-
-
-TY  - CONF
-AU  - Williams, A.C.
 AU  - Wallin, J.F.
 AU  - Yu, Haoyu
 AU  - Perale, M.
@@ -3473,6 +3588,49 @@ Y2  - Oct
 SP  - 100
 EP  - 105
 T1  - A computational pipeline for crowdsourced transcriptions of Ancient Greek papyrus fragments
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AU  - Williams, A.C.
+AU  - Carroll, H.D.
+AU  - Wallin, J.F.
+AU  - Brusuelas, J.
+AU  - Fortson, L.
+AU  - Lamblin, A.-F.
+AU  - Yu, Haoyu
+T2  - e-Science (e-Science), 2014 IEEE 10th International Conference on
+KW  - bioinformatics
+KW  - data mining
+KW  - genetic algorithms
+KW  - humanities
+KW  - amino acid
+KW  - ancient Greek papyrus fragment
+KW  - ancient Greek text fragment
+KW  - computational biology
+KW  - culture
+KW  - genetic sequence alignment algorithm
+KW  - humanities
+KW  - linguistics
+KW  - multiline text identification
+KW  - noncontextual identification
+KW  - Amino acids
+KW  - Computational biology
+KW  - Databases
+KW  - Educational institutions
+KW  - Error analysis
+KW  - Genetics
+KW  - Matrices
+KW  - Ancient Greek
+KW  - genetic sequence alignment
+KW  - identification
+KW  - papyrus
+Y2  - Oct
+SP  - 5
+EP  - 10
+T1  - Identification of Ancient Greek Papyrus Fragments Using Genetic Sequence Alignment Algorithms
+VL  - 2
 PY  - 2014
 ER  - 
 
