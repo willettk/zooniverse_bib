@@ -1,0 +1,211 @@
+%%\documentclass[12pt,preprint]{aastex}
+
+%% manuscript produces a one-column, double-spaced document:
+
+\documentclass[twocolumn]{aastex6}
+
+\usepackage{natbib}
+\usepackage{enumerate}
+\bibliographystyle{apj}
+
+%% preprint2 produces a double-column, single-spaced document:
+
+%% \documentclass[preprint2]{aastex}
+%% \documentclass[preprint2,longabstract]{aastex}
+
+\newcommand{\vdag}{(v)^\dagger}
+\newcommand{\myemail}{willett@physics.umn.edu}
+
+%% You can insert a short comment on the title page using the command below.
+
+\slugcomment{Not to appear in Nonlearned J., 45.}
+
+\shorttitle{Zooniverse: Web-based Citizen Science Projects}
+\shortauthors{Willett}
+
+\begin{document}
+
+\title{Zooniverse: Web-based Citizen Science Projects}
+
+\author{Kyle W. Willett}
+\affil{School of Physics and Astronomy, University of Minnesota,
+    Minneapolis, MN 55455}
+
+\begin{abstract}
+This is a preliminary report on citizen science accounts.
+\end{abstract}
+
+\keywords{citizen science}
+
+\section{Introduction}
+
+The Zooniverse citizen science platform has produced dozens of peer-reviewed papers in a wide variety of fields based on crowdsourced data. Overall descriptions of the Zooniverse and citizen science are given in \citet{cle11,for12,mas13,sim14a,mar15}.
+
+\section{Space}
+
+\subsection{Galaxy Zoo}
+
+\subsubsection{Galaxy Zoo 1}
+
+The original Galaxy Zoo project is described in \citet{lin08}, with the catalog release in \citet{lin11}. The techniques for the classification debiasing are described in detail in \citet{bam09}. 
+
+Papers using Galaxy Zoo data for population studies include those of morphology and colour on environment \citep{bam09,ski09,hoy12}, AGN \citep{sch10a}, and mergers \citep{dar10,dar10a,dar11b,ten12}. We have used Galaxy Zoo to identify unusual populations of red spiral \citep{mas10a,cor12} and blue elliptical \citep{sch09} galaxies. \citet{won12} examine the low-mass end of post-starburst galaxies. \citet{toj13} analyze star-formation histories of galaxies as a function of color and morphology. \citet{mas10b} use Galaxy Zoo data to study dust in spiral galaxies. \citet{sch14,sme15} look at star-formation histories and their effects on morphology.
+
+Hanny's Voorwerp is a quasar light-echo discovered in the very early days of reviewing images \citep{lin09,joz09,ram10,sch10,kee12}. A further class of similar objects, called Voorwepjes, appear in \citet{kee12b,kee15}. A unique class of compact star-forming galaxies are the Green Peas, discovered by \citep{car09} and further studied by \citet{amo10,cha12} and \citet{haw12}. Orientation data of spiral galaxies were used by \citet{lan08}, \citet{slo09} and \citet{jim10}. 
+
+External projects using Galaxy Zoo data include studies of polar ring galaxies identified in the forum \citep{fin12}, and overlapping galaxies in \citet{kee13,kee14}. Photometric redshifts as a function of morphology were studied by \citet{way11}. \citet{rod13} studied the intrinsic shapes of galaxies in SDSS.
+
+\citet{ban10} reproduce the morphologies from Galaxy Zoo with a machine-learning algorithm. 
+
+\subsubsection{Galaxy Zoo 2}
+
+The Galaxy Zoo 2 (GZ2) project paper and data release is \citet{wil13}.
+
+We used GZ2 data to study bars in \citet{hoy11,mas11c,mas12a,che13,gal15}. Dust lanes in early-type galaxies appear in \citet{kav12a,sha12b}; this is also related to tidal dwarf galaxies \citep{kav12} and spheroidal post-mergers \citep{car12,kav13a}. \citet{ski12} studied the environmental dependence of bars and bulges in disc galaxies. \citet{cas13} quantify morphological indicators of galaxy interaction, centering on loosely-wound spiral arms. \citet{sim13} use GZ2 galaxies to identify a bulgeless population with actively growing black holes. \citet{wil15} studies the effect of disk morphology on the SF-stellar~mass relation.
+
+\citet{dav12a,dav14} trained an algorithm to detect spiral-arm galaxy structure calibrated using GZ2 data. \citet{die15} developed a convolutional neural network to replicate the results of the GZ2 catalog in conjuction with a Kaggle competition.
+
+\subsubsection{Galaxy Zoo: Hubble}
+
+The Galaxy Zoo: Hubble (GZH) project paper and data release is Willett et al. (2016, in prep).
+
+\citet{mel14} used early GZH data to measure the declining bar fraction as a function of redshift. \citet{che15} investigate the relationship between bars and AGN over the various surveys in GZH.
+
+\subsubsection{Galaxy Zoo: CANDELS}
+
+The Galaxy Zoo: CANDELS (GZC) project paper and data release is Simmons et al. (2016, submitted).
+
+\citet{sim14} use early GZC data to measure the bar fraction at $z\sim2$.
+
+\subsection{Galaxy Zoo: Supernova}
+
+The Galaxy Zoo: Supernova project was described in \citet{smi11}, and an improved dynamic Bayesian classification system used for data analysis in \citet{sim13a}. GZ: Supernova results also appear in papers by \citet{mag11,mag12a} and \citet{lev13}. 
+
+\subsection{Galaxy Zoo: Mergers}
+
+Galaxy Zoo: Mergers was a separate project from Galaxy Zoo, using simulations to characterize the dynamical effects of major mergers \citep{hol16}.
+
+\subsection{Planet Hunters}
+
+Planet Hunters has identified many exoplanet candidates using public archive data from the {\it Kepler} spacecraft. Unlike other Zooniverse papers, most publications have been explicitly numbered in a series:
+
+\begin{enumerate}[(I)]
+
+\item \citet{fis12} - first two candidates (PH1, PH2) discovered by the project
+\item \citet{sch12} - inventory of Kepler short-period planets
+\item \citet{sch13} - first circumbinary planet in a quadruple star system
+\item \citet{lin13} - new candidates from Kepler Quarter 2
+\item \citet{wan13} - a confirmed Jupiter-size planet in the habitable zone
+\item \citet{sch14c} - independent characterization of KOI-351 and other long-period candidates
+\item \citet{sch14b} - discovery of new planet (PH3 c) and mass measurements of PH3 b and PH3 d
+\item \citet{wan15} - measurements of 41 long-period candidates
+\item \citet{boy16} - ``Tabby's Star'', a deeply unusual object with up to 20\% aperiodic dips in flux
+\item \citet{sch16} - search for nearby neighbors of 75 K2 targets
+
+\end{enumerate}
+
+\noindent In non-numbered papers, \citet{kat14} credit Planet Hunters in helping to identify an unusually active dwarf nova. \citet{gie13} describes the discovery of a new cataclysmic variable.
+
+\subsection{Solar Stormwatch}
+
+Solar Stormwatch used citizen science data to track 2D structure of coronal mass ejections \citep{sav12}. They also inferred the distribution of interplanetary dust between 0.96 and 1.04~AU \citep{dav12}. Their coronal mass ejection catalog \citep{bar14} was compared against results from experts and automated algorithms in \citet{tuc14,bar15}.
+
+\citet{wil16} combines results from Solar Stormwatch and Old Weather in a novel way of measuring historical aurora activity.
+
+\subsection{Milky Way Project}
+
+The Milky Way project design and data release appears in \citet{sim12a}. \citet{ken12} use this data to make a statistical study of massive star formation associated with infrared bubbles, and their proximity to cold clumps from ATLASGAL \citep{ken16}. \citet{ker15} describe the compact infrared sources dubbed ``yellowballs''.
+
+\citet{bea14} leverage the training set of the MWP to create Brut, an automated algorithm for identifying bubbles in infrared images of the midplane.
+
+\subsection{Space Warps}
+
+Results and methodology for Space Warps are given by \citet{mar16} and \citet{mor16}. The project discovered the ``Red Radio Ring'', a gravitationally-lensed hyperluminous galaxy at $z=2.553$ \citep{gea15}. Users also attempted to model the mass distributions of the lensing systems \citep{kun15}.
+
+\subsection{Radio Galaxy Zoo}
+
+The project description for Radio Galaxy Zoo is \citet{ban15}. 
+
+\subsection{Moon Zoo}
+
+Preliminary results on crater counts at the Apollo~17 landing site are in \citet{bug16}.
+
+\subsection{Snapshot Supernova}
+
+The Snapshot Supernova project was developed for Stargazing Live in 2015. \citet{cam15,car15} made spectroscopic classifications of the newly-discovered optical transients.
+
+\subsection{Andromeda Project}
+
+The first catalog of stellar clusters from Andromeda is \citet{joh15}.
+
+\subsection{Ice Hunters}
+
+\citet{par13} discovered 2011~HM$_{102}$, a high-inclination L5 Neptune Trojan, which was recovered in a parallel effort by Ice Hunters.
+
+\section{Nature}
+
+\subsection{Whale FM}
+\citet{say13} studied repeated call types in short-finned pilot whales using Whale FM data. \citet{sha14} analyzed whale calls using computer algorithms in attempt to accurately identify different species.
+
+\subsection{Snapshot Serengeti}
+
+The project description of Snapshot Serengeti is \citet{swa15}, with validation methods in \citet{swa16}. Data is used to estimate the spatial density of lions in \citet{cus15}.
+
+\section{Climate}
+
+\subsection{Cyclone Center}
+
+\citet{hen14} show that the modern global tropical cyclone record is littered with uncertainty; crowdsourcing could help clean up the mess.
+
+\section{Medicine}
+
+\subsection{Cell Slider}
+
+\citet{can15} describe Cell Slider and comparison of tracking estrogren receptors to experts.
+
+\section{Humanities}
+
+\subsection{Ancient Lives}
+
+Ancient Lives is a humanities project transcribing Greek papyri. This included the publication of a new volume for the Oxyrhynchus Papyri \citep{bru13}. The algorithms and pipeline are described in \citet{wil14a,wil14}.
+
+\subsection{Operation War Diary}
+
+\citet{gra16} analyzes data for WWI British infantry and cavalry divisions, showing the difference in time spent in combat between the various divisions.
+
+\section{Citizen-science: sociology, education research, and machine learning}
+
+\subsection{Sociology and meta-studies}
+
+Motivations of Zooniverse users were studied in \citet{rad10,rad13,jac15}. \citet{man11b} did an interpretive study of the meanings that citizen scientists make when using Galaxy Zoo. \citet{cox15} defines various metrics of success for citizen science projects. \citet{eve13,eve14,gre14} discuss gamification and user engagement in Old Weather. \citet{jac16} examines trajectories of newcomers to the Zooniverse. \citet{jen13} research creativity in web-based citizen science. \citet{luc14,mug14,mug15} examine online communities in Seafloor Explorer and Planet Hunters.
+
+\citet{klo13,pra13,mas16} examines how and what volunteers learn through participation.
+
+\citet{chr12,mad14} describe contributions of citizen science to astronomy research.
+
+\subsection{Education research}
+
+\citet{sla11} describe using Galaxy Zoo as a teaching tool for stimulating scientific inquiry. \citet{bor13} summarizes Zooniverse tools for formal and informal audience engagement.
+
+
+\acknowledgments
+
+{\it Facilities:} 
+\facility{SDSS},
+\facility{HST},
+\facility{Spitzer},
+\facility{Chandra},
+\facility{Kepler},
+\facility{STEREO},
+\facility{LRO},
+\facility{CFHT},
+\facility{Magellan},
+\facility{VLA},
+\facility{ATCA},
+\facility{WISE},
+
+\bibliography{../zooniverse}
+\end{document}
+
+%%
+%% End of file `sample.tex'.

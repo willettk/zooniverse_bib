@@ -1,4 +1,354 @@
 TY  - JOUR
+AU  - Barnard, L.
+AU  - Scott, C. J.
+AU  - Owens, M.
+AU  - Lockwood, M.
+AU  - Crothers, S. R.
+AU  - Davies, J. A.
+AU  - Harrison, R. A.
+JO  - Space Weather
+KW  - Space weather
+KW  -  Coronal mass ejections
+KW  -  Forecasting
+KW  -  coronal mass ejections
+IS  - 10
+SP  - 709
+EP  - -725
+T1  - Differences between the CME fronts tracked by an expert, an automated algorithm, and the Solar Stormwatch project
+UR  - http://dx.doi.org/10.1002/2015SW001280
+VL  - 13
+PY  - 2015
+ER  - 
+
+
+TY  - CONF
+AU  - Jackson, C.B.
+AU  - \Osterlund, C.
+AU  - Mugar, G.
+AU  - Hassman, K.D.
+AU  - Crowston, K.
+T2  - System Sciences (HICSS), 2015 48th Hawaii International Conference on
+KW  - Internet
+KW  - groupware
+KW  - knowledge acquisition
+KW  - citizen science
+KW  - crowdsourcing
+KW  - knowledge acquisition
+KW  - legitimate peripheral participation
+KW  - motivational factor
+KW  - sustained participation
+KW  - Communities
+KW  - Crowdsourcing
+KW  - Electronic publishing
+KW  - Encyclopedias
+KW  - Planets
+KW  - Citizen Science
+KW  - Crowdsourcing
+KW  - Legitimate peripheral participation
+KW  - Motivation
+Y2  - Jan
+SP  - 1624
+EP  - 1634
+T1  - Motivations for Sustained Participation in Crowdsourcing: Case Studies of Citizen Science on the Role of Talk
+PY  - 2015
+ER  - 
+
+
+TY  - SER
+AU  - Simpson, Edwin
+AU  - Roberts, Stephen
+AU  - Psorakis, Ioannis
+AU  - Smith, Arfon
+T2  - Decision Making and Imperfection
+ED  - Guy, Tatiana
+ED  - Karny, Miroslav
+ED  - Wolpert, David
+SP  - 1
+EP  - -35
+PB  - Springer Berlin Heidelberg
+T1  - Dynamic bayesian combination of multiple imperfect classifiers
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - Given an approximately centered image of a spiral galaxy, we describe an entirely automated method that finds, centers, and sizes the galaxy and then automatically extracts structural information about the spiral arms. For each arm segment found, we list the pixels in that segment and perform a least-squares fit of a logarithmic spiral arc to the pixels in the segment. The algorithm takes about 1 minute per galaxy, and can easily be scaled using parallelism. We have run it on all ~644,000 Sloan objects classified as "galaxy" and large enough to observe some structure. Our algorithm is stable in the sense that the statistics across a large sample of galaxies vary smoothly based on algorithmic parameters, although results for individual galaxies can sometimes vary in a non-smooth but easily understood manner. We find a very good correlation between our quantitative description of spiral structure and the qualitative description provided by humans via Galaxy Zoo. In addition, we find that pitch angle often varies significantly segment-to-segment in a single spiral galaxy, making it difficult to define "the" pitch angle for a single galaxy. Finally, we point out how complex arm structure (even of long arms) can lead to ambiguity in defining what an "arm" is, leading us to prefer the term "arm segments".
+AU  - Davis, D.~R.
+AU  - Hayes, W.~B.
+JO  - ArXiv e-prints
+KW  - Astrophysics - Galaxy Astrophysics
+KW  -  Astrophysics - Cosmology and Extragalactic Astrophysics
+Y2  - February
+T1  - Scalable Automated Detection of Spiral Galaxy Arm Segments
+PY  - 2014
+ER  - 
+
+
+TY  - CONF
+AU  - Davis, Darren R.
+AU  - Hayes, Wayne B.
+T2  - Computer Vision and Pattern Recognition (CVPR), 2012 IEEE Conference on
+KW  - astronomical image processing
+KW  - galaxies
+KW  - image classification
+KW  - automated measurement
+KW  - automated quantitative description
+KW  - fundamental astrophysical questions
+KW  - human classifications
+KW  - manually-guided efforts
+KW  - measurement subjectivity elimination
+KW  - otherwise-overwhelming image quantities
+KW  - pixel clusters
+KW  - sky survey image translation
+KW  - spiral galaxy arm-segment structure
+KW  - structural information extraction
+KW  - Brightness
+KW  - Extraterrestrial measurements
+KW  - Humans
+KW  - Shape
+KW  - Spirals
+KW  - Transforms
+KW  - Windings
+SP  - 1138
+EP  - 1145
+T1  - Automated quantitative description of spiral galaxy arm-segment structure
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - We present a statistical observational study of the tidal dwarf (TD) population in the nearby Universe by exploiting a large, homogeneous catalogue of galaxy mergers compiled from the Sloan Digital Sky Survey. 95 per cent of TD-producing mergers involve two spiral progenitors (typically both in the blue cloud), while most remaining systems have at least one spiral progenitor. The fraction of TD-producing mergers where both parents are early-type galaxies is less than 2 per cent, suggesting that TDs are unlikely to form in such mergers. The bulk of TD-producing mergers inhabit a field environment and have mass ratios greater than ˜1:7 (the median value is 1:2.5). TDs forming at the tidal-tail tips are ˜4 times more massive than those forming at the base of the tails. TD stellar masses are less than 10 per cent of the stellar masses of their parents (the median is 0.6 per cent) and lie within 15 optical half-light radii of their parent galaxies. The TD population is typically bluer than the parents, with a median offset of ˜0.3 mag in the (g - r) colour and the TD colours are not affected by the presence of active galactic nuclei (AGN) activity in their parents. An analysis of their star formation histories indicates that TDs contain both newly formed stars (with a median age of ˜30 Myr) and old stars drawn from the parent discs, each component probably contributing roughly equally to the stellar mass of the object. Thus TDs are not formed purely through gas condensation in tidal tails but host a significant component of old stars from the parent discs. Finally, an analysis of the TD contribution to the observed dwarf-to-massive galaxy ratio in the local Universe indicates that ˜6 per cent of dwarfs in nearby clusters may have a tidal origin, if TD production rates in nearby mergers are representative of those in the high-redshift Universe. Even if TD production rates at high redshift were several factors higher, it seems unlikely that the entire dwarf galaxy population today is a result of merger activity over the lifetime of the Universe.
+AU  - Kaviraj, S.
+AU  - Darg, D.
+AU  - Lintott, C.
+AU  - Schawinski, K.
+AU  - Silk, J.
+JO  - \mnras
+KW  - galaxies
+KW  -  active
+KW  -  galaxies
+KW  -  dwarf
+KW  -  galaxies
+KW  -  formation
+KW  -  galaxies
+KW  -  interactions
+KW  -  galaxies
+KW  -  starburst
+Y2  - January
+SP  - 70
+EP  - 79
+T1  - Tidal dwarf galaxies in the nearby Universe
+VL  - 419
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - We use multiwavelength (0.12-500 mum) photometry from Herschel-ATLAS, WISE, UKIDSS, SDSS and GALEX to study 23 nearby spheroidal galaxies with prominent dust lanes (DLSGs). DLSGs are considered to be remnants of recent minor mergers, making them ideal laboratories for studying both the interstellar medium (ISM) of spheroids and minor-merger-driven star formation in the nearby Universe. The DLSGs exhibit star formation rates (SFRs) between 0.01 and 10 M&sun; yr-1, with a median of 0.26 M&sun; yr-1 (a factor of 3.5 greater than the average SG). The median dust mass, dust-to-stellar mass ratio and dust temperature in these galaxies are around 107.6 M&sun;, ≈0.05 per cent and ≈19.5 K, respectively. The dust masses are at least a factor of 50 greater than that expected from stellar mass loss and, like the SFRs, show no correlation with galaxy luminosity, suggesting that both the ISM and the star formation have external drivers. Adopting literature gas-to-dust ratios and star formation histories derived from fits to the panchromatic photometry, we estimate that the median current and initial gas-to-stellar mass ratios in these systems are ≈4 and ≈7 per cent, respectively. If, as indicated by recent work, minor mergers that drive star formation in spheroids with (NUV - r) > 3.8 (the colour range of our DLSGs) have stellar mass ratios between 1:6 and 1:10, then the satellite gas fractions are likely >=50 per cent.
+AU  - Kaviraj, S.
+AU  - Rowlands, K.
+AU  - Alpaslan, M.
+AU  - Dunne, L.
+AU  - Ting, Y.~S.
+AU  - Bureau, M.
+AU  - Shabala, S.
+AU  - Lintott, C.~J.
+AU  - Smith, D.~J.~B.
+AU  - Agius, N.
+AU  - Auld, R.
+AU  - Baes, M.
+AU  - Bourne, N.
+AU  - Cava, A.
+AU  - Clements, D.~L.
+AU  - Cooray, A.
+AU  - Dariush, A.
+AU  - De Zotti, G.
+AU  - Driver, S.~P.
+AU  - Eales, S.
+AU  - Hopwood, R.
+AU  - Hoyos, C.
+AU  - Ibar, E.
+AU  - Maddox, S.
+AU  - Michałowski, M.~J.
+AU  - Sansom, A.~E.
+AU  - Smith, M.
+AU  - Valiante, E.
+JO  - \mnras
+KW  - galaxies
+KW  -  elliptical and lenticular
+KW  -  cD
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  formation
+KW  -  galaxies
+KW  -  interactions
+KW  -  galaxies
+KW  -  ISM
+Y2  - September
+T1  - A Herschel\starf-ATLAS study of dusty spheroids: probing the minor-merger process in the local Universe
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AB  - By modelling the axis ratio distribution of Sloan Digital Sky Survey (SDSS) Data Release 8 galaxies, we find the intrinsic 3D shapes of spirals and ellipticals. We use morphological information from the Galaxy Zoo project and assume a non-parametric distribution intrinsic of shapes, while taking into account dust extinction. We measure the dust extinction of the full sample of spiral galaxies and find a smaller value than previous estimations, with an edge-on extinction of E_0 = 0.284^+0.015_-0.026 in the SDSS r band. We also find that the distribution of minor to major axis ratio has a mean value of 0.267 $\pm$ 0.009, slightly larger than previous estimates mainly due to the lower extinction used; the same affects the circularity of galactic discs, which are found to be less round in shape than in previous studies, with a mean ellipticity of 0.215 $\pm$ 0.013. For elliptical galaxies, we find that the minor to major axis ratio, with a mean value of 0.584 $\pm$ 0.006, is larger than previous estimations due to the removal of spiral interlopers present in samples with morphological information from photometric profiles. These interlopers are removed when selecting ellipticals using Galaxy Zoo data. We find that the intrinsic shapes of galaxies and their dust extinction vary with absolute magnitude, colour and physical size. We find that bright elliptical galaxies are more spherical than faint ones, a trend that is also present with galaxy size, and that there is no dependence of elliptical galaxy shape with colour. For spiral galaxies, we find that the reddest ones have higher dust extinction as expected, due to the fact that this reddening is mainly due to dust. We also find that the thickness of discs increases with luminosity and size, and that brighter, smaller and redder galaxies have less round discs.
+AU  - Rodr\iguez, S.
+AU  - Padilla, N.~D.
+JO  - \mnras
+KW  - surveys
+KW  -  galaxies
+KW  -  fundamental parameters
+KW  -  galaxies
+KW  -  general
+KW  -  galaxies
+KW  -  structure
+Y2  - September
+SP  - 2153
+EP  - 2166
+T1  - The intrinsic shape of galaxies in SDSS/Galaxy Zoo
+VL  - 434
+PY  - 2013
+ER  - 
+
+
+TY  - JOUR
+AU  - Hawley, S.~A.
+JO  - \pasp
+KW  - ISM
+Y2  - January
+SP  - 21
+EP  - 35
+T1  - Abundances in ''''Green Pea'''' Star-forming Galaxies
+VL  - 124
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AU  - Amor\in, R.~O.
+AU  - Pérez-Montero, E.
+AU  - V\ilchez, J.~M.
+JO  - \apjl
+KW  - galaxies
+KW  -  abundances
+KW  -  galaxies
+KW  -  dwarf
+KW  -  galaxies
+KW  -  evolution
+KW  -  galaxies
+KW  -  starburst
+Y2  - June
+SP  - L128
+EP  - L132
+T1  - On the Oxygen and Nitrogen Chemical Abundances and the Evolution of the ''Green Pea'' Galaxies
+VL  - 715
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - We present high- and intermediate resolution radio observations of the central region in the spiral galaxy IC 2497, performed using the European VLBI Network (EVN) at 18 cm, and the Multi-Element Radio Linked Interferometer Network (MERLIN) at 18 cm and 6 cm. We detect two compact radio sources, with brightness temperatures above 105 K, suggesting that they are related to AGN activity. We show that the total 18 cm radio emission from the galaxy is dominated neither by these compact sources nor large-scale emission, but extended emission confined within a sub-kpc central region. IC 2497 therefore appears as a typical luminous infrared galaxy that exhibits a nuclear starburst with a massive star formation rate (M > 5 M&sun;) of 12.4 M&sun;/yr. These results are in line with the hypothesis that the ionisation nebula ``Hanny's Voorwerp'' at a distance of ~ 15-25 kpc from the galaxy is ionised by the radiation cone of the AGN.  Table 2 is only available in electronic form at http://www.aanda.org
+AU  - Rampadarath, H.
+AU  - Garrett, M.~A.
+AU  - Józsa, G.~I.~G.
+AU  - Muxlow, T.
+AU  - Oosterloo, T.~A.
+AU  - Paragi, Z.
+AU  - Beswick, R.
+AU  - van Arkel, H.
+AU  - Keel, W.~C.
+AU  - Schawinski, K.
+JO  - \aap
+KW  - galaxies
+KW  -  active
+KW  -  galaxies
+KW  -  ISM
+KW  -  galaxies
+KW  -  individual
+KW  -  IC 2497
+KW  -  galaxies
+KW  -  star formation
+Y2  - July
+SP  - L8
+T1  - Hanny's Voorwerp . Evidence of AGN activity and a nuclear starburst in the central regions of IC 2497
+VL  - 517
+PY  - 2010
+ER  - 
+
+
+TY  - JOUR
+AB  - We present Hubble Space Telescope imaging and spectroscopy, along with supporting Galaxy Evolution Explorer and ground-based data, for the extended high-ionization cloud known as Hanny's Voorwerp, near the spiral galaxy IC 2497. Wide Field Camera 3 images show complex dust absorption near the nucleus of IC 2497. The galaxy core in these data is, within the errors, coincident with the very long baseline interferometry core component marking the active nucleus. Space Telescope Imaging Spectrograph (STIS) optical spectra show the active galactic nucleus (AGN) to be a type 2 Seyfert galaxy of rather low luminosity. The derived ionization parameter log U = -3.5 is in accordance with the weak X-ray emission from the AGN. We find no high-ionization gas near the nucleus, adding to the evidence that the AGN is currently at a low radiative output (perhaps with the central black hole having switched to a mode dominated by kinetic energy). The nucleus is accompanied by an expanding ring of ionized gas ≈500 pc in projected diameter on the side opposite Hanny's Voorwerp. Where sampled by the STIS slit, this ring has Doppler offset ≈300 km s-1 from the nucleus, implying a kinematic age <7 × 105 years. Narrowband [O III] and Halpha+[N II] Advanced Camera for Surveys images show fine structure in Hanny's Voorwerp, including limb-brightened sections suggesting modest interaction with a galactic outflow and small areas where Halpha is strong. We identify these latter regions as regions ionized by recent star formation, in contrast to the AGN ionization of the entire cloud. These candidate "normal" H II regions contain blue continuum objects, whose colors are consistent with young stellar populations; they appear only in a 2 kpc region toward IC 2497 in projection, perhaps meaning that the star formation was triggered by compression from a narrow outflow. The ionization-sensitive ratio [O III]/Halpha shows broad bands across the object at a skew angle to the galaxy nucleus, and no discernible pattern near the prominent "hole" in the ionized gas. The independence of ionization and surface brightness (SB) suggests that there is substantial spatial structure which remains unresolved, to such an extent that the SB samples the number of denser filaments rather than the characteristic density in emission regions; this might be a typical feature of gas in tidal tails, currently measurable only when such gas is highly ionized. These results fit with our picture of an ionization echo from an AGN whose ionizing luminosity has dropped by a factor >100 (and possibly much more) within the last (1-2) × 105 years; we suggest a tentative sequence of events in IC 2497 and discuss implications of such rapid fluctuations in luminosity for our understanding of AGN demographics. Based on observations with the NASA/ESA Hubble Space Telescope obtained at the Space Telescope Science Institute, which is operated by the Association of Universities for Research in Astronomy, Inc., under NASA contract No. NAS5-26555.
+AU  - Keel, W.~C.
+AU  - Lintott, C.~J.
+AU  - Schawinski, K.
+AU  - Bennert, V.~N.
+AU  - Thomas, D.
+AU  - Manning, A.
+AU  - Chojnowski, S.~D.
+AU  - van Arkel, H.
+AU  - Lynn, S.
+JO  - \aj
+KW  - galaxies
+KW  -  active
+KW  -  galaxies
+KW  -  individual
+KW  -  IC 2497
+KW  -  quasars
+KW  -  general
+Y2  - August
+SP  - 66
+T1  - The History and Environment of a Faded Quasar: Hubble Space Telescope Observations of Hanny's Voorwerp and IC 2497
+VL  - 144
+PY  - 2012
+ER  - 
+
+
+TY  - JOUR
+AB  - We present multi-wavelength radio observations in the direction of the spiral galaxy IC 2497 and the neighbouring emission nebula known as ``Hanny's Voorwerp''. Our WSRT continuum observations at 1.4 GHz and 4.9 GHz reveal the presence of extended emission at the position of the nebulosity, although the bulk of the emission remains unresolved at the centre of the galaxy. e-VLBI 1.65 GHz observations show that on the milliarcsecond-scale, a faint central compact source is present in IC 2497 with a brightness temperature in excess of 4 × 10^5 K. With the WSRT, we detect a large reservoir of neutral hydrogen in the proximity of IC 2497. One cloud complex with a total mass of 5.6 × 10^9 M_&sun; to the South of IC 2497 encompasses Hanny's Voorwerp. Another cloud complex is located at the position of a small galaxy group ˜100 kpc to the West of IC 2497 with a mass of 2.9 × 10^9 M_&sun;. Our data hint at a physical connection between the complexes. We also detect H I in absorption against the central continuum source of IC 2497. Our observations strongly support the hypothesis that Hanny's Voorwerp is being ionised by an AGN in the centre of IC 2497. In this scenario, a plasma jet associated with the AGN clears a path through the ISM/IGM in the direction of the nebulosity. The large-scale radio continuum emission possibly originates from the interaction between this jet and the large cloud complex in which Hanny's Voorwerp is embedded. The H I kinematics do not fit regular rotation, thus the cloud complex around IC 2497 is probably of tidal origin. From the H I absorption against the central source, we derive a lower limit of 2.8 $\pm$ 0.4 × 1021 atoms cm-2 to the H I column density. However, assuming non-standard conditions for the detected gas, we cannot exclude the possibility that the AGN in the centre of IC 2497 is Compton-thick.
+AU  - Józsa, G.~I.~G.
+AU  - Garrett, M.~A.
+AU  - Oosterloo, T.~A.
+AU  - Rampadarath, H.
+AU  - Paragi, Z.
+AU  - van Arkel, H.
+AU  - Lintott, C.
+AU  - Keel, W.~C.
+AU  - Schawinski, K.
+AU  - Edmondson, E.
+JO  - \aap
+KW  - galaxies
+KW  -  active
+KW  -  galaxies
+KW  -  IGM
+KW  -  galaxies
+KW  -  individual
+KW  -  IC 2497
+Y2  - June
+SP  - L33
+EP  - L36
+T1  - Revealing Hanny's Voorwerp: radio observations of IC 2497
+VL  - 500
+PY  - 2009
+ER  - 
+
+
+TY  - JOUR
+AB  - We review the expanding, internet-enabled, and rapidly evolving field of citizen astronomy, focusing on research projects in stellar, extragalactic, and planetary science that have benefited from the participation of members of the public. These volunteers contribute in various ways: making and analyzing new observations, visually classifying features in images and light curves, exploring models constrained by astronomical data sets, and initiating new scientific enquiries. The most productive citizen astronomy projects involve close collaboration between the professionals and amateurs involved and occupy scientific niches not easily filled by great observatories or machine learning methods: Citizen astronomers are motivated by being of service to science, as well as by their interest in the subject. We expect participation and productivity in citizen astronomy to increase, as data sets get larger and citizen science platforms become more efficient. Opportunities include engaging citizens in ever-more advanced analyses and facilitating citizen-led enquiry through professional tools designed with citizens in mind.
+AU  - Marshall, P.~J.
+AU  - Lintott, C.~J.
+AU  - Fletcher, L.~N.
+JO  - \araa
+Y2  - August
+SP  - 247
+EP  - 278
+T1  - Ideas for Citizen Science in Astronomy
+VL  - 53
+PY  - 2015
+ER  - 
+
+
+TY  - JOUR
 AB  - We analyse the relationships between galaxy morphology, colour, environment and stellar mass using data for over 105 objects from Galaxy Zoo, the largest sample of visually classified morphologies yet compiled. We conclusively show that colour and morphology fractions are very different functions of environment. Both colour and morphology are sensitive to stellar mass. However, at fixed stellar mass, while colour is also highly sensitive to environment, morphology displays much weaker environmental trends. Only a small part of both the morphology-density and colour-density relations can be attributed to the variation in the stellar-mass function with environment.  Galaxies with high stellar masses are mostly red in all environments and irrespective of their morphology. Low stellar-mass galaxies are mostly blue in low-density environments, but mostly red in high-density environments, again irrespective of their morphology. While galaxies with early-type morphology do always have higher red fractions, this is subdominant compared to the dependence of red fraction on stellar mass and environment. The colour-density relation is primarily driven by variations in colour fractions at fixed morphology, in particular the fraction of spiral galaxies that have red colours, and especially at low stellar masses. We demonstrate that our red spirals primarily include galaxies with true spiral morphology, and that they constitute an additional population to the S0 galaxies considered by previous studies. We clearly show there is an environmental dependence for colour beyond that for morphology. The environmental transformation of galaxies from blue to red must occur on significantly shorter time-scales than the transformation from spiral to early-type.  We also present many of our results as functions of the distance to the nearest galaxy group. This confirms that the environmental trends we present are not specific to the manner in which environment is quantified, but nevertheless provides plain evidence for an environmental process at work in groups. However, the properties of group members show little dependence on the total mass of the group they inhabit, at least for group masses .  Before using the Galaxy Zoo morphologies to produce the above results, we first quantify a luminosity-, size- and redshift-dependent classification bias that affects this data set, and probably most other studies of galaxy population morphology. A correction for this bias is derived and applied to produce a sample of galaxies with reliable morphological-type likelihoods, on which we base our analysis.  This publication has been made possible by the participation of more than 100, 000 volunteers in the Galaxy Zoo project. Their contributions are acknowledged at http://www.galaxyzoo.org/Volunteers.aspx  E-mail: steven.bamford@nottingham.ac.uk
 AU  - Bamford, S.~P.
 AU  - Nichol, R.~C.
@@ -3220,7 +3570,7 @@ ER  -
 
 
 TY  - JOUR
-AB  - Citizen science has the potential to expand the scope and scale of research in ecology and conservation, but many professional researchers remain skeptical of data produced by nonexperts. We devised an approach for producing accurate, reliable data from untrained, nonexpert volunteers. On the citizen science website www.snapshotserengeti.org, more than 28,000 volunteers classified 1.51 million images taken in a large-scale camera-trap survey in Serengeti National Park, Tanzania. Each image was circulated to, on average, 27 volunteers, and their classifications were aggregated using a simple plurality algorithm. We validated the aggregated answers against a data set of 3829 images verified by experts and calculated 3 certainty metrics—level of agreement among classifications (evenness), fraction of classifications supporting the aggregated answer (fraction support), and fraction of classifiers who reported “nothing here” for an image that was ultimately classified as containing an animal (fraction blank)—to measure confidence that an aggregated answer was correct. Overall, aggregated volunteer answers agreed with the expert-verified data on 98% of images, but accuracy differed by species commonness such that rare species had higher rates of false positives and false negatives. Easily calculated analysis of variance and post-hoc Tukey tests indicated that the certainty metrics were significant indicators of whether each image was correctly classified or classifiable. Thus, the certainty metrics can be used to identify images for expert review. Bootstrapping analyses further indicated that 90% of images were correctly classified with just 5 volunteers per image. Species classifications based on the plurality vote of multiple citizen scientists can provide a reliable foundation for large-scale monitoring of African wildlife.
+AB  - Citizen science has the potential to expand the scope and scale of research in ecology and conservation, but many professional researchers remain skeptical of data produced by nonexperts. We devised an approach for producing accurate, reliable data from untrained, nonexpert volunteers. On the citizen science website www.snapshotserengeti.org, more than 28,000 volunteers classified 1.51 million images taken in a large-scale camera-trap survey in Serengeti National Park, Tanzania. Each image was circulated to, on average, 27 volunteers, and their classifications were aggregated using a simple plurality algorithm. We validated the aggregated answers against a data set of 3829 images verified by experts and calculated 3 certainty metrics---level of agreement among classifications (evenness), fraction of classifications supporting the aggregated answer (fraction support), and fraction of classifiers who reported ``nothing here'' for an image that was ultimately classified as containing an animal (fraction blank)---to measure confidence that an aggregated answer was correct. Overall, aggregated volunteer answers agreed with the expert-verified data on 98% of images, but accuracy differed by species commonness such that rare species had higher rates of false positives and false negatives. Easily calculated analysis of variance and post-hoc Tukey tests indicated that the certainty metrics were significant indicators of whether each image was correctly classified or classifiable. Thus, the certainty metrics can be used to identify images for expert review. Bootstrapping analyses further indicated that 90% of images were correctly classified with just 5 volunteers per image. Species classifications based on the plurality vote of multiple citizen scientists can provide a reliable foundation for large-scale monitoring of African wildlife.
 AU  - Swanson, Alexandra
 AU  - Kosmala, Margaret
 AU  - Lintott, Chris
